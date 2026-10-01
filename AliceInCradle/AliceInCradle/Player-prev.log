@@ -1,0 +1,526 @@
+Mono path[0] = 'C:/Program Files/NanameHacha/Alice in Cradle Trial Version/AliceInCradle_Data/Managed'
+Mono config path = 'C:/Program Files/NanameHacha/Alice in Cradle Trial Version/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+Initialize engine version: 2022.3.62f2 (7670c08855a9)
+[Subsystems] Discovering subsystems at path C:/Program Files/NanameHacha/Alice in Cradle Trial Version/AliceInCradle_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 5070 (ID=0x2f04)
+    Vendor:   NVIDIA
+    VRAM:     11942 MB
+    Driver:   32.0.15.9683
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.109 seconds
+- Finished resetting the current domain, in  0.001 seconds
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+UnloadTime: 7.961300 ms
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Unloading 6 Unused Serialized files (Serialized files now loaded: 17)
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+UnloadTime: 4.470700 ms
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 3585.
+Total: 20.046800 ms (FindLiveObjects: 0.173400 ms CreateObjectMapping: 0.056900 ms MarkObjects: 19.752300 ms  DeleteObjects: 0.064000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 18)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 4939.
+Total: 18.993400 ms (FindLiveObjects: 0.236000 ms CreateObjectMapping: 0.069300 ms MarkObjects: 18.668700 ms  DeleteObjects: 0.019200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 38)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 5633.
+Total: 17.111100 ms (FindLiveObjects: 0.296300 ms CreateObjectMapping: 0.069700 ms MarkObjects: 16.725200 ms  DeleteObjects: 0.019700 ms)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 5881.
+Total: 18.266900 ms (FindLiveObjects: 0.321300 ms CreateObjectMapping: 0.086500 ms MarkObjects: 17.803800 ms  DeleteObjects: 0.055000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 42)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6021.
+Total: 12.125000 ms (FindLiveObjects: 0.324200 ms CreateObjectMapping: 0.080600 ms MarkObjects: 11.699400 ms  DeleteObjects: 0.020500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 43)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 5923.
+Total: 17.781900 ms (FindLiveObjects: 0.304200 ms CreateObjectMapping: 0.075500 ms MarkObjects: 17.374500 ms  DeleteObjects: 0.027200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 43)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6036.
+Total: 17.581000 ms (FindLiveObjects: 0.314800 ms CreateObjectMapping: 0.075000 ms MarkObjects: 17.178800 ms  DeleteObjects: 0.012000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 44)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 5925.
+Total: 18.200900 ms (FindLiveObjects: 0.303000 ms CreateObjectMapping: 0.073800 ms MarkObjects: 17.795000 ms  DeleteObjects: 0.028800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 44)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 6132.
+Total: 17.933500 ms (FindLiveObjects: 0.307800 ms CreateObjectMapping: 0.075900 ms MarkObjects: 17.527500 ms  DeleteObjects: 0.022100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 44)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 5997.
+Total: 19.066400 ms (FindLiveObjects: 0.306700 ms CreateObjectMapping: 0.074100 ms MarkObjects: 18.654800 ms  DeleteObjects: 0.030500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 44)
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 6210.
+Total: 18.296700 ms (FindLiveObjects: 0.317700 ms CreateObjectMapping: 0.078900 ms MarkObjects: 17.864400 ms  DeleteObjects: 0.035500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 44)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 6640.
+Total: 18.598000 ms (FindLiveObjects: 0.349200 ms CreateObjectMapping: 0.094700 ms MarkObjects: 18.124500 ms  DeleteObjects: 0.029300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 6284.
+Total: 12.929700 ms (FindLiveObjects: 0.350200 ms CreateObjectMapping: 0.077500 ms MarkObjects: 12.452500 ms  DeleteObjects: 0.049100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 6160.
+Total: 19.017100 ms (FindLiveObjects: 0.376900 ms CreateObjectMapping: 0.082700 ms MarkObjects: 18.526300 ms  DeleteObjects: 0.031000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6358.
+Total: 11.952800 ms (FindLiveObjects: 0.332100 ms CreateObjectMapping: 0.089000 ms MarkObjects: 11.490200 ms  DeleteObjects: 0.041200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 39)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 6528.
+Total: 18.304500 ms (FindLiveObjects: 0.341400 ms CreateObjectMapping: 0.085800 ms MarkObjects: 17.843800 ms  DeleteObjects: 0.033300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 40)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6268.
+Total: 11.812200 ms (FindLiveObjects: 0.344000 ms CreateObjectMapping: 0.078700 ms MarkObjects: 11.343700 ms  DeleteObjects: 0.045500 ms)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Unloading 0 Unused Serialized files (Serialized files now loaded: 47)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 6167.
+Total: 12.325500 ms (FindLiveObjects: 0.292100 ms CreateObjectMapping: 0.065400 ms MarkObjects: 11.946000 ms  DeleteObjects: 0.021700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 47)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6287.
+Total: 9.235700 ms (FindLiveObjects: 0.215800 ms CreateObjectMapping: 0.065000 ms MarkObjects: 8.948200 ms  DeleteObjects: 0.006500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 48)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 6170.
+Total: 22.215600 ms (FindLiveObjects: 0.347400 ms CreateObjectMapping: 0.079400 ms MarkObjects: 21.758900 ms  DeleteObjects: 0.029400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 52)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6312.
+Total: 25.532600 ms (FindLiveObjects: 0.387500 ms CreateObjectMapping: 0.084100 ms MarkObjects: 22.042900 ms  DeleteObjects: 3.017600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 53)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 6206.
+Total: 21.512300 ms (FindLiveObjects: 0.347900 ms CreateObjectMapping: 0.079200 ms MarkObjects: 21.044800 ms  DeleteObjects: 0.040100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 53)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6340.
+Total: 19.358400 ms (FindLiveObjects: 0.350000 ms CreateObjectMapping: 0.079500 ms MarkObjects: 18.914200 ms  DeleteObjects: 0.014200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 50)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 6227.
+Total: 20.392200 ms (FindLiveObjects: 0.343200 ms CreateObjectMapping: 0.079300 ms MarkObjects: 19.930500 ms  DeleteObjects: 0.038900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 50)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6359.
+Total: 19.520900 ms (FindLiveObjects: 0.357700 ms CreateObjectMapping: 0.080200 ms MarkObjects: 19.068100 ms  DeleteObjects: 0.014600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 51)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 6230.
+Total: 20.472500 ms (FindLiveObjects: 0.335700 ms CreateObjectMapping: 0.072200 ms MarkObjects: 20.033700 ms  DeleteObjects: 0.030500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 51)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6358.
+Total: 14.273900 ms (FindLiveObjects: 0.344300 ms CreateObjectMapping: 0.080900 ms MarkObjects: 13.820900 ms  DeleteObjects: 0.027500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 50)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 6227.
+Total: 21.743700 ms (FindLiveObjects: 0.346300 ms CreateObjectMapping: 0.080400 ms MarkObjects: 21.281700 ms  DeleteObjects: 0.034700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 50)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6359.
+Total: 13.961400 ms (FindLiveObjects: 0.382300 ms CreateObjectMapping: 0.082800 ms MarkObjects: 13.481700 ms  DeleteObjects: 0.013800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 51)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 6230.
+Total: 21.366500 ms (FindLiveObjects: 0.340800 ms CreateObjectMapping: 0.077200 ms MarkObjects: 20.918600 ms  DeleteObjects: 0.029200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 51)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6358.
+Total: 13.853400 ms (FindLiveObjects: 0.342900 ms CreateObjectMapping: 0.079600 ms MarkObjects: 13.416400 ms  DeleteObjects: 0.014200 ms)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Unloading 0 Unused Serialized files (Serialized files now loaded: 52)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 6283.
+Total: 20.467000 ms (FindLiveObjects: 0.342700 ms CreateObjectMapping: 0.080000 ms MarkObjects: 20.006400 ms  DeleteObjects: 0.037500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 52)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6415.
+Total: 20.261600 ms (FindLiveObjects: 0.361800 ms CreateObjectMapping: 0.093900 ms MarkObjects: 19.792200 ms  DeleteObjects: 0.013500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 53)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 6286.
+Total: 19.853300 ms (FindLiveObjects: 0.343200 ms CreateObjectMapping: 0.076800 ms MarkObjects: 19.402900 ms  DeleteObjects: 0.030000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 53)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6414.
+Total: 14.044600 ms (FindLiveObjects: 0.351800 ms CreateObjectMapping: 0.093200 ms MarkObjects: 13.584900 ms  DeleteObjects: 0.014600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 53)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 6324.
+Total: 22.346200 ms (FindLiveObjects: 0.369300 ms CreateObjectMapping: 0.083600 ms MarkObjects: 21.845900 ms  DeleteObjects: 0.047100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 46)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 6434.
+Total: 13.883400 ms (FindLiveObjects: 0.358800 ms CreateObjectMapping: 0.101700 ms MarkObjects: 13.391200 ms  DeleteObjects: 0.031500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 47)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6262.
+Total: 22.656500 ms (FindLiveObjects: 0.342900 ms CreateObjectMapping: 0.078100 ms MarkObjects: 22.201800 ms  DeleteObjects: 0.033300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 48)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 6398.
+Total: 22.190100 ms (FindLiveObjects: 0.361000 ms CreateObjectMapping: 0.094800 ms MarkObjects: 21.703300 ms  DeleteObjects: 0.030600 ms)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Unloading 0 Unused Serialized files (Serialized files now loaded: 61)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 6520.
+Total: 23.830100 ms (FindLiveObjects: 0.356100 ms CreateObjectMapping: 0.093700 ms MarkObjects: 23.337200 ms  DeleteObjects: 0.042800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 61)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6646.
+Total: 16.453700 ms (FindLiveObjects: 0.357900 ms CreateObjectMapping: 0.095300 ms MarkObjects: 15.968000 ms  DeleteObjects: 0.032200 ms)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Unloading 0 Unused Serialized files (Serialized files now loaded: 62)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 5821.
+Total: 23.741700 ms (FindLiveObjects: 0.393000 ms CreateObjectMapping: 0.083700 ms MarkObjects: 23.213800 ms  DeleteObjects: 0.050800 ms)
+
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 28 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 239512 frames, [4.0 KB-8.0 KB]: 62743 frames, [8.0 KB-16.0 KB]: 149 frames, [16.0 KB-32.0 KB]: 2993 frames, [32.0 KB-64.0 KB]: 10 frames, [64.0 KB-128.0 KB]: 4 frames, [128.0 KB-256.0 KB]: 19 frames, [256.0 KB-0.5 MB]: 4 frames, [0.5 MB-1.0 MB]: 41 frames, [4.0 MB-8.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 5.2 MB
+      Peak Allocated Bytes 5.2 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 18]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 5.6 KB
+      Overflow Count 8
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 16]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 60.0 KB
+      Peak Allocated Bytes 56.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 28.3 KB
+      Overflow Count 31
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 19
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0.9 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 192 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0.9 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0.6 KB
+      Overflow Count 2
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_ReadCacheIndex]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 5
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 1.5 KB
+      Overflow Count 8
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 411 B
+      Overflow Count 1
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 39.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 199 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_CloudJob.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 3.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 15]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 128.0 KB
+      Peak Allocated Bytes 127.2 KB
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 1080
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.2 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 23369 frames, [32.0 MB-64.0 MB]: 282129 frames, [64.0 MB-128.0 MB]: 7 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 3
+      Peak Allocated memory 97.6 MB
+      Peak Large allocation bytes 72.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 305443 frames, [16.0 MB-32.0 MB]: 48 frames, [32.0 MB-64.0 MB]: 14 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 41.8 MB
+      Peak Large allocation bytes 32.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 2
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 4
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.2 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 5 frames, [64.0 KB-128.0 KB]: 8098 frames, [128.0 KB-256.0 KB]: 9436 frames, [256.0 KB-0.5 MB]: 254895 frames, [0.5 MB-1.0 MB]: 33065 frames, [1.0 MB-2.0 MB]: 2 frames, [8.0 MB-16.0 MB]: 1 frames, [16.0 MB-32.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 1 frames, [128.0 MB-256.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 128.0 MB
+      Peak Large allocation bytes 128.0 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 20 frames, [2.0 KB-4.0 KB]: 196 frames, [4.0 KB-8.0 KB]: 3291 frames, [8.0 KB-16.0 KB]: 218649 frames, [16.0 KB-32.0 KB]: 83349 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 26.3 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 183
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.2 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 3 frames, [64.0 MB-128.0 MB]: 305502 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 22
+      Peak Allocated memory 122.1 MB
+      Peak Large allocation bytes 38.8 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 4 frames, [16.0 MB-32.0 MB]: 104176 frames, [32.0 MB-64.0 MB]: 201325 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 14
+      Peak Allocated memory 53.1 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.2 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 2166 frames, [256.0 KB-0.5 MB]: 295355 frames, [0.5 MB-1.0 MB]: 7982 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.5 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 4 frames, [256.0 KB-0.5 MB]: 305501 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 431.8 KB
+      Peak Large allocation bytes 0 B

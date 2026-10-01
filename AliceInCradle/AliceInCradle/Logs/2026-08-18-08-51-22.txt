@@ -1,0 +1,510 @@
+error detected: 000000 
+Version: 0.29j @Win
+Microsoft Windows NT 10.0.19045.0
+// ======================
+SND activated:: Spatial sound Enabled
+SCENE TITLE AWAKEN 
+Load Event Lang: zh-cn
+オプションの読み込みを開始
+オプションの読み込みを開始
+V-Sync enabled
+title scene disposed
+SCENE GAME AWAKEN
+<<Read SVD SVD From: 0
+Current TX Family: zh-cn
+EV::start - __INITG line:0
+EV::end - __INITG
+EV::start - __INITG line:0
+EV::end - __INITG
+EV::start - __INITM2D line:0
+ロードポイント: Line 8
+ロードポイント: Line 11
+EV::end - __INITM2D
+全てのマップを再構築
+map_open:: house_noelroom
+assign: Noel
+assign: ExitD_noelroom
+EV::start - __INITNEWGAME line:0
+EV::end - __INITNEWGAME
+assign: scene_memory
+assign: ixiadoll
+assign: tigrinadoll
+assign: bench__mobir__noelroom/noelbed.png__15.67857_17.42857
+assign: _LP_exit_WalkDecline_backdoor
+assign: _LP_exit_Ev_costume
+assign: _LP_Layer_shelf
+M2EventContainer::reload - コマンドの再読み込みを実行:house_noelroom  
+ロードポイント: Line 11
+map_close:: house_noelroom
+map_open:: house_hall
+assign: Noel
+assign: ExitD_noelroom
+assign: ExitD_atelier
+assign: ExitR_hallshop
+assign: backdoor_portal
+assign: tilde
+assign: restroom
+assign: cooking_portal
+M2EventContainer::reload - コマンドの再読み込みを実行:house_hall  
+ロードポイント: Line 12
+map_close:: house_hall
+map_open:: house_shop
+assign: Noel
+assign: ExitL_hallshop
+assign: ExitD_house
+assign: laevi
+assign: goto_the_room
+M2EventContainer::reload - コマンドの再読み込みを実行:house_shop  
+ロードポイント: Line 5
+EV::start - ___House/transfer_abort line:0
+EV::end - ___House/transfer_abort
+EV::start - %M2EVENTCOMMAND__@house_shop~ExitD_house__CHECK line:7
+ロードポイント: Line 17
+map_close:: house_shop
+map_open:: house_center
+assign: Noel
+assign: ExitD_ateliergarden
+assign: ExitD_house
+assign: ExitL_barn
+assign: ExitR_center
+assign: backdoor_portal
+assign: _LP_EV_Ev_board
+assign: _LP_bg_door_LP_backdoor
+M2EventContainer::reload - コマンドの再読み込みを実行:house_center  
+EV::end - %M2EVENTCOMMAND__@house_shop~ExitD_house__CHECK
+ロードポイント: Line 12
+map_close:: house_center
+map_open:: house_road
+assign: Noel
+assign: ExitWR_forest2home
+assign: ExitL_center
+assign: _backdoor_portal
+assign: _LP_decorate_Ev_board
+assign: _LP_decorate_Ev_Reset_L2R
+assign: _LP_decorate_Ev_Reset_R2L
+M2EventContainer::reload - コマンドの再読み込みを実行:house_road  
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_L2R__STAND line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_L2R__STAND
+EV::start - m2d_house_footbell line:0
+EV::end - m2d_house_footbell
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__STAND line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__STAND
+EV::start - m2d_house_footbell line:0
+EV::end - m2d_house_footbell
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK line:3
+WM __whole_forest に移動します...
+EV::end - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__PRE_UNLOAD line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__PRE_UNLOAD
+EV::start - _mod_bgm_start line:0
+EV::end - _mod_bgm_start
+EV::start - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK line:18
+ロードポイント: Line 29
+EV::end - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK
+EV::start - ___city_guild/__FLUSH_SAFE_AREA line:0
+EV::end - ___city_guild/__FLUSH_SAFE_AREA
+EV::start - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK line:46
+map_close:: house_road
+全てのマップを再構築
+map_open:: forest_ahletic_home_thorn
+assign: Noel
+assign: ExitR_home_thorn
+assign: ExitB_thorn_b
+assign: Breakable_thorn_home_b-hit
+assign: ExitB_thorn_home_grind
+assign: ExitWL_forest2home
+assign: Nightingale
+assign: bench__bridge_p102_bench__obj/bench.png__15.58929_14.67857
+assign: _LP_obj_Ev_board
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_ahletic_home_thorn  
+EV::end - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK line:76
+危険度を 25 に設定
+EV::end - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK
+>>AutoSave
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %M2EVENTCOMMAND__@forest_ahletic_home_thorn~ExitWL_forest2home__CHECK line:3
+WM __whole_house に移動します...
+ロードポイント: Line 23
+map_close:: forest_ahletic_home_thorn
+全てのマップを再構築
+map_open:: house_road
+assign: Noel
+assign: ExitWR_forest2home
+assign: ExitL_center
+assign: _backdoor_portal
+assign: _LP_decorate_Ev_board
+assign: _LP_decorate_Ev_Reset_L2R
+assign: _LP_decorate_Ev_Reset_R2L
+M2EventContainer::reload - コマンドの再読み込みを実行:house_road  
+EV::end - %M2EVENTCOMMAND__@forest_ahletic_home_thorn~ExitWL_forest2home__CHECK
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %M2EVENTCOMMAND__@forest_ahletic_home_thorn~ExitWL_forest2home__CHECK line:62
+EV::end - %M2EVENTCOMMAND__@forest_ahletic_home_thorn~ExitWL_forest2home__CHECK
+EV::start - ___city_guild/__FLUSH_SAFE_AREA line:0
+EV::end - ___city_guild/__FLUSH_SAFE_AREA
+EV::start - %M2EVENTCOMMAND__@forest_ahletic_home_thorn~ExitWL_forest2home__CHECK line:72
+>>AutoSave
+EV::end - %M2EVENTCOMMAND__@forest_ahletic_home_thorn~ExitWL_forest2home__CHECK
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK line:3
+WM __whole_forest に移動します...
+EV::end - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__PRE_UNLOAD line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__PRE_UNLOAD
+EV::start - _mod_bgm_start line:0
+EV::end - _mod_bgm_start
+EV::start - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK line:18
+ロードポイント: Line 29
+EV::end - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK
+EV::start - ___city_guild/__FLUSH_SAFE_AREA line:0
+EV::end - ___city_guild/__FLUSH_SAFE_AREA
+EV::start - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK line:46
+map_close:: house_road
+全てのマップを再構築
+map_open:: forest_ahletic_home_thorn
+assign: Noel
+assign: ExitR_home_thorn
+assign: ExitB_thorn_b
+assign: Breakable_thorn_home_b-hit
+assign: ExitB_thorn_home_grind
+assign: ExitWL_forest2home
+assign: bench__bridge_p102_bench__obj/bench.png__15.58929_14.67857
+assign: _LP_obj_Ev_board
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_ahletic_home_thorn  
+EV::end - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK line:76
+危険度を 0 に設定
+EV::end - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK
+>>AutoSave
+>>AutoSave
+ロードポイント: Line 12
+map_close:: forest_ahletic_home_thorn
+map_open:: forest_athletic_thorn_under
+assign: Noel
+assign: ExitT_thorn_home_grind
+assign: Breakable_thorn_home_b-hit
+assign: ExitB_tikuwa
+assign: ExitWL_house2cave
+assign: ExitT_thorn_b
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_athletic_thorn_under  
+ロードポイント: Line 12
+map_close:: forest_athletic_thorn_under
+map_open:: forest_ahletic_tikuwa
+assign: Noel
+assign: CM-lift_Carrier_1
+assign: ExitL_tikuwau
+assign: ExitR_tikuwar
+assign: ExitT_tikuwa
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_ahletic_tikuwa  
+assign: NoelCane
+assign: NoelCane
+ロードポイント: Line 13
+map_close:: forest_ahletic_tikuwa
+map_open:: forest_tikuwar
+assign: Noel
+assign: ExitL_coroseum
+assign: Breakable_coroseum-hit
+assign: ExitT_tikuwar2treecrack
+assign: Breakable_treecrack-hit
+assign: ExitR_tikuwarc
+assign: ExitR_puzzle_ctl
+assign: ExitL_tikuwar
+assign: Layer_Supply_water
+assign: bench__Layer__obj/bench.png__19.58928_19.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_tikuwar  
+>>AutoSave
+ロードポイント: Line 12
+map_close:: forest_tikuwar
+map_open:: forest_ahletic_tikuwa
+assign: Noel
+assign: CM-lift_Carrier_1
+assign: ExitL_tikuwau
+assign: ExitR_tikuwar
+assign: ExitT_tikuwa
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_ahletic_tikuwa  
+assign: NoelCane
+assign: NoelCane
+ロードポイント: Line 13
+map_close:: forest_ahletic_tikuwa
+map_open:: forest_tikuwar
+assign: Noel
+assign: ExitL_coroseum
+assign: Breakable_coroseum-hit
+assign: ExitT_tikuwar2treecrack
+assign: Breakable_treecrack-hit
+assign: ExitR_tikuwarc
+assign: ExitR_puzzle_ctl
+assign: ExitL_tikuwar
+assign: Layer_Supply_water
+assign: bench__Layer__obj/bench.png__19.58928_19.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_tikuwar  
+>>AutoSave
+ロードポイント: Line 12
+map_close:: forest_tikuwar
+map_open:: forest_ahletic_tikuwa
+assign: Noel
+assign: CM-lift_Carrier_1
+assign: ExitL_tikuwau
+assign: ExitR_tikuwar
+assign: ExitT_tikuwa
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_ahletic_tikuwa  
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+ロードポイント: Line 13
+map_close:: forest_ahletic_tikuwa
+map_open:: forest_tikuwar
+assign: Noel
+assign: ExitL_coroseum
+assign: Breakable_coroseum-hit
+assign: ExitT_tikuwar2treecrack
+assign: Breakable_treecrack-hit
+assign: ExitR_tikuwarc
+assign: ExitR_puzzle_ctl
+assign: ExitL_tikuwar
+assign: Layer_Supply_water
+assign: bench__Layer__obj/bench.png__19.58928_19.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_tikuwar  
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - _bench_cure_ep_base line:0
+EV::end - _bench_cure_ep_base
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+>>AutoSave
+ロードポイント: Line 12
+map_close:: forest_tikuwar
+map_open:: forest_ahletic_tikuwa
+assign: Noel
+assign: CM-lift_Carrier_1
+assign: ExitL_tikuwau
+assign: ExitR_tikuwar
+assign: ExitT_tikuwa
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_ahletic_tikuwa  
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+ロードポイント: Line 13
+map_close:: forest_ahletic_tikuwa
+map_open:: forest_tikuwar
+assign: Noel
+assign: ExitL_coroseum
+assign: Breakable_coroseum-hit
+assign: ExitT_tikuwar2treecrack
+assign: Breakable_treecrack-hit
+assign: ExitR_tikuwarc
+assign: ExitR_puzzle_ctl
+assign: ExitL_tikuwar
+assign: Layer_Supply_water
+assign: bench__Layer__obj/bench.png__19.58928_19.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:forest_tikuwar  
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - _bench_cure_ep_base line:0
+EV::end - _bench_cure_ep_base
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+>>AutoSave
+EV::start - %BENCH_EVENT line:0
+EV::end - %BENCH_EVENT
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %BENCH_EVENT line:3
+WM __whole_house に移動します...
+map_close:: forest_tikuwar
+全てのマップを再構築
+map_open:: house_noelroom
+assign: Noel
+assign: ExitD_noelroom
+assign: scene_memory
+assign: ixiadoll
+assign: tigrinadoll
+assign: _LP_exit_WalkDecline_backdoor
+assign: bench__mobir__noelroom/noelbed.png__15.67857_17.42857
+assign: _LP_exit_Ev_costume
+assign: _LP_Layer_shelf
+M2EventContainer::reload - コマンドの再読み込みを実行:house_noelroom  
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %BENCH_EVENT line:27
+>>AutoSave
+EV::end - %BENCH_EVENT
+EV::start - %M2EVENTCOMMAND__@house_noelroom~_LP_exit_Ev_costume__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@house_noelroom~_LP_exit_Ev_costume__CHECK
+EV::start - ___House/_costume_portal line:0
+EV::end - ___House/_costume_portal
+>>AutoSave
+ロードポイント: Line 11
+map_close:: house_noelroom
+map_open:: house_hall
+assign: Noel
+assign: ExitD_noelroom
+assign: ExitD_atelier
+assign: ExitR_hallshop
+assign: backdoor_portal
+assign: tilde
+assign: restroom
+assign: cooking_portal
+M2EventContainer::reload - コマンドの再読み込みを実行:house_hall  
+EV::start - %M2EVENTCOMMAND__@house_hall~restroom__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@house_hall~restroom__CHECK
+EV::start - ___House/noelhouse_restroom line:0
+EV::end - ___House/noelhouse_restroom
+EV::start - ___House/_restroom_portal line:0
+ロードポイント: Line 38
+EV::end - ___House/_restroom_portal
+EV::start - ___Other/still line:0
+EV::end - ___Other/still
+EV::start - ___House/_restroom_portal line:39
+ロードポイント: Line 44
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_picture_def line:0
+EV::end - ___House/_restroom_picture_def
+EV::start - ___House/_restroom_portal line:127
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:191
+EV::end - ___House/_restroom_portal
+EV::start - _bench_cure_egged_00 line:0
+EV::end - _bench_cure_egged_00
+EV::start - _SND_SPOT_R line:0
+EV::end - _SND_SPOT_R
+EV::start - _bench_cure_egged_00 line:59
+EV::end - _bench_cure_egged_00
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_egged_00 line:60
+EV::end - _bench_cure_egged_00
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_egged_00 line:75
+EV::end - _bench_cure_egged_00
+EV::start - _SND_SPOT_R line:0
+EV::end - _SND_SPOT_R
+EV::start - _bench_cure_egged_00 line:85
+assign: NoelCane
+EV::end - _bench_cure_egged_00
+EV::start - _SND_SPOT_R line:0
+EV::end - _SND_SPOT_R
+EV::start - _bench_cure_egged_00 line:161
+EV::end - _bench_cure_egged_00
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_egged_00 line:162
+EV::end - _bench_cure_egged_00
+EV::start - ___House/_restroom_portal line:356
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:191
+EV::end - ___House/_restroom_portal
+EV::start - s10_3a line:0
+EV::end - s10_3a
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - s10_3a line:17
+EV::end - s10_3a
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - s10_3a line:59
+EV::end - s10_3a
+EV::start - ___Other/still line:0
+EV::end - ___Other/still
+EV::start - s10_3a line:106
+EV::end - s10_3a
+EV::start - ___House/noelhouse_restroom line:52
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 54
+ event: ___House/noelhouse_restroom
+EV::end - ___House/noelhouse_restroom
+EV::start - %M2EVENTCOMMAND__@house_hall~restroom__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@house_hall~restroom__CHECK
+EV::start - ___House/noelhouse_restroom line:0
+EV::end - ___House/noelhouse_restroom
+EV::start - ___House/_restroom_portal line:0
+ロードポイント: Line 38
+EV::end - ___House/_restroom_portal
+EV::start - ___Other/still line:0
+EV::end - ___Other/still
+EV::start - ___House/_restroom_portal line:39
+ロードポイント: Line 44
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_picture_def line:0
+EV::end - ___House/_restroom_picture_def
+EV::start - ___House/_restroom_portal line:127
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:191
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_picture_def line:0
+EV::end - ___House/_restroom_picture_def
+EV::start - ___House/_restroom_portal line:156
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:191
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:410
+EV::end - ___House/_restroom_portal
+EV::start - ___House/noelhouse_restroom line:52
+EV::end - ___House/noelhouse_restroom
+ロードポイント: Line 11
+map_close:: house_hall
+map_open:: house_noelroom
+assign: Noel
+assign: ExitD_noelroom
+assign: scene_memory
+assign: ixiadoll
+assign: tigrinadoll
+assign: _LP_exit_WalkDecline_backdoor
+assign: bench__mobir__noelroom/noelbed.png__15.67857_17.42857
+assign: _LP_exit_Ev_costume
+assign: _LP_Layer_shelf
+M2EventContainer::reload - コマンドの再読み込みを実行:house_noelroom  
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - _bench_cure_ep_base line:0
+EV::end - _bench_cure_ep_base
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+>>AutoSave
+全てのマップを再構築

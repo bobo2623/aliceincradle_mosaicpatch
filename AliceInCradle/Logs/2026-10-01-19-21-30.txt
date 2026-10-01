@@ -1,0 +1,129 @@
+error detected: 000000  
+Version: 0.30g @Win
+Microsoft Windows NT 10.0.19045.0
+// ======================
+SND activated:: Spatial sound Enabled
+SCENE TITLE AWAKEN 
+active debugger on
+Load Event Lang: zh-cn
+オプションの読み込みを開始
+V-Sync enabled
+オプションの読み込みを開始
+V-Sync enabled
+ComputeShader R/W: Enabled
+title scene disposed
+SCENE GAME AWAKEN
+<<Read SVD SVD From: Auto 0 
+レシピ情報现烤苹果玉米面包 が削除されました
+レシピ情報现烤鸡肉玉米面包 が削除されました
+Current TX Family: zh-cn
+EV::start - __INITG line:0
+EV::end - __INITG
+EV::start - __INITG line:0
+EV::end - __INITG
+EV::start - __INITM2D line:0
+ロードポイント: Line 8
+ロードポイント: Line 11
+EV::end - __INITM2D
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>2048,2048 / format:R8G8B8A8_UNorm
+Compute Environment
+supportsComputeShaders = True
+graphicsDeviceType = Direct3D11
+graphicsDeviceName = NVIDIA GeForce RTX 5070
+graphicsDeviceVersion = Direct3D 11.0 [level 11.1]
+operatingSystem = Windows 10  (10.0.19045) 64bit
+format = ARGB32
+graphicsFormat = R8G8B8A8_UNorm
+supportsRandomWrite(ARGB32) = True
+map_open:: mount_spider_entrance
+assign: Noel
+assign: ExitT_ttt
+assign: ExitL_cannonct
+assign: ExitL_cannonrb
+assign: ExitR_woodleft
+assign: Breakable_mount_spiderent_tt-hit
+assign: ExitR_spe
+assign: Ev__puzzle/saisenswitch_0.png__19.39286_57.16071-mv
+assign: ladder__puzzle/saisenswitch_1.png__18.39286_28.16072-mv
+EV::start - __INITNEWGAME line:0
+EV::end - __INITNEWGAME
+assign: Switch_0_Ev__puzzle/saisenswitch_0.png__19.39286_57.16071
+assign: Switch_1_ladder__puzzle/saisenswitch_1.png__18.39286_28.16072
+assign: bench__lift__obj/bench.png__22.58928_40.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spider_entrance  
+ロードポイント: Line 4
+EV::start - 200/150_no_item line:0
+EV::end - 200/150_no_item
+EV::start - %M2EVENTCOMMAND__@mount_spider_entrance~ExitR_spe__STAND line:6
+ロードポイント: Line 18
+map_close:: mount_spider_entrance
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_spiderlt
+assign: Noel
+assign: ExitL_spe
+assign: ExitR_spiderlt
+assign: ExitT_head
+assign: alice
+assign: QA200_EVENT_23
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spiderlt  
+EV::end - %M2EVENTCOMMAND__@mount_spider_entrance~ExitR_spe__STAND
+ロードポイント: Line 4
+EV::start - 200/198_goout line:0
+EV::end - 200/198_goout
+EV::start - %M2EVENTCOMMAND__@mount_spiderlt~ExitL_spe__STAND line:6
+ロードポイント: Line 18
+map_close:: mount_spiderlt
+map_open:: mount_spider_entrance
+assign: Noel
+assign: ExitT_ttt
+assign: ExitL_cannonct
+assign: ExitL_cannonrb
+assign: ExitR_woodleft
+assign: Breakable_mount_spiderent_tt-hit
+assign: ExitR_spe
+assign: Ev__puzzle/saisenswitch_0.png__19.39286_57.16071-mv
+assign: ladder__puzzle/saisenswitch_1.png__18.39286_28.16072-mv
+assign: Switch_0_Ev__puzzle/saisenswitch_0.png__19.39286_57.16071
+assign: Switch_1_ladder__puzzle/saisenswitch_1.png__18.39286_28.16072
+assign: bench__lift__obj/bench.png__22.58928_40.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spider_entrance  
+EV::end - %M2EVENTCOMMAND__@mount_spiderlt~ExitL_spe__STAND
+>>AutoSave
+EV::start - %BENCH_EVENT line:0
+EV::end - %BENCH_EVENT
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %BENCH_EVENT line:3
+WM __whole_city に移動します...
+map_close:: mount_spider_entrance
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_entrance_rightcave
+assign: Noel
+assign: ExitWR_b_city2mount
+assign: ExitL_entranceLB
+assign: ExitL_caveT
+assign: restroom
+assign: stopper
+assign: stopper_t
+assign: board_event
+assign: bench__Ev__obj/bench_wide.png__43.625_34.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_rightcave  
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+EV::end - __M2D_FLUSHED_AREA
+EV::start - 107/_change_danger line:0
+EV::end - 107/_change_danger
+EV::start - __M2D_FLUSHED_AREA line:48
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %BENCH_EVENT line:31
+>>AutoSave
+EV::end - %BENCH_EVENT
+>>AutoSave
+全てのマップを再構築

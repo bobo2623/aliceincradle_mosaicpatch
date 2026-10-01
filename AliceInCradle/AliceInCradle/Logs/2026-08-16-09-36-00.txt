@@ -1,0 +1,4668 @@
+error detected: 000001 
+Version: 0.29j @Win
+Microsoft Windows NT 10.0.19045.0
+// ======================
+SND activated:: Spatial sound Enabled
+SCENE TITLE AWAKEN 
+Load Event Lang: zh-cn
+オプションの読み込みを開始
+オプションの読み込みを開始
+V-Sync enabled
+title scene disposed
+SCENE GAME AWAKEN
+<<Read SVD SVD From: 0
+Current TX Family: zh-cn
+EV::start - __INITG line:0
+EV::end - __INITG
+EV::start - __INITG line:0
+EV::end - __INITG
+EV::start - __INITM2D line:0
+ロードポイント: Line 11
+EV::end - __INITM2D
+全てのマップを再構築
+map_open:: city_scl_dorm
+assign: Noel
+assign: ExitR_dormR
+assign: ExitB_dormB
+assign: ExitB_dormBL
+EV::start - __INITNEWGAME line:0
+EV::end - __INITNEWGAME
+assign: restroom
+assign: woman_elf_student_6
+assign: bench__house_2__obj/bench_wide.png__61.375_33.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_dorm  
+ロードポイント: Line 12
+map_close:: city_scl_dorm
+map_open:: city_scl_center
+assign: Noel
+assign: ExitD_scl_out
+assign: ExitD_cafeteria_L
+assign: ExitL_dormR
+assign: ExitR_toground
+assign: ExitB_scl_BLL
+assign: ExitB_scl_BR
+assign: ExitB_scl_BL
+assign: woman_elf_thin_student_sister_0
+assign: woman_elf_thin_student_sister_1
+assign: scl_entrance_t02
+assign: man_elf_young_student
+assign: woman_elf_thin_student_sister_2
+assign: woman_elf_thin_sudent_12
+assign: man_elf_young_student_1
+assign: woman_elf_thin_sudent_9
+assign: bench__roof__obj/bench_wide.png__34.625_27.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_center  
+EV::start - ___city/_warp_zx line:0
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp line:0
+EV::end - ___city/_warp
+EV::start - ___city/_warp_zx line:22
+ロードポイント: Line 158
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp_zx_execute line:0
+map_close:: city_scl_center
+map_open:: city_scl_dorm
+assign: Noel
+assign: ExitR_dormR
+assign: ExitB_dormB
+assign: ExitB_dormBL
+assign: restroom
+assign: woman_elf_student_6
+assign: bench__house_2__obj/bench_wide.png__61.375_33.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_dorm  
+EV::end - ___city/_warp_zx_execute
+EV::start - ___city/_warp_zx line:162
+EV::end - ___city/_warp_zx
+ロードポイント: Line 12
+map_close:: city_scl_dorm
+map_open:: city_scl_center
+assign: Noel
+assign: ExitD_scl_out
+assign: ExitD_cafeteria_L
+assign: ExitL_dormR
+assign: ExitR_toground
+assign: ExitB_scl_BLL
+assign: ExitB_scl_BR
+assign: ExitB_scl_BL
+assign: woman_elf_thin_student_sister_0
+assign: woman_elf_thin_student_sister_1
+assign: scl_entrance_t02
+assign: man_elf_young_student
+assign: woman_elf_thin_student_sister_2
+assign: woman_elf_thin_sudent_12
+assign: man_elf_young_student_1
+assign: woman_elf_thin_sudent_9
+assign: bench__roof__obj/bench_wide.png__34.625_27.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_center  
+ロードポイント: Line 11
+map_close:: city_scl_center
+map_open:: school_entrance
+assign: Noel
+assign: ExitD_scl_out
+assign: ExitD_scl_in_hall_left
+assign: ExitD_scl_in_hall_right
+assign: ExitD_sclcen_1
+assign: ExitD_sclcen_r
+assign: reporter105_near
+assign: reporter105
+assign: bench__Ev__obj/bench_wide.png__22.625_31.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:school_entrance  
+ロードポイント: Line 12
+map_close:: school_entrance
+map_open:: school_in_hall_right
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_2f_1f
+assign: ExitD_scl_in_hall_right
+assign: ExitL_sclR
+assign: ExitD_scl_health
+assign: restroom
+assign: Ev_door_shower
+assign: woman_elf_pocha_2
+assign: student_2
+assign: student_1
+assign: student_3
+重複して assign しようとしています: student_1
+重複して assign しようとしています: student_3
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_right  
+ロードポイント: Line 11
+map_close:: school_in_hall_right
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: ixia_shoe
+assign: ixia
+assign: Ev_w_desk_105
+assign: Ev_w_bed0_105
+assign: primula_cane
+assign: primula
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 43
+ event: %M2EVENTCOMMAND__@school_in_hall_right~ExitD_scl_health__CHECK
+EV::start - %M2EVENTCOMMAND__@school_in_health~Ev_w_desk_105__STAND line:0
+EV::end - %M2EVENTCOMMAND__@school_in_health~Ev_w_desk_105__STAND
+EV::start - 105/health_primula_portal line:0
+EV::end - 105/health_primula_portal
+EV::start - 105/health_primula_t00 line:0
+EV::end - 105/health_primula_t00
+EV::start - 105/_health_ixia_term line:0
+EV::end - 105/_health_ixia_term
+EV::start - 105/health_primula_t00 line:132
+EV::end - 105/health_primula_t00
+EV::start - %M2EVENTCOMMAND__@school_in_health~primula__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_health~primula__TALK
+EV::start - 105/health_primula_portal line:0
+EV::end - 105/health_primula_portal
+EV::start - 105/health_primula_t_road2city line:0
+EV::end - 105/health_primula_t_road2city
+EV::start - 105/health_primula_portal line:61
+EV::end - 105/health_primula_portal
+EV::start - 105/health_primula_t_alma line:0
+EV::end - 105/health_primula_t_alma
+EV::start - 105/health_primula_portal line:61
+EV::end - 105/health_primula_portal
+EV::start - %M2EVENTCOMMAND__@school_in_health~ixia__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_health~ixia__TALK
+EV::start - 105/health_ixia_portal line:0
+EV::end - 105/health_ixia_portal
+EV::start - 105/_health_ixia_term line:0
+EV::end - 105/_health_ixia_term
+EV::start - 105/health_ixia_portal line:29
+EV::end - 105/health_ixia_portal
+EV::start - 105/health_ixia_t_uniform line:0
+EV::end - 105/health_ixia_t_uniform
+EV::start - 105/health_ixia_portal line:64
+EV::end - 105/health_ixia_portal
+EV::start - 105/health_ixia_t_curemagic line:0
+EV::end - 105/health_ixia_t_curemagic
+EV::start - 105/health_ixia_portal line:64
+EV::end - 105/health_ixia_portal
+EV::start - 105/health_ixia_t_boring line:0
+EV::end - 105/health_ixia_t_boring
+EV::start - 105/health_ixia_t_ttr line:0
+リプレイ再生終了
+リプレイ再生終了
+リプレイ再生終了
+リプレイ再生終了
+リプレイ再生終了
+EV::end - 105/health_ixia_t_ttr
+EV::start - 105/health_ixia_ttr_result line:0
+EV::end - 105/health_ixia_ttr_result
+EV::start - 105/health_ixia_t_ttr line:37
+EV::end - 105/health_ixia_t_ttr
+EV::start - 105/health_ixia_t_boring line:69
+EV::end - 105/health_ixia_t_boring
+EV::start - 105/health_ixia_portal line:64
+EV::end - 105/health_ixia_portal
+ロードポイント: Line 12
+map_close:: school_in_health
+map_open:: school_in_hall_right
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_2f_1f
+assign: ExitD_scl_in_hall_right
+assign: ExitL_sclR
+assign: ExitD_scl_health
+assign: restroom
+assign: Ev_door_shower
+assign: woman_elf_pocha_2
+assign: student_2
+assign: student_1
+assign: student_3
+assign: 105_scl_hall_mob_t01
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_right  
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~Ev_door_shower__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~Ev_door_shower__CHECK
+EV::start - ___Laevi/trm_bath line:0
+EV::end - ___Laevi/trm_bath
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~105_scl_hall_mob_t01__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~105_scl_hall_mob_t01__TALK
+EV::start - ___city/105_scl_hall_mob_t01 line:0
+EV::end - ___city/105_scl_hall_mob_t01
+ロードポイント: Line 12
+map_close:: school_in_hall_right
+map_open:: school_in_hall_center
+assign: Noel
+assign: ExitL_sclL
+assign: ExitR_sclR
+assign: ExitD_sclcen_1
+assign: ExitD_sclcen_r
+assign: staff1
+assign: student_2
+assign: student_3
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_center  
+EV::start - %M2EVENTCOMMAND__@school_in_hall_center~staff1__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_center~staff1__TALK
+EV::start - ___city/scl_replace_cane line:0
+ロードポイント: Line 57
+EV::end - ___city/scl_replace_cane
+EV::start - ___city_forge/get_first_cane line:0
+EV::end - ___city_forge/get_first_cane
+EV::start - ___city/scl_replace_cane line:58
+EV::end - ___city/scl_replace_cane
+EV::start - %M2EVENTCOMMAND__@school_in_hall_center~staff1__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_center~staff1__TALK
+EV::start - ___city/scl_replace_cane line:0
+EV::end - ___city/scl_replace_cane
+ロードポイント: Line 12
+map_close:: school_in_hall_center
+map_open:: school_in_hall_left
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_scl_in_hall_left
+assign: ExitR_sclL
+assign: ExitD_cafeteria
+assign: restroom
+assign: alma
+assign: alma_near
+assign: student_0
+assign: student_1
+assign: student_2
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_left  
+EV::start - %M2EVENTCOMMAND__@school_in_hall_left~alma__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_left~alma__TALK
+EV::start - 105/scl_hall_alma line:0
+EV::end - 105/scl_hall_alma
+EV::start - 105/main_classroom line:0
+ロードポイント: Line 21
+EV::end - 105/main_classroom
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - 105/main_classroom line:274
+assign: woman_elf_thin_student_sister_2
+assign: woman_elf_thin_sudent_12
+assign: man_elf_young_student_1
+assign: woman_elf_thin_sudent_9
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_left  
+ロードポイント: Line 333
+EV::end - 105/main_classroom
+EV::start - 105/main_classroom_after line:0
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 70
+ event: 105/main_classroom_after
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_left  
+EV::end - 105/main_classroom_after
+EV::start - %M2EVENTCOMMAND__@school_in_hall_left~alma__LOAD_ONCE line:0
+>>AutoSave
+EV::end - %M2EVENTCOMMAND__@school_in_hall_left~alma__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@school_in_hall_left~alma__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_left~alma__TALK
+EV::start - ___city/106_cafeteria_stop line:0
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 68
+ event: ___city/106_cafeteria_stop
+EV::end - ___city/106_cafeteria_stop
+ロードポイント: Line 11
+map_close:: school_in_hall_left
+map_open:: school_entrance
+assign: Noel
+assign: ExitD_scl_out
+assign: ExitD_scl_in_hall_left
+assign: ExitD_scl_in_hall_right
+assign: ExitD_sclcen_1
+assign: ExitD_sclcen_r
+assign: woman_elf_thin_student_1
+assign: woman_elf_thin_sudent_10
+assign: 105_scl_hall_mob_t01
+assign: bench__Ev__obj/bench_wide.png__22.625_31.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:school_entrance  
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 43
+ event: %M2EVENTCOMMAND__@school_in_hall_left~ExitD_scl_in_hall_left__CHECK
+ロードポイント: Line 12
+map_close:: school_entrance
+map_open:: school_in_hall_left
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_scl_in_hall_left
+assign: ExitR_sclL
+assign: ExitD_cafeteria
+assign: restroom
+assign: alma
+assign: student_0
+assign: student_1
+assign: student_2
+assign: woman_elf_thin_student_sister_2
+assign: woman_elf_thin_sudent_12
+assign: man_elf_young_student_1
+assign: woman_elf_thin_sudent_9
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_left  
+EV::start - %M2EVENTCOMMAND__@school_in_hall_left~alma__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_left~alma__LOAD_ONCE
+ロードポイント: Line 11
+map_close:: school_in_hall_left
+map_open:: school_entrance
+assign: Noel
+assign: ExitD_scl_out
+assign: ExitD_scl_in_hall_left
+assign: ExitD_scl_in_hall_right
+assign: ExitD_sclcen_1
+assign: ExitD_sclcen_r
+assign: woman_elf_thin_student_1
+assign: woman_elf_thin_sudent_10
+assign: 105_scl_hall_mob_t01
+assign: bench__Ev__obj/bench_wide.png__22.625_31.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:school_entrance  
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 43
+ event: %M2EVENTCOMMAND__@school_in_hall_left~ExitD_scl_in_hall_left__CHECK
+ロードポイント: Line 11
+map_close:: school_entrance
+map_open:: city_scl_center
+assign: Noel
+assign: ExitD_scl_out
+assign: ExitD_cafeteria_L
+assign: ExitL_dormR
+assign: ExitR_toground
+assign: ExitB_scl_BLL
+assign: ExitB_scl_BR
+assign: ExitB_scl_BL
+assign: woman_elf_thin_student_sister_0
+assign: woman_elf_thin_student_sister_1
+assign: scl_entrance_t02
+assign: student_3
+assign: woman_elf_oneesan_2
+assign: woman_elf_pocha_2
+assign: bench__roof__obj/bench_wide.png__34.625_27.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_center  
+ロードポイント: Line 11
+map_close:: city_scl_center
+map_open:: school_entrance
+assign: Noel
+assign: ExitD_scl_out
+assign: ExitD_scl_in_hall_left
+assign: ExitD_scl_in_hall_right
+assign: ExitD_sclcen_1
+assign: ExitD_sclcen_r
+assign: woman_elf_thin_student_1
+assign: woman_elf_thin_sudent_10
+assign: 105_scl_hall_mob_t01
+assign: bench__Ev__obj/bench_wide.png__22.625_31.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:school_entrance  
+ロードポイント: Line 12
+map_close:: school_entrance
+map_open:: school_in_hall_left
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_scl_in_hall_left
+assign: ExitR_sclL
+assign: ExitD_cafeteria
+assign: restroom
+assign: alma
+assign: student_0
+assign: student_1
+assign: student_2
+assign: woman_elf_thin_student_sister_2
+assign: woman_elf_thin_sudent_12
+assign: man_elf_young_student_1
+assign: woman_elf_thin_sudent_9
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_left  
+EV::start - %M2EVENTCOMMAND__@school_in_hall_left~alma__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_left~alma__LOAD_ONCE
+ロードポイント: Line 11
+map_close:: school_in_hall_left
+map_open:: school_entrance
+assign: Noel
+assign: ExitD_scl_out
+assign: ExitD_scl_in_hall_left
+assign: ExitD_scl_in_hall_right
+assign: ExitD_sclcen_1
+assign: ExitD_sclcen_r
+assign: woman_elf_thin_student_1
+assign: woman_elf_thin_sudent_10
+assign: 105_scl_hall_mob_t01
+assign: bench__Ev__obj/bench_wide.png__22.625_31.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:school_entrance  
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 43
+ event: %M2EVENTCOMMAND__@school_in_hall_left~ExitD_scl_in_hall_left__CHECK
+ロードポイント: Line 11
+map_close:: school_entrance
+map_open:: school_in_hall_center
+assign: Noel
+assign: ExitL_sclL
+assign: ExitR_sclR
+assign: ExitD_sclcen_1
+assign: ExitD_sclcen_r
+assign: staff1
+assign: student_2
+assign: student_3
+assign: woman_elf_student_black
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_center  
+ロードポイント: Line 12
+map_close:: school_in_hall_center
+map_open:: school_in_hall_left
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_scl_in_hall_left
+assign: ExitR_sclL
+assign: ExitD_cafeteria
+assign: restroom
+assign: alma
+assign: student_0
+assign: student_1
+assign: student_2
+assign: woman_elf_thin_student_sister_2
+assign: woman_elf_thin_sudent_12
+assign: man_elf_young_student_1
+assign: woman_elf_thin_sudent_9
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_left  
+EV::start - %M2EVENTCOMMAND__@school_in_hall_left~alma__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_left~alma__LOAD_ONCE
+ロードポイント: Line 5
+EV::start - 105/scl_hall_stop_go_other_area line:0
+EV::end - 105/scl_hall_stop_go_other_area
+EV::start - %M2EVENTCOMMAND__@school_in_hall_left~ExitD_1f_b1__CHECK line:7
+ロードポイント: Line 17
+map_close:: school_in_hall_left
+map_open:: school_in_hall_left_b1
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitR_sclLb1
+assign: ExitD_cafeteria
+assign: restroom
+assign: tuckshop
+assign: woman_elf_thin_sudent_12
+assign: woman_elf_thin_sudent_13
+assign: woman_elf_thin_sudent_8
+assign: woman_elf_thin_sudent_11
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_left_b1  
+EV::end - %M2EVENTCOMMAND__@school_in_hall_left~ExitD_1f_b1__CHECK
+ロードポイント: Line 12
+map_close:: school_in_hall_left_b1
+map_open:: school_in_hall_center_b1
+assign: Noel
+assign: ExitL_sclLb1
+assign: ExitR_sclRb1
+assign: ExitD_b1out
+assign: p106
+assign: tigrina
+assign: woman_elf_student_1
+assign: man_elf_young_student
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_center_b1  
+EV::start - %M2EVENTCOMMAND__@school_in_hall_center_b1~tigrina__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_center_b1~tigrina__TALK
+EV::start - ___Tigrina/t00 line:0
+ロードポイント: Line 21
+EV::end - ___Tigrina/t00
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - ___Tigrina/t00 line:49
+EV::end - ___Tigrina/t00
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - ___Tigrina/t00 line:88
+EV::end - ___Tigrina/t00
+EV::start - ___Tigrina/t01 line:0
+map_close:: school_in_hall_center_b1
+map_open:: school_b1_out
+assign: Noel
+assign: ExitD_garagepre
+assign: ExitD_b1out
+assign: tigrina
+M2EventContainer::reload - コマンドの再読み込みを実行:school_b1_out  
+M2EventContainer::reload - コマンドの再読み込みを実行:school_b1_out  
+map_close:: school_b1_out
+map_open:: school_garage_right
+assign: Noel
+assign: ExitL_gp
+assign: tigrina
+assign: cam_elevator
+M2EventContainer::reload - コマンドの再読み込みを実行:school_garage_right  
+M2EventContainer::reload - コマンドの再読み込みを実行:school_garage_right  
+EV::end - ___Tigrina/t01
+EV::start - ___Tigrina/106sneak__init line:0
+EV::end - ___Tigrina/106sneak__init
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - ___Tigrina/106sneak__init line:62
+EV::end - ___Tigrina/106sneak__init
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - ___Tigrina/106sneak__init line:98
+EV::end - ___Tigrina/106sneak__init
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - ___Tigrina/106sneak__init line:139
+>>AutoSave
+map_close:: school_garage_right
+map_open:: school_in_armory_mtgroom
+assign: Noel
+assign: ExitD_armory_mtg
+assign: 106_sneaking_init
+assign: board
+assign: device
+assign: goout
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory_mtgroom  
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory_mtgroom  
+EV::end - ___Tigrina/106sneak__init
+EV::start - ___Tigrina/t01 line:101
+EV::end - ___Tigrina/t01
+EV::start - %M2EVENTCOMMAND__@school_garage_right~tigrina__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_garage_right~tigrina__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~106_sneaking_init__LOAD line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~106_sneaking_init__LOAD
+EV::start - ___Tigrina/106sneak_00 line:0
+ロードポイント: Line 9
+EV::end - ___Tigrina/106sneak_00
+EV::start - ___Tigrina/106sneak_kabesiri line:0
+assign: NoelCane
+EV::end - ___Tigrina/106sneak_kabesiri
+EV::start - _VO_SPOT line:0
+EV::end - _VO_SPOT
+EV::start - ___Tigrina/106sneak_kabesiri line:25
+EV::end - ___Tigrina/106sneak_kabesiri
+EV::start - ___Tigrina/106sneak_00 line:17
+>>AutoSave
+EV::end - ___Tigrina/106sneak_00
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~device__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~device__CHECK
+EV::start - ___Tigrina/106sneak_mtgroom_device line:0
+EV::end - ___Tigrina/106sneak_mtgroom_device
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~board__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~board__CHECK
+EV::start - ___Tigrina/106sneak__board line:0
+EV::end - ___Tigrina/106sneak__board
+ロードポイント: Line 5
+EV::start - 107/69_armory_mtg_out line:0
+EV::end - 107/69_armory_mtg_out
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~ExitD_armory_mtg__STAND line:7
+ロードポイント: Line 18
+map_close:: school_in_armory_mtgroom
+map_open:: school_in_armory
+assign: Noel
+assign: ExitD_armory_mtg
+assign: sneaker_0
+assign: sneaker_1
+assign: sneaker_2
+assign: sneaker_3
+assign: sneaker_4
+assign: sneaker_5
+assign: pickup_checker
+assign: Ev_out
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory  
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 58
+ event: %M2EVENTCOMMAND__@school_in_armory_mtgroom~ExitD_armory_mtg__STAND
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~ExitD_armory_mtg__STAND
+EV::start - %M2EVENTCOMMAND__@school_in_armory~sneaker_0__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory~sneaker_0__LOAD_ONCE
+EV::start - ___Tigrina/106sneak__first line:0
+ロードポイント: Line 30
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+EV::end - ___Tigrina/106sneak__first
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+EV::start - %M2EVENTCOMMAND__@school_in_armory~pickup_checker__STAND line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory~pickup_checker__STAND
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+EV::start - ___Tigrina/106sneak__pickup_memorychip line:0
+EV::end - ___Tigrina/106sneak__pickup_memorychip
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+EV::start - %M2EVENTCOMMAND__@school_in_armory~pickup_checker__STAND line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory~pickup_checker__STAND
+EV::start - ___Tigrina/106sneak__pickup_notice line:0
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 13
+ event: ___Tigrina/106sneak__pickup_notice
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+EV::end - ___Tigrina/106sneak__pickup_notice
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんwalk_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+EV::start - %M2EVENTCOMMAND__@school_in_armory~Ev_out__STAND line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory~Ev_out__STAND
+EV::start - ___Tigrina/106sneak__return_success line:0
+PxlCharaAnimator: ポーズが見つかりませんstand_light
+map_close:: school_in_armory
+map_open:: school_in_garage
+assign: Noel
+assign: ExitD_garage
+assign: tigrina
+assign: Ev_huda
+assign: Ev_smnc_center
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_garage  
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_garage  
+EV::end - ___Tigrina/106sneak__return_success
+EV::start - %M2EVENTCOMMAND__@school_in_garage~Ev_smnc_center__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_garage~Ev_smnc_center__LOAD_ONCE
+EV::start - ___Tigrina/t10 line:0
+BGM Tigrina_Normal はすでに CurPl 側に読み込まれています
+危険度を 0 に設定
+ロードポイント: Line 27
+反対側プレイヤーが初期化されていません
+EV::end - ___Tigrina/t10
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - ___Tigrina/t10 line:41
+ロードポイント: Line 91
+SUMMONER_TYPE (act:False) タイプを MAIN => 27 に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_garage
+assign: SLIME_TUTORIAL_GARAGE_0
+assign: SLIME_0_1
+assign: SLIME_0_2
+SUMMONER_TYPE (act:True) タイプを 27 => NO_REVERT に設定
+EV::end - ___Tigrina/t10
+EV::start - %M2EVENTCOMMAND__@school_in_garage~Ev_smnc_center__LOAD_ONCE line:7
+EV::end - %M2EVENTCOMMAND__@school_in_garage~Ev_smnc_center__LOAD_ONCE
+Summoner SmnC_garage is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - ___Tigrina/t11 line:0
+EV::end - ___Tigrina/t11
+EV::start - ___Tigrina/t13 line:0
+EV::end - ___Tigrina/t13
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - ___Tigrina/t13 line:63
+EV::end - ___Tigrina/t13
+EV::start - 106/tigrina_after_flag line:0
+EV::end - 106/tigrina_after_flag
+EV::start - ___Tigrina/t13 line:133
+>>AutoSave
+EV::end - ___Tigrina/t13
+EV::start - ___GM/alchemy_recipe_book line:0
+EV::end - ___GM/alchemy_recipe_book
+EV::start - %M2EVENTCOMMAND__@school_in_garage~tigrina__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_garage~tigrina__TALK
+EV::start - ___Tigrina/___portal line:0
+ロードポイント: Line 26
+EV::end - ___Tigrina/___portal
+EV::start - ___Tigrina/t_unlock_enemy line:0
+EV::end - ___Tigrina/t_unlock_enemy
+EV::start - ___Tigrina/___portal line:153
+EV::end - ___Tigrina/___portal
+EV::start - ___Tigrina/t_enemydrop line:0
+EV::end - ___Tigrina/t_enemydrop
+EV::start - ___Tigrina/___portal line:153
+EV::end - ___Tigrina/___portal
+EV::start - ___Tigrina/t_elecboard line:0
+EV::end - ___Tigrina/t_elecboard
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - ___Tigrina/t_elecboard line:30
+EV::end - ___Tigrina/t_elecboard
+EV::start - ___Tigrina/___portal line:153
+assign: UiSmnCreatorCamera_134888
+>>AutoSave
+危険度を 160 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_garage
+Battle start: W86 / D160
+EV::end - ___Tigrina/___portal
+assign: SLIME_0_0
+assign: SLIME_0_1
+assign: NoelCane
+assign: SLIME_0_2
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: SLIME_0_3
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: SLIME_0_4
+assign: SLIME_0_5
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: SLIME_0_6
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: SLIME_0_7
+assign: NoelCane
+assign: NoelCane
+assign: NoelCaneB
+EV::start - __M2D_GAMEOVER line:0
+危険度を 0 に設定
+Summoner SmnC_garage is closed
+map_close:: school_in_garage
+全てのマップを再構築
+map_open:: school_in_garage
+assign: Noel
+assign: ExitD_garage
+assign: NoelCane
+assign: NoelCaneB
+assign: tigrina
+assign: Ev_huda
+assign: Ev_smnc_center
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_garage  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - ___Tigrina/_gameover_after line:0
+EV::end - ___Tigrina/_gameover_after
+EV::start - __M2D_GAMEOVER line:250
+EV::end - __M2D_GAMEOVER
+EV::start - %M2EVENTCOMMAND__@school_in_garage~Ev_smnc_center__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_garage~Ev_smnc_center__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@school_in_garage~tigrina__TALK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_garage~tigrina__TALK
+EV::start - ___Tigrina/___portal line:0
+ロードポイント: Line 26
+EV::end - ___Tigrina/___portal
+EV::start - %M2EVENTCOMMAND__@school_in_garage~Ev_huda__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_garage~Ev_huda__CHECK
+EV::start - ___Tigrina/board01 line:0
+EV::end - ___Tigrina/board01
+ロードポイント: Line 12
+map_close:: school_in_garage
+map_open:: school_garage_pre
+assign: Noel
+assign: ExitD_garagepre
+assign: ExitD_garage
+assign: ExitR_gp
+assign: -slimedecoy-1
+assign: -slimedecoy-2
+assign: Ev_huda
+assign: bench__Ev__obj/bench_wide.png__24.375_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:school_garage_pre  
+ロードポイント: Line 12
+map_close:: school_garage_pre
+map_open:: school_garage_right
+assign: Noel
+assign: ExitL_gp
+M2EventContainer::reload - コマンドの再読み込みを実行:school_garage_right  
+ロードポイント: Line 12
+map_close:: school_garage_right
+map_open:: school_garage_pre
+assign: Noel
+assign: ExitD_garagepre
+assign: ExitD_garage
+assign: ExitR_gp
+assign: -slimedecoy-1
+assign: -slimedecoy-2
+assign: Ev_huda
+assign: bench__Ev__obj/bench_wide.png__24.375_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:school_garage_pre  
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_hp line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_hp
+EV::start - _bench_cure_hp_00 line:0
+EV::end - _bench_cure_hp_00
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_hp line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_hp
+>>AutoSave
+ロードポイント: Line 12
+map_close:: school_garage_pre
+map_open:: school_garage_right
+assign: Noel
+assign: ExitL_gp
+M2EventContainer::reload - コマンドの再読み込みを実行:school_garage_right  
+ロードポイント: Line 12
+map_close:: school_garage_right
+map_open:: school_garage_pre
+assign: Noel
+assign: ExitD_garagepre
+assign: ExitD_garage
+assign: ExitR_gp
+assign: -slimedecoy-1
+assign: -slimedecoy-2
+assign: Ev_huda
+assign: bench__Ev__obj/bench_wide.png__24.375_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:school_garage_pre  
+ロードポイント: Line 5
+EV::start - ___Tigrina/t_garage_pre_goout line:0
+EV::end - ___Tigrina/t_garage_pre_goout
+EV::start - %M2EVENTCOMMAND__@school_garage_pre~ExitD_garagepre__STAND line:7
+ロードポイント: Line 18
+map_close:: school_garage_pre
+map_open:: school_b1_out
+assign: Noel
+assign: ExitD_garagepre
+assign: ExitD_b1out
+assign: ghost_enemy
+M2EventContainer::reload - コマンドの再読み込みを実行:school_b1_out  
+EV::end - %M2EVENTCOMMAND__@school_garage_pre~ExitD_garagepre__STAND
+EV::start - %M2EVENTCOMMAND__@school_b1_out~ghost_enemy__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_b1_out~ghost_enemy__LOAD_ONCE
+EV::start - ___a/106_school_ghost_enemy_0 line:0
+SUMMONER_TYPE (act:False) タイプを MAIN => 31 に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+assign: PUPPY_EVENT_0_0
+Opened summoner reader: school_b1_out
+EV::end - ___a/106_school_ghost_enemy_0
+ロードポイント: Line 11
+Summoner school_b1_out is closed
+map_close:: school_b1_out
+map_open:: school_garage_pre
+assign: Noel
+assign: ExitD_garagepre
+assign: ExitD_garage
+assign: ExitR_gp
+assign: -slimedecoy-1
+assign: -slimedecoy-2
+assign: Ev_huda
+assign: bench__Ev__obj/bench_wide.png__24.375_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:school_garage_pre  
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 43
+ event: %M2EVENTCOMMAND__@school_b1_out~ExitD_garagepre__CHECK
+ロードポイント: Line 5
+EV::start - ___Tigrina/t_garage_pre_goout line:0
+EV::end - ___Tigrina/t_garage_pre_goout
+EV::start - %M2EVENTCOMMAND__@school_garage_pre~ExitD_garagepre__STAND line:7
+ロードポイント: Line 18
+map_close:: school_garage_pre
+map_open:: school_b1_out
+assign: Noel
+assign: ExitD_garagepre
+assign: ExitD_b1out
+assign: ghost_enemy
+M2EventContainer::reload - コマンドの再読み込みを実行:school_b1_out  
+EV::end - %M2EVENTCOMMAND__@school_garage_pre~ExitD_garagepre__STAND
+EV::start - %M2EVENTCOMMAND__@school_b1_out~ghost_enemy__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_b1_out~ghost_enemy__LOAD_ONCE
+EV::start - ___a/106_school_ghost_enemy_0 line:0
+SUMMONER_TYPE (act:False) タイプを MAIN => 31 に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+assign: PUPPY_EVENT_0_0
+Opened summoner reader: school_b1_out
+EV::end - ___a/106_school_ghost_enemy_0
+ロードポイント: Line 11
+Summoner school_b1_out is closed
+map_close:: school_b1_out
+map_open:: school_in_hall_center_b1
+assign: Noel
+assign: ExitL_sclLb1
+assign: ExitR_sclRb1
+assign: ExitD_b1out
+assign: woman_elf_student_1
+assign: man_elf_young_student
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_center_b1  
+ロードポイント: Line 12
+map_close:: school_in_hall_center_b1
+map_open:: school_in_hall_right_b1
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_scl_in_hall_right
+assign: ExitL_sclRb1
+assign: ExitD_scl_health
+assign: woman_elf_army_4
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_right_b1  
+ロードポイント: Line 11
+map_close:: school_in_hall_right_b1
+map_open:: school_in_hall_right
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_2f_1f
+assign: ExitD_scl_in_hall_right
+assign: ExitL_sclR
+assign: ExitD_scl_health
+assign: restroom
+assign: Ev_door_shower
+assign: mob0
+assign: mob1
+assign: mob2
+assign: mob3
+assign: mob4
+assign: mob5
+assign: mobq
+assign: alma
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_right  
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~mob0__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~mob0__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~mob1__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~mob1__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~mob2__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~mob2__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~mob3__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~mob3__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~mob4__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~mob4__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~mob5__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~mob5__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~alma__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~alma__LOAD_ONCE
+EV::start - 106/00_alma_goto_ground line:0
+ロードポイント: Line 7
+map_close:: school_in_hall_right
+全てのマップを再構築
+map_open:: city_scl_ground
+assign: Noel
+assign: Treasure_mg_watershard
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: boss
+assign: staff
+assign: dev0
+assign: dev1
+assign: dev2
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::end - 106/00_alma_goto_ground
+EV::start - 106/01_ground_ensyu line:0
+EV::end - 106/01_ground_ensyu
+EV::start - 106/_put_citycaster line:0
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_sub_l
+assign: citycaster_14
+EV::end - 106/_put_citycaster
+EV::start - 106/01_ground_ensyu line:8
+ロードポイント: Line 45
+EV::end - 106/01_ground_ensyu
+EV::start - ___city_forge/get_first_cane line:0
+EV::end - ___city_forge/get_first_cane
+EV::start - 106/01_ground_ensyu line:47
+EV::end - 106/01_ground_ensyu
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - 106/01_ground_ensyu line:135
+EV::end - 106/01_ground_ensyu
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - 106/01_ground_ensyu line:145
+EV::end - 106/01_ground_ensyu
+EV::start - 106/02_learn_watershard line:0
+EV::end - 106/02_learn_watershard
+assign: NoelCane
+LightPostProcessor.SetupRenderTargets(): create RTs. 512x256 + 356x324 levels:4
+ロードポイント: Line 14
+EV::start - 106/02_learn_watershard line:27
+map_close:: city_scl_ground
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: boss
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::end - 106/02_learn_watershard
+EV::start - 106/03_ensyu line:0
+EV::end - 106/03_ensyu
+EV::start - 106/_put_citycaster line:0
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_sub_l
+assign: citycaster_14
+EV::end - 106/_put_citycaster
+EV::start - 106/03_ensyu line:7
+EV::end - 106/03_ensyu
+EV::start - 106/04_ensyu_first_orbit line:0
+assign: SclTeacherPVV106
+EV::end - 106/04_ensyu_first_orbit
+EV::start - 106/05_ensyu_aim_big line:0
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.7
+EV::end - 106/05_ensyu_aim_big
+EV::start - 106/06_ensyu_aim_big2 line:0
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 7
+ event: 106/06_ensyu_aim_big2
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.7
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.6
+EV::end - 106/06_ensyu_aim_big2
+EV::start - 106/07_ensyu_aim_small line:0
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 8
+ event: 106/07_ensyu_aim_small
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.6
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.7
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.5
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.4
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.3
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.2
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.1
+EV::end - 106/07_ensyu_aim_small
+EV::start - 106/08_confirm line:0
+EV::end - 106/08_confirm
+EV::start - 106/20_before_matofight line:0
+map_close:: city_scl_ground
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: boss
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::end - 106/20_before_matofight
+EV::start - 106/21_matofight_rule line:0
+EV::end - 106/21_matofight_rule
+EV::start - 106/_put_citycaster line:0
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_sub_l
+assign: citycaster_14
+EV::end - 106/_put_citycaster
+EV::start - 106/21_matofight_rule line:6
+EV::end - 106/21_matofight_rule
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - 106/21_matofight_rule line:62
+assign: SclTeacherPVV106
+EV::end - 106/21_matofight_rule
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.7
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.6
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.5
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.4
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.3
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.2
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.1
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.3
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.4
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.6
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.5
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.7
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.2
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.1
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.0
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.8
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.9
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.10
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.11
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.12
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.13
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.14
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.15
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.16
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.17
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.18
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.19
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.20
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.0
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.17
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.1
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.15
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.0
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.1
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.2
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.9
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.10
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.13
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.14
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.16
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.18
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.20
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.11
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.8
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.19
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.12
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.3
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.4
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.5
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.7
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.6
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.21
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.22
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.23
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.24
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.5
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.10
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.13
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.1
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.20
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.9
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.2
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.0
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.19
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.22
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.23
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.18
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.18
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.5
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.1
+assign: M2D-city_scl_ground-Pool-Ev_almapvv105_matoate.10
+EV::start - 106/25_matofight_finish line:0
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: school_in_hall_right
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_2f_1f
+assign: ExitD_scl_in_hall_right
+assign: ExitL_sclR
+assign: ExitD_scl_health
+assign: restroom
+assign: Ev_door_shower
+assign: woman_elf_student_8
+assign: alma
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_right  
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_right  
+EV::end - 106/25_matofight_finish
+EV::start - %M2EVENTCOMMAND__@school_in_hall_right~woman_elf_student_8__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_hall_right~woman_elf_student_8__LOAD_ONCE
+EV::start - 106/30_shower line:0
+ロードポイント: Line 15
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_right  
+EV::end - 106/30_shower
+EV::start - 106/31_kodo line:0
+EV::end - 106/31_kodo
+EV::start - 106/32_prepare_defence line:0
+EV::end - 106/32_prepare_defence
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - 106/32_prepare_defence line:183
+map_close:: school_in_hall_right
+全てのマップを再構築
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::end - 106/32_prepare_defence
+EV::start - 107/_td_portal line:0
+BGM BGM_towerdefence はすでに CurPl 側に読み込まれています
+>>AutoSave
+ロードポイント: Line 92
+反対側プレイヤーが初期化されていません
+assign: UiSmnCreatorCamera_198250
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: eyescope_107_td__obj/eyescope.png__26.625_36.03571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_218612
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: citycaster_16
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_19
+assign: citycaster_20
+assign: citycaster_21
+assign: citycaster_22
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__27.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__32.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__34.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__37.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__38.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__45.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__60.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_238203
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: citycaster_16
+assign: citycaster_17
+assign: citycaster_18
+assign: citycaster_19
+assign: citycaster_20
+assign: citycaster_21
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__27.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__32.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__34.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__37.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__38.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__45.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__60.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__27.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__32.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__37.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__38.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__45.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__47.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__60.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_249108
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_sub_i
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: citycaster_sub_i
+assign: citycaster_sub_i
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_21
+assign: citycaster_22
+assign: citycaster_23
+assign: citycaster_24
+assign: citycaster_25
+assign: citycaster_sub_i
+assign: citycaster_27
+assign: citycaster_28
+assign: citycaster_sub_i
+assign: citycaster_30
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: eyescope_107_td__obj/eyescope.png__26.625_36.03571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__27.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__32.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__37.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__38.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__45.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__47.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__60.05357_37.16071
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+assign: GOLEM_0_0
+assign: PIG_0_1
+assign: SLIME_0_2
+assign: PIG_0_3
+assign: SLIME_0_4
+assign: SLIME_0_5
+assign: SLIME_0_6
+assign: GOLEM_0_7
+assign: SLIME_0_8
+assign: PIG_0_9
+assign: SLIME_0_10
+assign: SLIME_0_11
+assign: SLIME_0_12
+assign: GOLEM_0_13
+assign: GOLEM_0_14
+assign: NoelCane
+type エラー line0:type TOP_ADD
+assign: PIG_0_15
+assign: NoelCane
+assign: PIG_0_16
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+EV::start - __M2D_GAMEOVER line:0
+危険度を 0 に設定
+Summoner SmnC_td is closed
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: NoelCane
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - ___Tips/bosshint_107 line:0
+EV::end - ___Tips/bosshint_107
+EV::start - 107/_change_danger line:0
+EV::end - 107/_change_danger
+EV::start - ___Tips/bosshint_107 line:3
+EV::end - ___Tips/bosshint_107
+EV::start - ___Tips/_bosshint_portal line:0
+反対側プレイヤーが初期化されていません
+EV::end - ___Tips/_bosshint_portal
+EV::start - ___Tips/bosshint_107 line:4
+EV::end - ___Tips/bosshint_107
+>>AutoSave
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_263070
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_sub_l
+assign: citycaster_15
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_sub_i
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_sub_l
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: eyescope_107_td__obj/eyescope.png__41.625_36.03571
+assign: Barricade-WatchTower-7
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__54.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__56.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__58.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__60.05357_37.16071
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+assign: SLIME_0_0
+assign: SLIME_0_1
+assign: PIG_0_2
+assign: PIG_0_3
+assign: SLIME_0_4
+assign: PIG_0_5
+assign: SLIME_0_6
+assign: SLIME_0_7
+assign: GOLEM_0_8
+assign: SLIME_0_9
+assign: SLIME_0_10
+assign: GOLEM_0_11
+assign: SLIME_0_12
+assign: GOLEM_0_13
+assign: GOLEM_0_14
+assign: PIG_0_15
+assign: PIG_0_16
+assign: EHOME_0_17
+assign: PENTAPOD_0_18
+assign: PENTAPOD_HEAD_0_19
+assign: SLIME_0_20
+assign: GOLEMTOY_MKB_21
+assign: SLIME_0_22
+assign: GOLEMTOY_MKB_23
+assign: PUPPY_0_24
+assign: SLIME_0_25
+assign: PUPPY_0_26
+assign: PUPPY_0_27
+assign: SLIME_0_28
+assign: PENTAPOD_0_29
+assign: PENTAPOD_HEAD_0_30
+assign: UNI_0_31
+assign: SLIME_0_32
+assign: UNI_0_33
+assign: SLIME_0_34
+assign: PENTAPOD_0_35
+assign: PENTAPOD_HEAD_0_36
+assign: PENTAPOD_0_37
+assign: PENTAPOD_HEAD_0_38
+assign: PENTAPOD_0_39
+assign: PENTAPOD_HEAD_0_40
+assign: SLIME_0_41
+assign: SLIME_0_42
+assign: SLIME_0_43
+assign: UNI_0_44
+assign: UNI_0_45
+assign: GOLEMTOY_MKB_46
+assign: PENTAPOD_0_47
+assign: PENTAPOD_HEAD_0_48
+assign: MECHGOLEM_0_49
+assign: MECHGOLEM_0_50
+assign: PIG_0_51
+assign: NoelCane
+assign: NoelCane
+assign: UNI_0_52
+assign: MECHGOLEM_0_53
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_10
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_4
+assign: UNI_0_54
+assign: UNI_0_55
+assign: PENTAPOD_0_56
+assign: PENTAPOD_HEAD_0_57
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~eyescope_107_td__obj/eyescope.png__41.625_36.03571__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~eyescope_107_td__obj/eyescope.png__41.625_36.03571__CHECK
+assign: NoelCane
+Summoner SmnC_td is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - 107/___after_summoner line:0
+ロードポイント: Line 17
+EV::end - 107/___after_summoner
+EV::start - 107/50_td_finish_00 line:0
+EV::end - 107/50_td_finish_00
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - 107/50_td_finish_00 line:23
+危険度を 0 に設定
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: NoelCane
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+>>AutoSave
+EV::end - 107/50_td_finish_00
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_281968
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_sub_i
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_sub_l
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__22.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__27.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__46.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__54.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__56.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__58.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__60.05357_37.16071
+assign: citycaster_sub_l
+assign: citycaster_sub_l
+assign: citycaster_18
+assign: citycaster_19
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__22.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__27.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__36.01786_36.69643
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__46.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__54.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__56.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__58.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__60.05357_37.16071
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: SPONGE_1_0
+assign: SPONGE_1_1
+assign: SPONGE_1_2
+assign: RAMDA_0_3
+assign: RAMDA_0_4
+assign: RAMDA_0_5
+assign: GOLEM_0_6
+assign: GOLEM_0_7
+assign: GOLEMTOY_CATAPULT_8
+assign: RAMDA_0_9
+assign: RAMDA_0_10
+assign: RAMDA_0_11
+assign: RAMDA_0_12
+assign: RAMDA_0_13
+assign: RAMDA_0_14
+assign: RAMDA_0_15
+assign: ROAPER_0_16
+assign: RAMDA_0_17
+assign: ROAPER_0_18
+assign: ROAPER_0_19
+assign: ROAPER_0_20
+assign: EHOME_0_21
+assign: GOLEM_0_22
+assign: GOLEM_0_23
+assign: GOLEMTOY_CATAPULT_24
+assign: NoelCane
+assign: GOLEM_0_25
+assign: GOLEM_0_26
+assign: GOLEM_0_27
+assign: GOLEMTOY_CATAPULT_28
+assign: RAMDA_0_29
+assign: GOLEM_0_30
+assign: PENTAPOD_0_31
+assign: PENTAPOD_HEAD_0_32
+assign: RAMDA_0_33
+assign: GOLEM_0_34
+assign: PENTAPOD_0_35
+assign: PENTAPOD_HEAD_0_36
+assign: ROAPER_0_37
+assign: DropCane-citycaster_5
+assign: RAMDA_0_38
+assign: GOLEM_0_39
+assign: SNAKE_0_40
+assign: DropCane-citycaster_18
+assign: NoelCane
+assign: RAMDA_0_41
+assign: ROAPER_0_42
+assign: GOLEM_0_43
+assign: PENTAPOD_0_44
+assign: PENTAPOD_HEAD_0_45
+assign: GOLEMTOY_POD_46
+assign: DropCane-citycaster_0
+assign: GOLEMTOY_POD_47
+assign: GOLEMTOY_POD_48
+assign: DropCane-citycaster_12
+assign: GOLEMTOY_POD_49
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_5
+assign: NoelCane
+assign: DropCane-citycaster_4
+assign: NoelCane
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_4
+assign: NoelCane
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_19
+assign: NoelCane
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_18
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_18
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_5
+assign: GOLEM_0_50
+assign: NoelCane
+assign: GOLEM_0_51
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_18
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_1
+assign: NoelCane
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_9
+assign: GOLEM_0_52
+assign: GOLEM_0_53
+assign: NoelCane
+assign: NoelHat
+assign: GOLEM_0_54
+assign: GOLEM_0_55
+assign: GOLEM_0_56
+assign: NoelCane
+assign: NoelHat
+assign: GOLEM_0_57
+assign: GOLEM_0_58
+assign: GOLEM_0_59
+assign: RAMDA_0_60
+assign: ROAPER_0_61
+assign: ROAPER_0_62
+assign: RAMDA_0_63
+assign: NoelCane
+assign: NoelCane
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_18
+assign: NoelCane
+assign: DropCane-citycaster_0
+assign: NoelCane
+EV::start - __M2D_GAMEOVER line:0
+危険度を 0 に設定
+Summoner SmnC_td is closed
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: NoelCane
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - ___Tips/bosshint_107 line:0
+EV::end - ___Tips/bosshint_107
+EV::start - 107/_change_danger line:0
+危険度を 0 に設定
+EV::end - 107/_change_danger
+EV::start - ___Tips/bosshint_107 line:3
+EV::end - ___Tips/bosshint_107
+EV::start - ___Tips/_bosshint_portal line:0
+反対側プレイヤーが初期化されていません
+EV::end - ___Tips/_bosshint_portal
+EV::start - ___Tips/bosshint_107 line:4
+EV::end - ___Tips/bosshint_107
+>>AutoSave
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_311133
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_sub_l
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_sub_i
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: citycaster_16
+assign: citycaster_17
+assign: citycaster_18
+assign: citycaster_19
+assign: citycaster_20
+assign: citycaster_21
+assign: citycaster_sub_l
+assign: citycaster_23
+assign: citycaster_24
+assign: citycaster_25
+assign: citycaster_26
+assign: citycaster_27
+assign: citycaster_28
+assign: citycaster_29
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_354772
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_356067
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_357136
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: SPONGE_1_0
+assign: SPONGE_1_1
+assign: SPONGE_1_2
+assign: RAMDA_0_3
+assign: RAMDA_0_4
+assign: RAMDA_0_5
+assign: GOLEM_0_6
+assign: GOLEM_0_7
+assign: GOLEMTOY_CATAPULT_8
+assign: RAMDA_0_9
+assign: ROAPER_0_10
+assign: RAMDA_0_11
+assign: RAMDA_0_12
+assign: ROAPER_0_13
+assign: RAMDA_0_14
+assign: RAMDA_0_15
+assign: ROAPER_0_16
+assign: RAMDA_0_17
+assign: ROAPER_0_18
+assign: RAMDA_0_19
+assign: RAMDA_0_20
+assign: NoelCane
+assign: EHOME_0_21
+assign: GOLEM_0_22
+assign: GOLEM_0_23
+assign: GOLEMTOY_CATAPULT_24
+assign: GOLEM_0_25
+assign: GOLEM_0_26
+assign: GOLEM_0_27
+assign: GOLEMTOY_CATAPULT_28
+assign: GOLEMTOY_POD_29
+assign: GOLEM_0_30
+assign: GOLEM_0_31
+assign: NoelCane
+assign: GOLEM_0_32
+assign: GOLEMTOY_POD_33
+assign: PENTAPOD_0_34
+assign: PENTAPOD_HEAD_0_35
+assign: PENTAPOD_0_36
+assign: PENTAPOD_HEAD_0_37
+assign: NoelCane
+assign: NoelCane
+assign: RAMDA_0_38
+assign: NoelCane
+assign: RAMDA_0_39
+assign: DropCane-citycaster_8
+assign: GOLEM_0_40
+assign: NoelCane
+assign: GOLEM_0_41
+assign: GOLEMTOY_POD_42
+assign: GOLEM_0_43
+assign: GOLEM_0_44
+assign: GOLEM_0_45
+assign: GOLEM_0_46
+assign: GOLEM_0_47
+assign: GOLEMTOY_POD_48
+assign: GOLEM_0_49
+assign: GOLEM_0_50
+assign: PENTAPOD_0_51
+assign: PENTAPOD_HEAD_0_52
+assign: GOLEM_0_53
+assign: GOLEM_0_54
+assign: SNAKE_0_55
+assign: GOLEMTOY_POD_56
+assign: NoelCane
+assign: DropCane-citycaster_11
+assign: NoelCane
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_1
+assign: NoelCane
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_7
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_7
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_3
+assign: DropCane-citycaster_15
+assign: DropCane-citycaster_14
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: DropCane-citycaster_7
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_15
+assign: DropCane-citycaster_14
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_3
+assign: RAMDA_0_57
+assign: ROAPER_0_58
+assign: ROAPER_0_59
+assign: RAMDA_0_60
+assign: NoelCane
+assign: NoelCane
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_12
+Summoner SmnC_td is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - 107/___after_summoner line:0
+ロードポイント: Line 17
+EV::end - 107/___after_summoner
+EV::start - 107/50_td_finish_00 line:0
+危険度を 0 に設定
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+>>AutoSave
+EV::end - 107/50_td_finish_00
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_376787
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_410149
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_411727
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_412663
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_413561
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_415146
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_416083
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: citycaster_sub_l
+assign: citycaster_17
+assign: citycaster_18
+assign: citycaster_19
+assign: citycaster_20
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__27.89286_37.10714
+assign: primula
+assign: Barricade-WatchTower-3
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__35.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__55.05357_37.16071
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: MECHGOLEM_1_0
+assign: NoelCane
+assign: NoelCane
+assign: PIG_0_1
+assign: RAMDA_0_2
+assign: MUSH_0_3
+assign: MECHGOLEM_0_4
+assign: RAMDA_0_5
+assign: GOLEM_0_6
+assign: PIG_0_7
+assign: RAMDA_0_8
+assign: GOLEM_0_9
+assign: RAMDA_0_10
+assign: EHOME_0_11
+assign: GOLEM_0_12
+assign: GOLEM_0_13
+assign: GOLEMTOY_CATAPULT_0_14
+assign: UNI_0_15
+assign: SLIME_0_16
+assign: SLIME_0_17
+assign: SLIME_0_18
+assign: NoelCane
+assign: UNI_0_19
+assign: PIG_0_20
+assign: DropCane-citycaster_20
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_2
+assign: SLIME_0_21
+assign: SLIME_0_22
+assign: DropCane-citycaster_sub_i
+assign: NoelCane
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_sub_l
+assign: FOX_0_23
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_3
+assign: DropCane-citycaster_20
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_11
+assign: NoelCane
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_12
+assign: NoelCane
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_3
+assign: NoelCane
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_20
+assign: UNI_0_24
+assign: SLIME_0_25
+assign: DropCane-citycaster_12
+assign: MAGE_0_26
+assign: MAGE_0_27
+assign: DropCane-citycaster_1
+assign: MECHGOLEM_0_28
+assign: DropCane-citycaster_14
+assign: MAGE_0_29
+assign: MAGE_0_30
+assign: GOLEMTOY_MKB_31
+assign: GOLEMTOY_MKB_32
+assign: GOLEMTOY_MKB_33
+assign: GOLEM_0_34
+assign: GOLEM_0_35
+assign: GOLEMTOY_CATAPULT_36
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_15
+assign: DropCane-citycaster_sub_l
+assign: MAGE_0_37
+assign: MUSH_0_38
+assign: DropCane-citycaster_sub_l
+assign: RAMDA_0_39
+assign: NoelCaneB
+assign: RAMDA_0_40
+assign: RAMDA_0_41
+assign: RAMDA_0_42
+EV::start - __M2D_GAMEOVER line:0
+危険度を 0 に設定
+Summoner SmnC_td is closed
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: NoelCane
+assign: NoelCaneB
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - ___Tips/bosshint_107 line:0
+EV::end - ___Tips/bosshint_107
+EV::start - 107/_change_danger line:0
+危険度を 0 に設定
+EV::end - 107/_change_danger
+EV::start - ___Tips/bosshint_107 line:3
+EV::end - ___Tips/bosshint_107
+EV::start - ___Tips/_bosshint_portal line:0
+反対側プレイヤーが初期化されていません
+EV::end - ___Tips/_bosshint_portal
+EV::start - ___Tips/bosshint_107 line:4
+EV::end - ___Tips/bosshint_107
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:0
+ロードポイント: Line 2
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - _bench_cure_ep_enemy_orgasm line:0
+EV::end - _bench_cure_ep_enemy_orgasm
+EV::start - _bench_cure_ep_mob line:0
+EV::end - _bench_cure_ep_mob
+EV::start - _bench_check_sf_level line:0
+EV::end - _bench_check_sf_level
+EV::start - _bench_cure_ep_mob line:25
+ロードポイント: Line 41
+EV::end - _bench_cure_ep_mob
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_ep_mob line:45
+EV::end - _bench_cure_ep_mob
+EV::start - _bench_ev_masturb_noel line:0
+EV::end - _bench_ev_masturb_noel
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_ev_masturb_noel line:1
+EV::end - _bench_ev_masturb_noel
+EV::start - _SND_SPOT_R line:0
+EV::end - _SND_SPOT_R
+EV::start - _bench_cure_ep_mob line:57
+ロードポイント: Line 182
+EV::end - _bench_cure_ep_mob
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:4
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_hp line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_hp
+EV::start - _bench_cure_hp_00 line:0
+EV::end - _bench_cure_hp_00
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_hp line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_hp
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_cloth line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_cloth
+EV::start - _bench_cure_cloth_mob line:0
+ロードポイント: Line 35
+EV::end - _bench_cure_cloth_mob
+EV::start - _bench_cure_cloth_darken line:0
+EV::end - _bench_cure_cloth_darken
+EV::start - _bench_cure_cloth_mob line:100
+EV::end - _bench_cure_cloth_mob
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_cloth line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_cloth
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - _bench_cure_ep_enemy_orgasm line:0
+EV::end - _bench_cure_ep_enemy_orgasm
+EV::start - _bench_cure_ep_mob line:0
+ロードポイント: Line 41
+EV::end - _bench_cure_ep_mob
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_ep_mob line:45
+EV::end - _bench_cure_ep_mob
+EV::start - _bench_ev_masturb_noel line:0
+EV::end - _bench_ev_masturb_noel
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_ev_masturb_noel line:1
+EV::end - _bench_ev_masturb_noel
+EV::start - _SND_SPOT_R line:0
+EV::end - _SND_SPOT_R
+EV::start - _bench_cure_ep_mob line:57
+ロードポイント: Line 182
+EV::end - _bench_cure_ep_mob
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_egged line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_egged
+EV::start - _bench_cure_ep_do_not line:0
+ロードポイント: Line 19
+EV::end - _bench_cure_ep_do_not
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_ep_do_not line:23
+EV::end - _bench_cure_ep_do_not
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_egged line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_egged
+>>AutoSave
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_461320
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_sub_i
+assign: citycaster_6
+assign: citycaster_sub_l
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__37.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__42.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__47.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__52.01786_36.69643
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_18
+assign: citycaster_19
+assign: citycaster_20
+assign: citycaster_21
+assign: citycaster_22
+assign: citycaster_23
+assign: citycaster_24
+assign: citycaster_25
+assign: citycaster_26
+assign: citycaster_27
+assign: citycaster_28
+assign: citycaster_29
+assign: citycaster_30
+assign: citycaster_31
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__21.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__27.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__32.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__37.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__42.01786_36.69643
+assign: citycaster_32
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_37
+assign: citycaster_38
+assign: citycaster_39
+assign: citycaster_40
+assign: citycaster_41
+assign: citycaster_42
+assign: citycaster_43
+assign: citycaster_44
+assign: citycaster_45
+assign: citycaster_46
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__21.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__27.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__34.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__41.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__48.01786_36.69643
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_49
+assign: citycaster_50
+assign: citycaster_51
+assign: citycaster_52
+assign: citycaster_53
+assign: citycaster_54
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__21.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__27.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__45.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__21.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__27.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__45.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__21.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__27.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__46.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__21.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__27.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__46.01786_36.69643
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: MECHGOLEM_1_0
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_49
+assign: NoelCane
+assign: GOLEM_0_1
+assign: RAMDA_0_2
+assign: PIG_0_3
+assign: MECHGOLEM_0_4
+assign: RAMDA_0_5
+assign: GOLEM_0_6
+assign: PIG_0_7
+assign: NoelCane
+assign: RAMDA_0_8
+assign: NoelHat
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelHat
+assign: RAMDA_0_9
+assign: NoelCane
+assign: DropCane-citycaster_sub_i
+assign: MUSH_0_10
+assign: DropCane-citycaster_49
+assign: DropCane-citycaster_53
+assign: EHOME_0_11
+assign: GOLEM_0_12
+assign: GOLEM_0_13
+assign: GOLEMTOY_CATAPULT_0_14
+assign: SLIME_0_15
+assign: UNI_0_16
+assign: SLIME_0_17
+assign: SLIME_0_18
+assign: MUSH_0_19
+assign: UNI_0_20
+assign: DropCane-citycaster_sub_i
+assign: SLIME_0_21
+assign: PIG_0_22
+assign: DropCane-citycaster_51
+assign: DropCane-citycaster_50
+assign: NoelCane
+assign: PIG_0_23
+assign: UNI_0_24
+assign: DropCane-citycaster_51
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_52
+assign: DropCane-citycaster_12
+assign: NoelCane
+assign: DropCane-citycaster_52
+assign: FOX_0_25
+assign: SLIME_0_26
+assign: NoelCane
+assign: NoelCane
+assign: PIG_0_27
+assign: UNI_0_28
+assign: MUSH_0_29
+assign: MUSH_0_30
+assign: MAGE_0_31
+assign: MECHGOLEM_0_32
+assign: MAGE_0_33
+assign: MAGE_0_34
+assign: MAGE_0_35
+assign: GOLEMTOY_MKB_36
+assign: GOLEMTOY_MKB_37
+assign: GOLEMTOY_MKB_38
+assign: GOLEM_0_39
+assign: GOLEM_0_40
+assign: GOLEMTOY_CATAPULT_41
+assign: MAGE_0_42
+assign: RAMDA_0_43
+assign: MECHGOLEM_0_44
+assign: RAMDA_0_45
+assign: RAMDA_0_46
+assign: RAMDA_0_47
+assign: NoelCane
+assign: RAMDA_0_48
+assign: NoelCaneB
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_51
+assign: DropCane-citycaster_31
+assign: DropCane-citycaster_54
+assign: DropCane-citycaster_25
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_45
+assign: DropCane-citycaster_49
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_50
+assign: DropCane-citycaster_52
+assign: DropCane-citycaster_44
+assign: DropCane-citycaster_44
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_53
+assign: DropCane-citycaster_45
+assign: DropCane-citycaster_25
+assign: DropCane-citycaster_52
+assign: DropCane-citycaster_44
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_49
+assign: DropCane-citycaster_50
+assign: DropCane-citycaster_45
+assign: DropCane-citycaster_25
+assign: DropCane-citycaster_50
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_44
+assign: DropCane-citycaster_52
+assign: DropCane-citycaster_52
+assign: DropCane-citycaster_50
+assign: DropCane-citycaster_44
+assign: DropCane-citycaster_25
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_45
+assign: DropCane-citycaster_25
+assign: DropCane-citycaster_52
+assign: DropCane-citycaster_44
+assign: DropCane-citycaster_45
+assign: DropCane-citycaster_44
+assign: DropCane-citycaster_25
+EV::start - __M2D_GAMEOVER line:0
+危険度を 0 に設定
+Summoner SmnC_td is closed
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: NoelCane
+assign: NoelCaneB
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - ___Tips/bosshint_107 line:0
+EV::end - ___Tips/bosshint_107
+EV::start - 107/_change_danger line:0
+危険度を 0 に設定
+EV::end - 107/_change_danger
+EV::start - ___Tips/bosshint_107 line:3
+EV::end - ___Tips/bosshint_107
+EV::start - ___Tips/_bosshint_portal line:0
+反対側プレイヤーが初期化されていません
+EV::end - ___Tips/_bosshint_portal
+EV::start - ___Tips/bosshint_107 line:4
+EV::end - ___Tips/bosshint_107
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:0
+ロードポイント: Line 2
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - _bench_cure_ep_enemy_orgasm line:0
+EV::end - _bench_cure_ep_enemy_orgasm
+EV::start - _bench_cure_ep_mob line:0
+EV::end - _bench_cure_ep_mob
+EV::start - _bench_check_sf_level line:0
+EV::end - _bench_check_sf_level
+EV::start - _bench_cure_ep_mob line:25
+ロードポイント: Line 41
+EV::end - _bench_cure_ep_mob
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_ep_mob line:45
+EV::end - _bench_cure_ep_mob
+EV::start - _bench_ev_masturb_noel line:0
+EV::end - _bench_ev_masturb_noel
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_ev_masturb_noel line:1
+EV::end - _bench_ev_masturb_noel
+EV::start - _SND_SPOT_R line:0
+EV::end - _SND_SPOT_R
+EV::start - _bench_cure_ep_mob line:57
+ロードポイント: Line 182
+EV::end - _bench_cure_ep_mob
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:4
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_540493
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_20
+assign: citycaster_21
+assign: citycaster_22
+assign: citycaster_23
+assign: citycaster_24
+assign: citycaster_25
+assign: citycaster_26
+assign: citycaster_27
+assign: citycaster_28
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_31
+assign: citycaster_32
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_35
+assign: citycaster_36
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__30.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__36.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__42.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__36.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__38.66071_34.625
+assign: citycaster_37
+assign: citycaster_38
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__38.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__40.66071_34.625
+assign: citycaster_39
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__40.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__41.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__41.66071_34.625
+assign: citycaster_40
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__40.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__38.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__35.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__16.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__19.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__19.89286_37.10714
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__37.66071_34.625
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: MECHGOLEM_1_0
+assign: MUSH_0_1
+assign: RAMDA_0_2
+assign: GOLEM_0_3
+assign: PIG_0_4
+assign: RAMDA_0_5
+assign: RAMDA_0_6
+assign: PIG_0_7
+assign: DropCane-citycaster_25
+assign: NoelCane
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_25
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_35
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_37
+assign: DropCane-citycaster_24
+assign: DropCane-citycaster_36
+assign: DropCane-citycaster_26
+assign: DropCane-citycaster_23
+assign: DropCane-citycaster_15
+assign: DropCane-citycaster_22
+assign: DropCane-citycaster_38
+assign: DropCane-citycaster_21
+// ======================
+torture ポーズの設定に失敗しました
+Error Closure: IN-Runner => M2D => MapMain => TS running => Mv runPre -  => MUSH_0_1
+// ======================
+assign: DropCane-citycaster_sub_l
+assign: NoelCane
+assign: DropCane-citycaster_35
+危険度を 0 に設定
+Summoner SmnC_td is closed
+map_close:: city_scl_ground
+<<Read SVD SVD From: 0
+Current TX Family: zh-cn
+EV::start - __INITM2D line:0
+ロードポイント: Line 8
+ロードポイント: Line 11
+EV::end - __INITM2D
+全てのマップを再構築
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+EV::start - __INITNEWGAME line:0
+EV::end - __INITNEWGAME
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_585247
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__15.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__28.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_595695
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__15.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__28.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__15.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__28.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__35.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__42.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__47.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__49.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_604562
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_7
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: citycaster_16
+assign: citycaster_17
+assign: citycaster_18
+assign: citycaster_19
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__15.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__28.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__35.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__42.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__47.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__49.05357_37.16071
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_22
+assign: citycaster_23
+assign: citycaster_24
+assign: citycaster_25
+assign: citycaster_26
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__22.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__28.57143_33.53571
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__42.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__48.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_616386
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__22.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__28.57143_33.53571
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__42.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__48.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__22.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__28.57143_33.53571
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__42.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__48.05357_37.16071
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: MECHGOLEM_1_0
+assign: PIG_0_1
+assign: RAMDA_0_2
+assign: MECHGOLEM_0_3
+assign: GOLEM_0_4
+assign: PIG_0_5
+assign: GOLEM_0_6
+assign: RAMDA_0_7
+assign: NoelCane
+assign: MUSH_0_8
+assign: NoelHat
+assign: NoelCane
+assign: RAMDA_0_9
+assign: DropCane-citycaster_3
+assign: RAMDA_0_10
+assign: NoelCaneB
+assign: DropCane-citycaster_2
+assign: EHOME_0_11
+assign: GOLEM_0_12
+assign: GOLEM_0_13
+assign: GOLEMTOY_CATAPULT_0_14
+assign: SLIME_0_15
+assign: SLIME_0_16
+assign: SLIME_0_17
+assign: UNI_0_18
+assign: MUSH_0_19
+assign: UNI_0_20
+assign: PIG_0_21
+assign: MUSH_0_22
+assign: MUSH_0_23
+assign: UNI_0_24
+assign: SLIME_0_25
+assign: MUSH_0_26
+assign: FOX_0_27
+assign: MAGE_0_28
+assign: MAGE_0_29
+assign: MECHGOLEM_0_30
+assign: MAGE_0_31
+assign: MAGE_0_32
+assign: GOLEMTOY_MKB_33
+assign: GOLEMTOY_MKB_34
+assign: GOLEMTOY_MKB_35
+assign: GOLEM_0_36
+assign: GOLEM_0_37
+assign: GOLEMTOY_CATAPULT_38
+assign: MAGE_0_39
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_4
+assign: RAMDA_0_40
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_10
+assign: RAMDA_0_41
+assign: RAMDA_0_42
+assign: MECHGOLEM_0_43
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_10
+assign: DropCane-citycaster_sub_i
+assign: RAMDA_0_44
+assign: RAMDA_0_45
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_3
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_3
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_12
+assign: HONEYCOMB_0_46
+assign: SYABON_0_47
+assign: DropCane-citycaster_0
+assign: SYABON_0_48
+assign: DropCane-citycaster_12
+assign: SYABON_0_49
+assign: DropCane-citycaster_0
+assign: SYABON_0_50
+assign: SYABON_0_51
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_6
+assign: SYABON_0_52
+assign: SYABON_0_53
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_3
+assign: DropCane-citycaster_5
+assign: SYABON_0_54
+EV::start - __M2D_GAMEOVER line:0
+危険度を 0 に設定
+Summoner SmnC_td is closed
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: NoelCane
+assign: NoelCaneB
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - ___Tips/bosshint_107 line:0
+EV::end - ___Tips/bosshint_107
+EV::start - 107/_change_danger line:0
+危険度を 0 に設定
+EV::end - 107/_change_danger
+EV::start - ___Tips/bosshint_107 line:3
+EV::end - ___Tips/bosshint_107
+EV::start - ___Tips/_bosshint_portal line:0
+反対側プレイヤーが初期化されていません
+EV::end - ___Tips/_bosshint_portal
+EV::start - ___Tips/bosshint_107 line:4
+EV::end - ___Tips/bosshint_107
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:0
+ロードポイント: Line 2
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - _bench_cure_ep_enemy_orgasm line:0
+EV::end - _bench_cure_ep_enemy_orgasm
+EV::start - _bench_cure_ep_mob line:0
+EV::end - _bench_cure_ep_mob
+EV::start - _bench_check_sf_level line:0
+EV::end - _bench_check_sf_level
+EV::start - _bench_cure_ep_mob line:25
+ロードポイント: Line 41
+EV::end - _bench_cure_ep_mob
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_ep_mob line:45
+EV::end - _bench_cure_ep_mob
+EV::start - _bench_ev_masturb_noel line:0
+EV::end - _bench_ev_masturb_noel
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_ev_masturb_noel line:1
+EV::end - _bench_ev_masturb_noel
+EV::start - _SND_SPOT_R line:0
+EV::end - _SND_SPOT_R
+EV::start - _bench_cure_ep_mob line:57
+ロードポイント: Line 182
+EV::end - _bench_cure_ep_mob
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:4
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_hp line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_hp
+EV::start - _bench_cure_hp_00 line:0
+EV::end - _bench_cure_hp_00
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_hp line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_hp
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_egged line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_egged
+EV::start - _bench_cure_ep_do_not line:0
+ロードポイント: Line 19
+EV::end - _bench_cure_ep_do_not
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_ep_do_not line:23
+EV::end - _bench_cure_ep_do_not
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_egged line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_egged
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_egged line:0
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_egged
+EV::start - _bench_cure_ep_do_not line:0
+ロードポイント: Line 19
+EV::end - _bench_cure_ep_do_not
+EV::start - _VO_SPOT_R line:0
+EV::end - _VO_SPOT_R
+EV::start - _bench_cure_ep_do_not line:23
+EV::end - _bench_cure_ep_do_not
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_egged line:3
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_egged
+>>AutoSave
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_652906
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__22.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__22.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__42.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__20.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__18.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 12
+map_close:: school_in_health
+map_open:: school_in_hall_right
+assign: Noel
+assign: ExitD_1f_b1
+assign: ExitD_2f_1f
+assign: ExitD_scl_in_hall_right
+assign: ExitL_sclR
+assign: ExitD_scl_health
+assign: restroom
+assign: Ev_door_shower
+assign: man_elf_young_student_1
+assign: woman_elf_thin_sudent_13
+assign: icha_b
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_hall_right  
+ロードポイント: Line 11
+map_close:: school_in_hall_right
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 43
+ event: %M2EVENTCOMMAND__@school_in_hall_right~ExitD_scl_health__CHECK
+EV::start - %M2EVENTCOMMAND__@school_in_health~Ev_door_shower__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_health~Ev_door_shower__CHECK
+EV::start - ___Laevi/trm_bath line:0
+EV::end - ___Laevi/trm_bath
+EV::start - ___city/_warp_zx line:0
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp line:0
+EV::end - ___city/_warp
+EV::start - ___city/_warp_zx line:22
+ロードポイント: Line 158
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp_zx_execute line:0
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::end - ___city/_warp_zx_execute
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_682123
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__20.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__22.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__42.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+EV::start - ___city/_warp_zx line:162
+EV::end - ___city/_warp_zx
+ロードポイント: Line 11
+map_close:: city_scl_ground
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_686042
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: citycaster_16
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__20.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__22.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__26.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__42.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__44.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__46.05357_37.16071
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: MECHGOLEM_1_0
+assign: DropCane-citycaster_0
+assign: PIG_0_1
+assign: RAMDA_0_2
+assign: MECHGOLEM_0_3
+assign: RAMDA_0_4
+assign: MUSH_0_5
+assign: PIG_0_6
+assign: RAMDA_0_7
+assign: GOLEM_0_8
+assign: GOLEM_0_9
+assign: RAMDA_0_10
+assign: NoelCane
+assign: EHOME_0_11
+assign: GOLEM_0_12
+assign: GOLEM_0_13
+assign: GOLEMTOY_CATAPULT_0_14
+assign: SLIME_0_15
+assign: SLIME_0_16
+assign: UNI_0_17
+assign: SLIME_0_18
+assign: NoelCane
+assign: MUSH_0_19
+assign: UNI_0_20
+assign: SLIME_0_21
+assign: UNI_0_22
+assign: NoelCane
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_0
+assign: FOX_0_23
+assign: MAGE_0_24
+assign: MECHGOLEM_0_25
+assign: MAGE_0_26
+assign: MAGE_0_27
+assign: MAGE_0_28
+assign: GOLEMTOY_MKB_29
+assign: GOLEMTOY_MKB_30
+assign: GOLEMTOY_MKB_31
+assign: GOLEM_0_32
+assign: GOLEM_0_33
+assign: GOLEMTOY_CATAPULT_34
+assign: MAGE_0_35
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_10
+assign: DropCane-citycaster_3
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_4
+assign: NoelCane
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_10
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_sub_l
+assign: RAMDA_0_36
+assign: RAMDA_0_37
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_3
+assign: DropCane-citycaster_5
+assign: NoelCaneB
+assign: DropCane-citycaster_3
+assign: RAMDA_0_38
+assign: RAMDA_0_39
+assign: RAMDA_0_40
+assign: MECHGOLEM_0_41
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_3
+EV::start - __M2D_GAMEOVER line:0
+危険度を 0 に設定
+Summoner SmnC_td is closed
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: NoelCane
+assign: NoelCaneB
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - ___Tips/bosshint_107 line:0
+EV::end - ___Tips/bosshint_107
+EV::start - 107/_change_danger line:0
+危険度を 0 に設定
+EV::end - 107/_change_danger
+EV::start - ___Tips/bosshint_107 line:3
+EV::end - ___Tips/bosshint_107
+EV::start - ___Tips/_bosshint_portal line:0
+反対側プレイヤーが初期化されていません
+EV::end - ___Tips/_bosshint_portal
+EV::start - ___Tips/bosshint_107 line:4
+EV::end - ___Tips/bosshint_107
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:0
+ロードポイント: Line 2
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - _bench_cure_ep_enemy_orgasm line:0
+EV::end - _bench_cure_ep_enemy_orgasm
+EV::start - _bench_cure_ep_mob line:0
+EV::end - _bench_cure_ep_mob
+EV::start - _bench_check_sf_level line:0
+EV::end - _bench_check_sf_level
+EV::start - _bench_cure_ep_mob line:25
+EV::end - _bench_cure_ep_mob
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_ep line:4
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_ep
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_cloth line:0
+ロードポイント: Line 2
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_cloth
+EV::start - _bench_cure_cloth_mob line:0
+EV::end - _bench_cure_cloth_mob
+EV::start - _bench_check_sf_level line:0
+EV::end - _bench_check_sf_level
+EV::start - _bench_cure_cloth_mob line:28
+ロードポイント: Line 35
+EV::end - _bench_cure_cloth_mob
+EV::start - _bench_cure_cloth_darken line:0
+EV::end - _bench_cure_cloth_darken
+EV::start - _bench_cure_cloth_mob line:100
+EV::end - _bench_cure_cloth_mob
+EV::start - %M2EVENTCOMMAND__@_BENCH_cure_cloth line:4
+EV::end - %M2EVENTCOMMAND__@_BENCH_cure_cloth
+ロードポイント: Line 11
+map_close:: school_in_health
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 92
+assign: UiSmnCreatorCamera_712688
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_sub_i
+assign: citycaster_sub_l
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+assign: citycaster_16
+assign: citycaster_17
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__20.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__20.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__22.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__20.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__24.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__19.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__23.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__19.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__23.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__19.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__23.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__14.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__19.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__23.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__30.57143_33.53571
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__40.01786_36.69643
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: MECHGOLEM_1_0
+assign: NoelCane
+assign: DropCane-citycaster_sub_i
+assign: NoelCane
+assign: NoelHat
+assign: GOLEM_0_1
+assign: RAMDA_0_2
+assign: RAMDA_0_3
+assign: PIG_0_4
+assign: PIG_0_5
+assign: MECHGOLEM_0_6
+assign: MUSH_0_7
+assign: RAMDA_0_8
+assign: NoelCane
+assign: NoelHat
+assign: RAMDA_0_9
+assign: GOLEM_0_10
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_3
+assign: EHOME_0_11
+assign: GOLEM_0_12
+assign: GOLEM_0_13
+assign: GOLEMTOY_CATAPULT_0_14
+assign: SLIME_0_15
+assign: UNI_0_16
+assign: SLIME_0_17
+assign: SLIME_0_18
+assign: PIG_0_19
+assign: UNI_0_20
+assign: PIG_0_21
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_10
+assign: DropCane-citycaster_5
+assign: MUSH_0_22
+assign: DropCane-citycaster_0
+assign: NoelCane
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_4
+assign: NoelCane
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_2
+assign: SLIME_0_23
+assign: SLIME_0_24
+assign: NoelCane
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_10
+assign: NoelCane
+assign: DropCane-citycaster_4
+assign: FOX_0_25
+assign: SLIME_0_26
+assign: UNI_0_27
+assign: NoelCane
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_10
+assign: NoelCane
+assign: DropCane-citycaster_2
+assign: MUSH_0_28
+assign: DropCane-citycaster_10
+assign: PIG_0_29
+assign: MAGE_0_30
+assign: MECHGOLEM_0_31
+assign: MAGE_0_32
+assign: MAGE_0_33
+assign: MAGE_0_34
+assign: GOLEMTOY_MKB_35
+assign: GOLEMTOY_MKB_36
+assign: GOLEMTOY_MKB_37
+assign: GOLEM_0_38
+assign: GOLEM_0_39
+assign: GOLEMTOY_CATAPULT_40
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_4
+assign: MAGE_0_41
+assign: PIG_0_42
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_16
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_11
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_16
+assign: DropCane-citycaster_3
+assign: DropCane-citycaster_sub_l
+assign: NoelCane
+assign: NoelCane
+assign: RAMDA_0_43
+assign: RAMDA_0_44
+assign: MECHGOLEM_0_45
+assign: RAMDA_0_46
+assign: RAMDA_0_47
+assign: NoelCane
+assign: RAMDA_0_48
+assign: DropCane-citycaster_sub_l
+assign: NoelCane
+assign: HONEYCOMB_0_49
+assign: SYABON_0_50
+assign: NoelCane
+assign: SYABON_0_51
+assign: NoelCane
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_9
+assign: NoelCane
+assign: DropCane-citycaster_4
+EV::start - 107/49_tigrina_blackhole_check line:0
+ロードポイント: Line 10
+EV::end - 107/49_tigrina_blackhole_check
+EV::start - 107/51_tigrina_blackhole line:0
+ロードポイント: Line 26
+EV::end - 107/51_tigrina_blackhole
+EV::start - 107/49_tigrina_blackhole_check line:14
+EV::end - 107/49_tigrina_blackhole_check
+Summoner SmnC_td is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - 107/___after_summoner line:0
+ロードポイント: Line 17
+EV::end - 107/___after_summoner
+EV::start - 107/52_td_finish_02 line:0
+ロードポイント: Line 26
+危険度を 0 に設定
+map_close:: city_scl_ground
+全てのマップを再構築
+map_open:: school_in_armory
+assign: Noel
+assign: ExitD_armory_mtg
+assign: ixia
+assign: 107_armory_60
+assign: Ev_ExitBR
+assign: Ev_ExitBL
+assign: Ev_f2
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory  
+EV::end - 107/52_td_finish_02
+EV::start - %M2EVENTCOMMAND__@school_in_armory~107_armory_60__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory~107_armory_60__LOAD_ONCE
+EV::start - 107/60_td_after_00 line:0
+危険度を 0 に設定
+ロードポイント: Line 16
+>>AutoSave
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory  
+SUMMONER_TYPE (act:False) タイプを MAIN => 31 に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+assign: PUPPY_EVENT_0_0
+Opened summoner reader: school_b1_out
+EV::end - 107/60_td_after_00
+EV::start - ___a/107_school_ghost_enemy_1 line:0
+EV::end - ___a/107_school_ghost_enemy_1
+ロードポイント: Line 12
+Summoner school_b1_out is closed
+map_close:: school_in_armory
+map_open:: school_in_armory_mtgroom
+assign: Noel
+assign: ExitD_armory_mtg
+assign: ixia
+assign: alice
+assign: device
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory_mtgroom  
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~alice__PRE_LOAD line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~alice__PRE_LOAD
+EV::start - 107/61_mtgroom_preload line:0
+SUMMONER_TYPE (act:False) タイプを MAIN => 31 に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+Opened summoner reader: school_b1_out
+assign: PUPPY_EVENT_0_0
+EV::end - 107/61_mtgroom_preload
+EV::start - %M2EVENTCOMMAND__@school_in_armory~ExitD_armory_mtg__STAND line:36
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 52
+ event: %M2EVENTCOMMAND__@school_in_armory~ExitD_armory_mtg__STAND
+EV::end - %M2EVENTCOMMAND__@school_in_armory~ExitD_armory_mtg__STAND
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~alice__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~alice__LOAD_ONCE
+EV::start - 107/62_mtgroom line:0
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 5
+ event: 107/62_mtgroom
+M2MoveScriptItem <TYPE.MOVE> :: 移動先が通行できないため、移動を確定しません。
+EV::end - 107/62_mtgroom
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~device__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~device__CHECK
+EV::start - 107/70_device line:0
+Summoner school_b1_out is closed
+map_close:: school_in_armory_mtgroom
+map_open:: school_in_armory_mtgroom
+assign: Noel
+assign: ExitD_armory_mtg
+assign: ixia
+assign: device
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory_mtgroom  
+ロードポイント: Line 33
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory_mtgroom  
+ロードポイント: Line 63
+EV::end - 107/70_device
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - 107/70_device line:149
+map_close:: school_in_armory_mtgroom
+全てのマップを再構築
+map_open:: city_entrance_rightcave
+assign: Noel
+assign: ExitWR_b_city2mount
+assign: ExitL_entranceLB
+assign: ExitL_caveT
+assign: restroom
+assign: stopper
+assign: stopper_t
+assign: bench__Ev__obj/bench_wide.png__43.625_34.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_rightcave  
+危険度を 0 に設定
+EV::end - 107/70_device
+EV::start - 200/00_from_city line:0
+ロードポイント: Line 5
+EV::end - 200/00_from_city
+EV::start - 107/70_device line:248
+>>AutoSave
+EV::end - 107/70_device
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~stopper__STAND line:0
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~stopper__STAND
+EV::start - ___city/entrance_stopper line:0
+EV::end - ___city/entrance_stopper
+ロードポイント: Line 12
+map_close:: city_entrance_rightcave
+map_open:: city_entrance_right
+assign: Noel
+assign: ExitR_entranceLB
+assign: ExitL_centerBR
+assign: ExitL_centerBRT
+assign: ExitL_RBridge
+assign: ExitL_centerRB0
+assign: ExitB_parkTw
+assign: ExitB_parkTwL
+assign: ExitD_museum
+assign: woman_bst_young2_3
+assign: man_elf_young_5
+assign: woman_elf_thin_sudent_13
+assign: woman_elf_student_9
+assign: woman_elf_oneesan_student
+assign: woman_elf_student_8
+assign: bench__Ev__obj/bench_wide.png__28.375_77.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_right  
+ロードポイント: Line 4
+EV::start - 107/_stop_goto_entrance_rightcave line:0
+ロードポイント: Line 2
+EV::end - 107/_stop_goto_entrance_rightcave
+EV::start - %M2EVENTCOMMAND__@city_entrance_right~ExitR_entranceLB__STAND line:6
+ロードポイント: Line 18
+map_close:: city_entrance_right
+map_open:: city_entrance_rightcave
+assign: Noel
+assign: ExitWR_b_city2mount
+assign: ExitL_entranceLB
+assign: ExitL_caveT
+assign: restroom
+assign: stopper
+assign: stopper_t
+assign: bench__Ev__obj/bench_wide.png__43.625_34.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_rightcave  
+EV::end - %M2EVENTCOMMAND__@city_entrance_right~ExitR_entranceLB__STAND
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~stopper__STAND line:0
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~stopper__STAND
+EV::start - ___city/entrance_stopper line:0
+EV::end - ___city/entrance_stopper
+>>AutoSave
+>>Saved SVD To: 0
+saved
+>>Saved SVD To: 1
+saved
+全てのマップを再構築

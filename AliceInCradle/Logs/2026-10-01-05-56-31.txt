@@ -1,0 +1,3976 @@
+error detected: 000002  
+Version: 0.30g @Win
+Microsoft Windows NT 10.0.19045.0
+// ======================
+SND activated:: Spatial sound Enabled
+SCENE TITLE AWAKEN 
+active debugger on
+Load Event Lang: zh-cn
+オプションの読み込みを開始
+V-Sync enabled
+オプションの読み込みを開始
+V-Sync enabled
+ComputeShader R/W: Enabled
+title scene disposed
+SCENE GAME AWAKEN
+<<Read SVD SVD From: Auto 0 
+Current TX Family: zh-cn
+EV::start - __INITG line:0
+EV::end - __INITG
+EV::start - __INITG line:0
+EV::end - __INITG
+EV::start - __INITM2D line:0
+ロードポイント: Line 8
+ロードポイント: Line 11
+EV::end - __INITM2D
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+EV::start - __INITNEWGAME line:0
+EV::end - __INITNEWGAME
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 93
+RandomWriteTexture... format:R8G8B8A8_UNorm
+Compute Environment
+supportsComputeShaders = True
+graphicsDeviceType = Direct3D11
+graphicsDeviceName = NVIDIA GeForce RTX 5070
+graphicsDeviceVersion = Direct3D 11.0 [level 11.1]
+operatingSystem = Windows 10  (10.0.19045) 64bit
+format = ARGB32
+graphicsFormat = R8G8B8A8_UNorm
+supportsRandomWrite(ARGB32) = True
+RandomWrite On
+assign: UiSmnCreatorCamera_1307
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_sub_i
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+Atlas Texture Created: MobGParts=>1024,512 / format:R8G8B8A8_UNorm
+assign: citycaster_sub_l
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+Atlas Texture Created: MobGParts=>1024,1024 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>512,512 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,512 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+フェイタルキー td107
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: PIG_0_0
+assign: GOLEM_0_1
+assign: PIG_0_2
+assign: GOLEM_0_3
+assign: SLIME_0_4
+assign: SLIME_0_5
+assign: PIG_0_6
+assign: SLIME_0_7
+assign: SLIME_0_8
+assign: SLIME_0_9
+assign: GOLEM_0_10
+assign: SLIME_0_11
+assign: SLIME_0_12
+assign: GOLEM_0_13
+assign: SLIME_0_14
+assign: PIG_0_15
+assign: PIG_0_16
+assign: EHOME_0_17
+assign: SLIME_0_18
+assign: PUPPY_0_19
+assign: PENTAPOD_0_20
+assign: PENTAPOD_HEAD_0_21
+assign: SLIME_0_22
+assign: UNI_0_23
+assign: UNI_0_24
+assign: PENTAPOD_0_25
+assign: PENTAPOD_HEAD_0_26
+assign: PENTAPOD_0_27
+assign: PENTAPOD_HEAD_0_28
+assign: SLIME_0_29
+assign: PENTAPOD_0_30
+assign: PENTAPOD_HEAD_0_31
+assign: SLIME_0_32
+assign: SLIME_0_33
+assign: SLIME_0_34
+assign: PUPPY_0_35
+assign: SLIME_0_36
+assign: PENTAPOD_0_37
+assign: PENTAPOD_HEAD_0_38
+assign: PENTAPOD_0_39
+assign: PENTAPOD_HEAD_0_40
+assign: PUPPY_0_41
+assign: SLIME_0_42
+assign: SLIME_0_43
+assign: UNI_0_44
+assign: PIG_0_45
+assign: MECHGOLEM_0_46
+assign: UNI_0_47
+assign: NoelCane
+assign: GOLEMTOY_MKB_48
+assign: UNI_0_49
+assign: MECHGOLEM_0_50
+assign: NoelCane
+assign: PENTAPOD_0_51
+assign: PENTAPOD_HEAD_0_52
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_13
+assign: NoelCane
+assign: DropCane-citycaster_13
+assign: GOLEMTOY_MKB_53
+assign: MECHGOLEM_0_54
+assign: UNI_0_55
+assign: UNI_0_56
+assign: GOLEMTOY_MKB_57
+assign: NoelCane
+assign: DropCane-citycaster_6
+Summoner SmnC_td is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - 107/___after_summoner line:0
+ロードポイント: Line 17
+EV::end - 107/___after_summoner
+EV::start - 107/50_td_finish_00 line:0
+危険度を 0 に設定
+map_close:: city_scl_ground
+RandomWriteTexture... format:R8G8B8A8_UNorm
+RandomWrite On
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+>>AutoSave
+EV::end - 107/50_td_finish_00
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 93
+assign: UiSmnCreatorCamera_11328
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_sub_i
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+Atlas Texture Created: MobGParts=>1024,512 / format:R8G8B8A8_UNorm
+assign: citycaster_sub_l
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+Atlas Texture Created: MobGParts=>1024,1024 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,512 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__33.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+RandomWriteTexture... format:R8G8B8A8_UNorm
+RandomWrite On
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 93
+assign: UiSmnCreatorCamera_12959
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_sub_i
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+Atlas Texture Created: MobGParts=>1024,512 / format:R8G8B8A8_UNorm
+assign: citycaster_sub_l
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+Atlas Texture Created: MobGParts=>1024,1024 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,512 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__29.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-6
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__26.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__29.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-7
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__26.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__29.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-7
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+RandomWriteTexture... format:R8G8B8A8_UNorm
+RandomWrite On
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+>>AutoSave
+ロードポイント: Line 11
+map_close:: school_in_health
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 93
+assign: UiSmnCreatorCamera_22106
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_sub_i
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+Atlas Texture Created: MobGParts=>1024,512 / format:R8G8B8A8_UNorm
+assign: citycaster_sub_l
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+Atlas Texture Created: MobGParts=>1024,1024 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,512 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__26.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__29.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-7
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__26.05357_37.16071
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__29.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-7
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/baricade_0.png__53.05357_37.16071
+EV::end - 107/_td_portal
+EV::start - 107/_td_cancel line:0
+EV::end - 107/_td_cancel
+ロードポイント: Line 11
+map_close:: city_scl_ground
+RandomWriteTexture... format:R8G8B8A8_UNorm
+RandomWrite On
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+ロードポイント: Line 11
+map_close:: school_in_health
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+EV::start - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@city_scl_ground~td_init__LOAD_ONCE
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 93
+assign: UiSmnCreatorCamera_24093
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_sub_i
+assign: citycaster_4
+assign: citycaster_5
+assign: citycaster_6
+Atlas Texture Created: MobGParts=>1024,512 / format:R8G8B8A8_UNorm
+assign: citycaster_sub_l
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_10
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+Atlas Texture Created: MobGParts=>1024,1024 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,512 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+assign: citycaster_16
+assign: citycaster_17
+assign: citycaster_18
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__44.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__49.66071_34.625
+assign: citycaster_19
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__44.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__49.66071_34.625
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+フェイタルキー td107
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: SPONGE_1_0
+assign: SPONGE_1_1
+assign: SPONGE_1_2
+assign: RAMDA_0_3
+assign: RAMDA_0_4
+assign: RAMDA_0_5
+assign: GOLEM_0_6
+assign: GOLEM_0_7
+assign: GOLEMTOY_CATAPULT_8
+assign: RAMDA_0_9
+assign: RAMDA_0_10
+assign: RAMDA_0_11
+assign: ROAPER_0_12
+assign: RAMDA_0_13
+assign: RAMDA_0_14
+assign: RAMDA_0_15
+assign: ROAPER_0_16
+assign: RAMDA_0_17
+assign: ROAPER_0_18
+assign: RAMDA_0_19
+assign: ROAPER_0_20
+assign: NoelCane
+assign: EHOME_0_21
+assign: GOLEM_0_22
+assign: GOLEM_0_23
+assign: GOLEMTOY_CATAPULT_24
+assign: GOLEM_0_25
+assign: GOLEM_0_26
+assign: GOLEM_0_27
+assign: GOLEMTOY_CATAPULT_28
+assign: ROAPER_0_29
+assign: RAMDA_0_30
+assign: ROAPER_0_31
+assign: ROAPER_0_32
+assign: GOLEMTOY_POD_33
+assign: GOLEM_0_34
+assign: GOLEM_0_35
+assign: GOLEM_0_36
+assign: GOLEM_0_37
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_16
+assign: DropCane-citycaster_2
+assign: GOLEMTOY_POD_38
+assign: NoelCane
+assign: NoelCane
+assign: DropCane-citycaster_16
+assign: NoelCane
+assign: RAMDA_0_39
+assign: PENTAPOD_0_40
+assign: PENTAPOD_HEAD_0_41
+assign: GOLEM_0_42
+assign: SNAKE_0_43
+assign: GOLEMTOY_POD_44
+assign: RAMDA_0_45
+assign: RAMDA_0_46
+assign: RAMDA_0_47
+assign: NoelCane
+assign: NoelCane
+assign: PENTAPOD_0_48
+assign: PENTAPOD_HEAD_0_49
+assign: PENTAPOD_0_50
+assign: PENTAPOD_HEAD_0_51
+assign: GOLEM_0_52
+assign: NoelCane
+assign: RAMDA_0_53
+assign: ROAPER_0_54
+assign: GOLEM_0_55
+assign: GOLEMTOY_POD_56
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_18
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_sub_l
+assign: DropCane-citycaster_5
+assign: GOLEM_0_57
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_8
+assign: DropCane-citycaster_18
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_4
+assign: NoelCane
+assign: NoelCane
+assign: NoelHat
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_18
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_8
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_12
+assign: GOLEM_0_58
+assign: GOLEM_0_59
+assign: GOLEMTOY_POD_60
+assign: GOLEM_0_61
+assign: GOLEM_0_62
+assign: GOLEM_0_63
+assign: GOLEM_0_64
+assign: DropCane-citycaster_sub_i
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_18
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_8
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_1
+assign: NoelCane
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_18
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_8
+assign: DropCane-citycaster_18
+assign: DropCane-citycaster_4
+assign: DropCane-citycaster_17
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_19
+assign: DropCane-citycaster_13
+assign: DropCane-citycaster_12
+assign: DropCane-citycaster_8
+assign: DropCane-citycaster_12
+assign: RAMDA_0_65
+assign: RAMDA_0_66
+assign: ROAPER_0_67
+assign: ROAPER_0_68
+assign: NoelCane
+assign: NoelCane
+Summoner SmnC_td is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - 107/___after_summoner line:0
+ロードポイント: Line 17
+EV::end - 107/___after_summoner
+EV::start - 107/50_td_finish_00 line:0
+危険度を 0 に設定
+map_close:: city_scl_ground
+RandomWriteTexture... format:R8G8B8A8_UNorm
+RandomWrite On
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_scl_ground
+assign: Noel
+assign: ExitL_toground
+assign: ExitR_caveT
+assign: ExitD_groundh
+assign: td_init
+M2EventContainer::reload - コマンドの再読み込みを実行:city_scl_ground  
+>>AutoSave
+EV::end - 107/50_td_finish_00
+EV::start - 107/_td_portal line:0
+ロードポイント: Line 93
+assign: UiSmnCreatorCamera_48469
+assign: citycaster_0
+assign: citycaster_1
+assign: citycaster_2
+assign: citycaster_3
+assign: citycaster_sub_i
+assign: citycaster_5
+assign: citycaster_6
+assign: citycaster_7
+Atlas Texture Created: MobGParts=>1024,512 / format:R8G8B8A8_UNorm
+assign: citycaster_8
+assign: citycaster_9
+assign: citycaster_sub_l
+assign: citycaster_11
+assign: citycaster_12
+assign: citycaster_13
+assign: citycaster_14
+assign: citycaster_15
+Atlas Texture Created: FinAtlas=>1024,512 / format:R8G8B8A8_UNorm
+Atlas Texture Created: FinAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+assign: citycaster_16
+assign: citycaster_17
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__16.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__21.57143_33.53571
+assign: Barricade-WatchTower-4
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__31.66072_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__36.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__44.01786_36.69643
+assign: Barricade-107_td__grazia_towerdefence/finalwall.png__13.41071_29.91072
+assign: Barricade-107_td__grazia_towerdefence/healtent_bg.png__21.89286_37.10714
+assign: primula
+assign: Barricade-107_td__grazia_towerdefence/magictree.png__33.57143_33.53571
+assign: Barricade-107_td__grazia_towerdefence/woodenwall.png__39.01786_36.69643
+assign: Barricade-WatchTower-5
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__42.66071_34.625
+assign: Barricade-107_td__grazia_towerdefence/offensive_wall.png__47.66071_34.625
+危険度を 0 に設定
+skill_difficulty_restrict is 2
+フェイタルキー td107
+Opened summoner reader: SmnC_td
+Battle start: W0 / D0
+EV::end - 107/_td_portal
+assign: MECHGOLEM_1_0
+assign: PIG_0_1
+assign: RAMDA_0_2
+assign: GOLEM_0_3
+assign: RAMDA_0_4
+assign: MUSH_0_5
+assign: PIG_0_6
+assign: RAMDA_0_7
+assign: GOLEM_0_8
+assign: NoelCane
+assign: NoelCane
+assign: MECHGOLEM_0_9
+assign: RAMDA_0_10
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_0
+assign: NoelCane
+assign: EHOME_0_11
+assign: GOLEM_0_12
+assign: GOLEM_0_13
+assign: GOLEMTOY_CATAPULT_0_14
+assign: UNI_0_15
+assign: SLIME_0_16
+assign: SLIME_0_17
+assign: SLIME_0_18
+assign: NoelCane
+assign: UNI_0_19
+assign: PIG_0_20
+assign: UNI_0_21
+assign: PIG_0_22
+assign: DropCane-citycaster_7
+assign: DropCane-citycaster_9
+assign: NoelCane
+Atlas Texture Created: FinAtlas=>2048,1024 / format:R8G8B8A8_UNorm
+assign: NoelCane
+assign: DropCane-citycaster_2
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_1
+assign: DropCane-citycaster_8
+assign: NoelCane
+assign: DropCane-citycaster_9
+assign: DropCane-citycaster_5
+assign: DropCane-citycaster_6
+assign: DropCane-citycaster_2
+assign: FOX_0_23
+assign: DropCane-citycaster_0
+assign: NoelCane
+assign: NoelCane
+assign: DropCane-citycaster_0
+assign: DropCane-citycaster_1
+EV::start - __M2D_GAMEOVER line:0
+危険度を 0 に設定
+Summoner SmnC_td is closed
+map_close:: city_scl_ground
+RandomWriteTexture... format:R8G8B8A8_UNorm
+RandomWrite On
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: NoelCane
+assign: Ev_door_shower
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - ___Tips/bosshint_107 line:0
+EV::end - ___Tips/bosshint_107
+EV::start - 107/_change_danger line:0
+危険度を 0 に設定
+EV::end - 107/_change_danger
+EV::start - ___Tips/bosshint_107 line:3
+EV::end - ___Tips/bosshint_107
+EV::start - ___Tips/_bosshint_portal line:0
+EV::end - ___Tips/_bosshint_portal
+EV::start - ___Tips/bossskip_107 line:0
+EV::end - ___Tips/bossskip_107
+EV::start - 107/52_td_finish_02 line:0
+ロードポイント: Line 26
+map_close:: school_in_health
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>2048,1024 / format:R8G8B8A8_UNorm
+map_open:: school_in_armory
+assign: Noel
+assign: ExitD_armory_mtg
+assign: NoelCane
+assign: ixia
+assign: 107_armory_60
+assign: Ev_ExitBR
+assign: Ev_ExitBL
+assign: Ev_f2
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory  
+EV::end - 107/52_td_finish_02
+EV::start - ___Tips/bosshint_107 line:4
+EV::end - ___Tips/bosshint_107
+EV::start - %M2EVENTCOMMAND__@school_in_armory~107_armory_60__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory~107_armory_60__LOAD_ONCE
+EV::start - 107/60_td_after_00 line:0
+危険度を 0 に設定
+ロードポイント: Line 16
+>>AutoSave
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory  
+SUMMONER_TYPE (act:False) タイプを MAIN => 31 に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+assign: PUPPY_EVENT_0_0
+Opened summoner reader: school_b1_out
+EV::end - 107/60_td_after_00
+EV::start - ___a/107_school_ghost_enemy_1 line:0
+EV::end - ___a/107_school_ghost_enemy_1
+ロードポイント: Line 12
+Summoner school_b1_out is closed
+map_close:: school_in_armory
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: school_in_armory_mtgroom
+assign: Noel
+assign: ExitD_armory_mtg
+assign: ixia
+assign: alice
+assign: device
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory_mtgroom  
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~alice__PRE_LOAD line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~alice__PRE_LOAD
+EV::start - 107/61_mtgroom_preload line:0
+SUMMONER_TYPE (act:False) タイプを MAIN => 31 に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+Opened summoner reader: school_b1_out
+assign: PUPPY_EVENT_0_0
+EV::end - 107/61_mtgroom_preload
+EV::start - %M2EVENTCOMMAND__@school_in_armory~ExitD_armory_mtg__STAND line:36
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 52
+ event: %M2EVENTCOMMAND__@school_in_armory~ExitD_armory_mtg__STAND
+EV::end - %M2EVENTCOMMAND__@school_in_armory~ExitD_armory_mtg__STAND
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~alice__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~alice__LOAD_ONCE
+EV::start - 107/62_mtgroom line:0
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 5
+ event: 107/62_mtgroom
+M2MoveScriptItem <TYPE.MOVE> :: 移動先が通行できないため、移動を確定しません。
+EV::end - 107/62_mtgroom
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~device__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~device__CHECK
+EV::start - 107/70_device line:0
+EV::end - 107/70_device
+EV::start - %M2EVENTCOMMAND__@school_in_armory_mtgroom~device__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_armory_mtgroom~device__CHECK
+EV::start - 107/70_device line:0
+Summoner school_b1_out is closed
+map_close:: school_in_armory_mtgroom
+map_open:: school_in_armory_mtgroom
+assign: Noel
+assign: ExitD_armory_mtg
+assign: ixia
+assign: device
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory_mtgroom  
+ロードポイント: Line 33
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_armory_mtgroom  
+ロードポイント: Line 63
+EV::end - 107/70_device
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - 107/70_device line:149
+map_close:: school_in_armory_mtgroom
+全てのマップを再構築
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_entrance_rightcave
+assign: Noel
+assign: ExitWR_b_city2mount
+assign: ExitL_entranceLB
+assign: ExitL_caveT
+assign: restroom
+assign: stopper
+assign: stopper_t
+assign: board_event
+assign: bench__Ev__obj/bench_wide.png__43.625_34.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_rightcave  
+危険度を 0 に設定
+EV::end - 107/70_device
+EV::start - 200/00_from_city line:0
+ロードポイント: Line 6
+EV::end - 200/00_from_city
+EV::start - 107/70_device line:248
+>>AutoSave
+EV::end - 107/70_device
+>>AutoSave
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:3
+WM __whole_mount に移動します...
+ロードポイント: Line 28
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+EV::start - ___city_guild/__FLUSH_SAFE_AREA line:0
+EV::end - ___city_guild/__FLUSH_SAFE_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:45
+map_close:: city_entrance_rightcave
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_entrance_grazia
+assign: Noel
+assign: ExitB_bl
+assign: ExitR_er
+assign: ExitR_ent_r
+assign: ExitWL_b_city2mount
+assign: firstalc
+assign: QA200_EVENT_0
+assign: bench__obj__obj/bench.png__15.41071_46.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_entrance_grazia  
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:75
+危険度を 0 に設定
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+EV::start - %M2EVENTCOMMAND__@mount_entrance_grazia~firstalc__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@mount_entrance_grazia~firstalc__LOAD_ONCE
+>>AutoSave
+EV::start - 200/01_notice_mana line:0
+EV::end - 200/01_notice_mana
+EV::start - ___Other/Tuto_check_map line:0
+EV::end - ___Other/Tuto_check_map
+EV::start - 200/01_notice_mana line:14
+EV::end - 200/01_notice_mana
+EV::start - %M2EVENTCOMMAND__@mount_entrance_grazia~QA200_EVENT_0__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_entrance_grazia~QA200_EVENT_0__STAND
+ロードポイント: Line 12
+map_close:: mount_entrance_grazia
+map_open:: mount_er
+assign: Noel
+assign: ExitR_errc
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_0
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_r_0
+assign: CM-Carrier_Carrier_r_1
+assign: CM-Carrier_Carrier_r_2
+assign: CM-Carrier_Carrier_r_3
+assign: CM-Carrier_Carrier_r_4
+assign: CM-Carrier_Carrier_r_5
+assign: CM-Carrier_Carrier_r_6
+assign: ExitR_ruin
+assign: ExitL_er
+assign: CoffeeMaker
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_er  
+assign: QA200_PUPPY
+assign: QA200_EVENT_2
+ロードポイント: Line 12
+map_close:: mount_er
+map_open:: mount_ruinroad
+assign: Noel
+assign: Treasure_mount_ruinroad_rb
+assign: ExitR_ruinroadrr
+assign: ExitL_ruin
+assign: ExitR_ruinr
+assign: ___Rounin
+重複して assign しようとしています: ___Rounin
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_ruinroad  
+assign: QA200_PUPPY
+assign: alice
+assign: QA200_EVENT_4
+EV::start - 200/qa04_load line:0
+SUMMONER_TYPE (act:False) タイプを MAIN => 130 に設定
+EV::end - 200/qa04_load
+EV::start - %M2EVENTCOMMAND__@mount_ruinroad~QA200_EVENT_4__LOAD_ONCE line:1
+EV::end - %M2EVENTCOMMAND__@mount_ruinroad~QA200_EVENT_4__LOAD_ONCE
+EV::start - 200/05_escape03 line:0
+assign: device
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_ruinroad  
+SUMMONER_TYPE (act:False) タイプを 130 => NO_EFFECT に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+Opened summoner reader: mount_ruinroad
+assign: PIG_0_0
+assign: SLIME_0_1
+assign: MUSH_0_2
+assign: SLIME_0_3
+assign: PIG_0_4
+assign: SLIME_0_5
+SUMMONER_TYPE (act:True) タイプを NO_EFFECT => MAIN に設定
+EV::end - 200/05_escape03
+EV::start - %M2EVENTCOMMAND__@mount_ruinroad~QA200_EVENT_4__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_ruinroad~QA200_EVENT_4__STAND
+assign: NoelCane
+assign: NoelCane
+assign: PIG_0_6
+assign: NoelCane
+assign: NoelCane
+EV::start - __M2D_GAMEOVER line:0
+EV::end - __M2D_GAMEOVER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_GAMEOVER line:86
+Summoner mount_ruinroad is closed
+map_close:: mount_ruinroad
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_entrance_grazia
+assign: Noel
+assign: ExitB_bl
+assign: ExitR_er
+assign: ExitR_ent_r
+assign: ExitWL_b_city2mount
+assign: NoelCane
+assign: bench__obj__obj/bench.png__15.41071_46.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_entrance_grazia  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - 200/06_escape04 line:0
+EV::end - 200/06_escape04
+EV::start - __M2D_GAMEOVER_WAKEUP_WAIT line:0
+EV::end - __M2D_GAMEOVER_WAKEUP_WAIT
+EV::start - 200/06_escape04 line:10
+>>AutoSave
+EV::end - 200/06_escape04
+>>AutoSave
+ロードポイント: Line 12
+map_close:: mount_entrance_grazia
+map_open:: mount_er
+assign: Noel
+assign: ExitR_errc
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_0
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_r_0
+assign: CM-Carrier_Carrier_r_1
+assign: CM-Carrier_Carrier_r_2
+assign: CM-Carrier_Carrier_r_3
+assign: CM-Carrier_Carrier_r_4
+assign: CM-Carrier_Carrier_r_5
+assign: CM-Carrier_Carrier_r_6
+assign: ExitR_ruin
+assign: ExitL_er
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_er  
+ロードポイント: Line 12
+map_close:: mount_er
+map_open:: mount_ruinroad
+assign: Noel
+assign: Treasure_mount_ruinroad_rb
+assign: ExitR_ruinroadrr
+assign: ExitL_ruin
+assign: ExitR_ruinr
+assign: ___Rounin
+重複して assign しようとしています: ___Rounin
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_ruinroad  
+skill_difficulty_restrict is 2
+Opened summoner reader: mount_ruinroad
+assign: PIG_0_0
+assign: MUSH_0_1
+assign: PIG_0_2
+assign: SLIME_0_3
+assign: SLIME_0_4
+assign: SLIME_0_5
+assign: NoelCane
+assign: PIG_0_6
+assign: PIG_0_7
+assign: NoelCane
+assign: NoelCane
+Summoner mount_ruinroad is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_DEFEAT_SUMMONER line:84
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - %M2EVENTCOMMAND__@mount_ruinroad~___Rounin__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_ruinroad~___Rounin__TALK
+EV::start - ___Rounin/_portal line:0
+EV::end - ___Rounin/_portal
+EV::start - ___Rounin/t_intro line:0
+EV::end - ___Rounin/t_intro
+EV::start - ___Rounin/_portal line:28
+EV::end - ___Rounin/_portal
+EV::start - ___Rounin/t_cnct_tips line:0
+EV::end - ___Rounin/t_cnct_tips
+EV::start - ___Rounin/_portal line:45
+EV::end - ___Rounin/_portal
+ロードポイント: Line 12
+map_close:: mount_ruinroad
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_cross
+assign: Noel
+assign: ExitB_pr
+assign: ExitL_rrll
+assign: ExitL_ruinroadrr
+assign: ExitR_slider_2
+assign: ExitL_ruinr
+assign: door__puzzle/switch_2.png__14_56.69643-mv
+assign: door__puzzle/saisenswitch_0.png__18.39286_31.16072-mv
+assign: door__puzzle/saisenswitch_1.png__7.607143_56.16071-mv
+assign: mine__puzzle/saisenswitch_2.png__23.60714_19.16072-mv
+assign: Switch_0_door__puzzle/saisenswitch_0.png__18.39286_31.16072
+assign: Switch_1_door__puzzle/saisenswitch_1.png__7.607143_56.16071
+assign: bench__lift__obj/bench.png__27.58928_34.67857
+assign: Switch_2_mine__puzzle/saisenswitch_2.png__23.60714_19.16072
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_cross  
+assign: QA200_PUPPY
+assign: QA200_EVENT_5
+EV::start - %M2EVENTCOMMAND__@mount_cross~Switch_0_door__puzzle/saisenswitch_0.png__18.39286_31.16072__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_cross~Switch_0_door__puzzle/saisenswitch_0.png__18.39286_31.16072__CHECK
+>>AutoSave
+ロードポイント: Line 12
+map_close:: mount_cross
+map_open:: mount_slider
+assign: Noel
+assign: ExitR_busstop
+assign: ExitL_slider_2
+assign: lift__puzzle/saisenswitch_0.png__40.60714_24.16072-mv
+assign: Ev_qa200_7_prerope
+assign: alice
+assign: QA200_EVENT_6
+assign: QA200_EVENT_7
+assign: Switch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_slider  
+EV::start - 200/10_escape06 line:0
+assign: Switch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_slider  
+EV::end - 200/10_escape06
+EV::start - %M2EVENTCOMMAND__@mount_slider~QA200_EVENT_6__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_slider~QA200_EVENT_6__STAND
+EV::start - %M2EVENTCOMMAND__@mount_slider~Ev_qa200_7_prerope__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_slider~Ev_qa200_7_prerope__STAND
+EV::start - 200/08_rope_pre line:0
+EV::end - 200/08_rope_pre
+EV::start - 200/08b_rope_aft line:0
+assign: NoelCane
+assign: Ev_qa200_7_prerope
+assign: Ev_qa200_7
+assign: Switch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_slider  
+EV::end - 200/08b_rope_aft
+EV::start - %M2EVENTCOMMAND__@mount_slider~QA200_EVENT_7__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_slider~QA200_EVENT_7__STAND
+EV::start - %M2EVENTCOMMAND__@mount_slider~Switch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_slider~Switch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072__CHECK
+ロードポイント: Line 12
+map_close:: mount_slider
+map_open:: mount_busstop
+assign: Noel
+assign: ExitR_dark
+assign: ExitB_caveh0
+assign: ExitT_treesand
+assign: ExitL_busstop
+assign: Ev_qa200_8rbb
+assign: Ev_qa200_8rb
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_busstop  
+assign: QA200_PUPPY
+assign: alice
+assign: QA200_EVENT_8
+assign: SGWALL_0__S10
+assign: SGWALLCNC_0__S11
+EV::start - 200/qa08_load line:0
+SUMMONER_TYPE (act:False) タイプを MAIN => 130 に設定
+EV::end - 200/qa08_load
+EV::start - %M2EVENTCOMMAND__@mount_busstop~QA200_EVENT_8__LOAD_ONCE line:1
+EV::end - %M2EVENTCOMMAND__@mount_busstop~QA200_EVENT_8__LOAD_ONCE
+EV::start - 200/11_escape08 line:0
+SUMMONER_TYPE (act:False) タイプを 130 => NO_EFFECT に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+Opened summoner reader: mount_busstop
+assign: PENTAPOD_0_0
+assign: PENTAPOD_0_1
+assign: PENTAPOD_HEAD_0_2
+assign: GOLEM_0_3
+SUMMONER_TYPE (act:True) タイプを NO_EFFECT => MAIN に設定
+EV::end - 200/11_escape08
+EV::start - %M2EVENTCOMMAND__@mount_busstop~QA200_EVENT_8__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_busstop~QA200_EVENT_8__STAND
+assign: PENTAPOD_HEAD_0_4
+assign: GOLEM_0_5
+assign: GOLEM_0_6
+assign: GOLEMTOY_MKB_7
+assign: GOLEM_0_8
+assign: GOLEM_0_9
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: PENTAPOD_0_10
+assign: PENTAPOD_HEAD_0_11
+Summoner mount_busstop is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_DEFEAT_SUMMONER line:84
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - 200/12_escape08aft line:0
+assign: ixia
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_busstop  
+EV::end - 200/12_escape08aft
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - 200/12_escape08aft line:128
+>>AutoSave
+EV::end - 200/12_escape08aft
+EV::start - %M2EVENTCOMMAND__@mount_busstop~Ev_qa200_8rb__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_busstop~Ev_qa200_8rb__STAND
+EV::start - %M2EVENTCOMMAND__@mount_busstop~Ev_qa200_8rbb__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_busstop~Ev_qa200_8rbb__STAND
+ロードポイント: Line 12
+map_close:: mount_busstop
+map_open:: mount_cave_honey0
+assign: Noel
+assign: ExitR_honeyrr
+assign: ExitB_portalbb
+assign: ExitL_honeyrt
+assign: ExitT_caveh0
+assign: ExitL_honey0bl
+assign: Breakable_honey0bl-hit
+assign: rescue202ixia
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_cave_honey0  
+EV::start - %M2EVENTCOMMAND__@mount_cave_honey0~rescue202ixia__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@mount_cave_honey0~rescue202ixia__LOAD_ONCE
+EV::start - 200/20_ixia_rescue_00 line:0
+skill_difficulty_restrict is 2
+assign: citycaster_sub_i
+Opened summoner reader: mount_cave_honey0
+レスキューで強制的に開きます
+assign: ROAPER_0_0
+assign: DropCane-citycaster_sub_i
+assign: ROAPER_0_1
+EV::end - 200/20_ixia_rescue_00
+EV::start - %M2EVENTCOMMAND__@mount_cave_honey0~rescue202ixia__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_cave_honey0~rescue202ixia__STAND
+EV::start - 200/21_ixia_rescue_01 line:0
+OPEN SUMMONER FROM EVENT!
+EV::end - 200/21_ixia_rescue_01
+assign: LEECH_0_2
+assign: ROAPER_0_3
+assign: MUSH_0_4
+assign: NoelCane
+assign: NoelCane
+assign: MUSH_0_5
+assign: LEECH_0_6
+assign: DropCane-citycaster_sub_i
+assign: NoelCane
+assign: MUSH_0_7
+assign: NoelCane
+assign: NoelCane
+assign: NoelCaneB
+EV::start - __M2D_GAMEOVER line:0
+EV::end - __M2D_GAMEOVER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_GAMEOVER line:86
+Summoner mount_cave_honey0 is closed
+map_close:: mount_cave_honey0
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_busstop
+assign: Noel
+assign: ExitR_dark
+assign: ExitB_caveh0
+assign: ExitT_treesand
+assign: ExitL_busstop
+assign: NoelCane
+assign: NoelCaneB
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_busstop  
+危険度を 0 に設定
+assign: SGWALL_0__S7
+assign: SGWALLCNC_0__S8
+EV::end - __M2D_GAMEOVER
+assign: NoelCane
+ロードポイント: Line 12
+map_close:: mount_busstop
+map_open:: mount_slider
+assign: Noel
+assign: ExitR_busstop
+assign: ExitL_slider_2
+assign: lift__puzzle/saisenswitch_0.png__40.60714_24.16072-mv
+assign: Switch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072
+既にイベントSwitch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072が存在します
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_slider  
+ロードポイント: Line 12
+map_close:: mount_slider
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_cross
+assign: Noel
+assign: ExitB_pr
+assign: ExitL_rrll
+assign: ExitL_ruinroadrr
+assign: ExitR_slider_2
+assign: ExitL_ruinr
+assign: door__puzzle/switch_2.png__14_56.69643-mv
+assign: door__puzzle/saisenswitch_0.png__18.39286_31.16072-mv
+assign: door__puzzle/saisenswitch_1.png__7.607143_56.16071-mv
+assign: Nightingale
+assign: mine__puzzle/saisenswitch_2.png__23.60714_19.16072-mv
+assign: Switch_0_door__puzzle/saisenswitch_0.png__18.39286_31.16072
+assign: Switch_1_door__puzzle/saisenswitch_1.png__7.607143_56.16071
+assign: Switch_2_mine__puzzle/saisenswitch_2.png__23.60714_19.16072
+既にイベントSwitch_0_door__puzzle/saisenswitch_0.png__18.39286_31.16072が存在します
+既にイベントSwitch_1_door__puzzle/saisenswitch_1.png__7.607143_56.16071が存在します
+assign: bench__lift__obj/bench.png__27.58928_34.67857
+既にイベントSwitch_2_mine__puzzle/saisenswitch_2.png__23.60714_19.16072が存在します
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_cross  
+EV::start - %M2EVENTCOMMAND__@mount_cross~Nightingale__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_cross~Nightingale__TALK
+EV::start - ___Nightingale/_portal line:0
+ロードポイント: Line 14
+EV::end - ___Nightingale/_portal
+EV::start - ___Nightingale/_calc_nigscore line:0
+EV::end - ___Nightingale/_calc_nigscore
+EV::start - ___Nightingale/_portal line:50
+EV::end - ___Nightingale/_portal
+EV::start - ___Nightingale/t_talk_hpred line:0
+EV::end - ___Nightingale/t_talk_hpred
+EV::start - ___Nightingale/_portal line:63
+&&cmd_buy
+&&cmd_sell
+&&cmd_checkout
+&&cmd_sell
+&&cmd_buy
+&&cmd_checkout
+EV::end - ___Nightingale/_portal
+EV::start - ___Nightingale/t_talk02 line:0
+EV::end - ___Nightingale/t_talk02
+EV::start - ___Nightingale/_portal line:227
+EV::end - ___Nightingale/_portal
+>>AutoSave
+>>AutoSave
+EV::start - %BENCH_EVENT line:0
+EV::end - %BENCH_EVENT
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %BENCH_EVENT line:3
+WM __whole_city に移動します...
+map_close:: mount_cross
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_entrance_rightcave
+assign: Noel
+assign: ExitWR_b_city2mount
+assign: ExitL_entranceLB
+assign: ExitL_caveT
+assign: restroom
+assign: stopper
+assign: stopper_t
+assign: board_event
+assign: bench__Ev__obj/bench_wide.png__43.625_34.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_rightcave  
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+EV::end - __M2D_FLUSHED_AREA
+EV::start - 107/_change_danger line:0
+EV::end - 107/_change_danger
+EV::start - __M2D_FLUSHED_AREA line:48
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %BENCH_EVENT line:31
+>>AutoSave
+EV::end - %BENCH_EVENT
+>>AutoSave
+EV::start - ___city/_warp_zx line:0
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp line:0
+EV::end - ___city/_warp
+EV::start - ___city/_warp_zx line:22
+ロードポイント: Line 162
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp_zx_execute line:0
+map_close:: city_entrance_rightcave
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>1024,1024 / format:R8G8B8A8_UNorm
+map_open:: school_in_health
+assign: Noel
+assign: ExitD_scl_health
+assign: ExitD_groundh
+assign: Ev_door_shower
+assign: primula_cane
+assign: primula
+assign: bench__bed_1__wall_attach/bed_2_saveable.png__23.67857_16.21428
+M2EventContainer::reload - コマンドの再読み込みを実行:school_in_health  
+EV::end - ___city/_warp_zx_execute
+EV::start - ___city/_warp_zx line:166
+EV::end - ___city/_warp_zx
+EV::start - %M2EVENTCOMMAND__@school_in_health~Ev_door_shower__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@school_in_health~Ev_door_shower__CHECK
+EV::start - ___Laevi/trm_bath line:0
+EV::end - ___Laevi/trm_bath
+>>AutoSave
+EV::start - ___city/_warp_zx line:0
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp line:0
+EV::end - ___city/_warp
+EV::start - ___city/_warp_zx line:22
+ロードポイント: Line 162
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp_zx_execute line:0
+map_close:: school_in_health
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_entrance_rightcave
+assign: Noel
+assign: ExitWR_b_city2mount
+assign: ExitL_entranceLB
+assign: ExitL_caveT
+assign: restroom
+assign: stopper
+assign: stopper_t
+assign: board_event
+assign: bench__Ev__obj/bench_wide.png__43.625_34.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_rightcave  
+EV::end - ___city/_warp_zx_execute
+EV::start - ___city/_warp_zx line:166
+EV::end - ___city/_warp_zx
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:3
+WM __whole_mount に移動します...
+ロードポイント: Line 29
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+EV::start - ___city_guild/__FLUSH_SAFE_AREA line:0
+EV::end - ___city_guild/__FLUSH_SAFE_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:46
+map_close:: city_entrance_rightcave
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_entrance_grazia
+assign: Noel
+assign: ExitB_bl
+assign: ExitR_er
+assign: ExitR_ent_r
+assign: ExitWL_b_city2mount
+assign: bench__obj__obj/bench.png__15.41071_46.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_entrance_grazia  
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:76
+危険度を 0 に設定
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+>>AutoSave
+EV::start - %BENCH_EVENT line:0
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FASTTRAVEL_PRE line:0
+EV::end - __M2D_FASTTRAVEL_PRE
+EV::start - %BENCH_EVENT line:4
+map_close:: mount_entrance_grazia
+map_open:: mount_cross
+assign: Noel
+assign: ExitB_pr
+assign: ExitL_rrll
+assign: ExitL_ruinroadrr
+assign: ExitR_slider_2
+assign: ExitL_ruinr
+assign: door__puzzle/switch_2.png__14_56.69643-mv
+assign: door__puzzle/saisenswitch_0.png__18.39286_31.16072-mv
+assign: door__puzzle/saisenswitch_1.png__7.607143_56.16071-mv
+assign: mine__puzzle/saisenswitch_2.png__23.60714_19.16072-mv
+assign: Switch_0_door__puzzle/saisenswitch_0.png__18.39286_31.16072
+assign: Switch_1_door__puzzle/saisenswitch_1.png__7.607143_56.16071
+assign: Switch_2_mine__puzzle/saisenswitch_2.png__23.60714_19.16072
+既にイベントSwitch_0_door__puzzle/saisenswitch_0.png__18.39286_31.16072が存在します
+既にイベントSwitch_1_door__puzzle/saisenswitch_1.png__7.607143_56.16071が存在します
+既にイベントSwitch_2_mine__puzzle/saisenswitch_2.png__23.60714_19.16072が存在します
+既にイベントSwitch_0_door__puzzle/saisenswitch_0.png__18.39286_31.16072が存在します
+既にイベントSwitch_1_door__puzzle/saisenswitch_1.png__7.607143_56.16071が存在します
+assign: bench__lift__obj/bench.png__27.58928_34.67857
+既にイベントSwitch_2_mine__puzzle/saisenswitch_2.png__23.60714_19.16072が存在します
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_cross  
+>>AutoSave
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FASTTRAVEL_AFTER line:0
+EV::end - __M2D_FASTTRAVEL_AFTER
+ロードポイント: Line 12
+map_close:: mount_cross
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_slider
+assign: Noel
+assign: ExitR_busstop
+assign: ExitL_slider_2
+assign: lift__puzzle/saisenswitch_0.png__40.60714_24.16072-mv
+assign: Switch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072
+既にイベントSwitch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072が存在します
+既にイベントSwitch_0_lift__puzzle/saisenswitch_0.png__40.60714_24.16072が存在します
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_slider  
+ロードポイント: Line 12
+map_close:: mount_slider
+map_open:: mount_busstop
+assign: Noel
+assign: ExitR_dark
+assign: ExitB_caveh0
+assign: ExitT_treesand
+assign: ExitL_busstop
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_busstop  
+assign: SGWALL_0__S5
+assign: SGWALLCNC_0__S6
+ロードポイント: Line 12
+map_close:: mount_busstop
+map_open:: mount_cave_honey0
+assign: Noel
+assign: ExitR_honeyrr
+assign: ExitB_portalbb
+assign: ExitL_honeyrt
+assign: ExitT_caveh0
+assign: ExitL_honey0bl
+assign: Breakable_honey0bl-hit
+assign: rescue202ixia
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_cave_honey0  
+EV::start - %M2EVENTCOMMAND__@mount_cave_honey0~rescue202ixia__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@mount_cave_honey0~rescue202ixia__LOAD_ONCE
+EV::start - 200/20_ixia_rescue_00 line:0
+skill_difficulty_restrict is 2
+assign: citycaster_sub_i
+Opened summoner reader: mount_cave_honey0
+レスキューで強制的に開きます
+assign: ROAPER_0_0
+assign: DropCane-citycaster_sub_i
+assign: ROAPER_0_1
+EV::end - 200/20_ixia_rescue_00
+EV::start - %M2EVENTCOMMAND__@mount_cave_honey0~rescue202ixia__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_cave_honey0~rescue202ixia__STAND
+EV::start - 200/21_ixia_rescue_01 line:0
+OPEN SUMMONER FROM EVENT!
+EV::end - 200/21_ixia_rescue_01
+assign: LEECH_0_2
+assign: LEECH_0_3
+assign: LEECH_0_4
+assign: NoelCane
+assign: NoelCane
+assign: LEECH_0_5
+assign: ROAPER_0_6
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: MUSH_0_7
+assign: NoelCane
+assign: ROAPER_0_8
+assign: MUSH_0_9
+assign: ROAPER_0_10
+assign: DropCane-citycaster_sub_i
+assign: NoelCane
+assign: NoelCane
+assign: DropCane-citycaster_sub_i
+Summoner mount_cave_honey0 is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_DEFEAT_SUMMONER line:84
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - 200/22_ixia_rescue_02 line:0
+assign: DropCane-citycaster_sub_i
+EV::end - 200/22_ixia_rescue_02
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - 200/22_ixia_rescue_02 line:37
+EV::end - 200/22_ixia_rescue_02
+EV::start - 200/22b_ixia_rescue_02 line:0
+SUMMONER_TYPE (act:False) タイプを MAIN => 15 に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+assign: HONEYCOMB_0_0
+Opened summoner reader: mount_cave_honey0
+ロードポイント: Line 28
+Summoner mount_cave_honey0 is closed
+map_close:: mount_cave_honey0
+map_open:: mount_busstop
+assign: Noel
+assign: ExitR_dark
+assign: ExitB_caveh0
+assign: ExitT_treesand
+assign: ExitL_busstop
+assign: ixia
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_busstop  
+assign: SGWALL_0__S6
+assign: SGWALLCNC_0__S7
+EV::end - 200/22b_ixia_rescue_02
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - 200/22b_ixia_rescue_02 line:120
+EV::end - 200/22b_ixia_rescue_02
+EV::start - 200/22_ixia_rescue_02 line:41
+BGM NormalMountain はすでに CurPl 側に読み込まれています
+反対側プレイヤーが初期化されていません
+EV::end - 200/22_ixia_rescue_02
+ロードポイント: Line 12
+map_close:: mount_busstop
+map_open:: mount_darkcave
+assign: Noel
+assign: ExitR_darkout
+skill_difficulty_restrict is 2
+Opened summoner reader: mount_darkcave
+assign: ExitL_darksecret
+assign: Breakable_mount_treesand_rb-hit
+assign: ExitL_dark
+assign: obj__puzzle/saisenswitch_3.png__46.39286_46.16071-mv
+assign: obj__puzzle/saisenswitch_0.png__31.39286_41.16071-mv
+assign: obj__puzzle/saisenswitch_1.png__24.39286_19.16072-mv
+assign: obj__puzzle/saisenswitch_2.png__49.39286_21.16072-mv
+assign: Ev_darkcave_first
+assign: Switch_3_obj__puzzle/saisenswitch_3.png__46.39286_46.16071
+assign: Switch_0_obj__puzzle/saisenswitch_0.png__31.39286_41.16071
+assign: Switch_1_obj__puzzle/saisenswitch_1.png__24.39286_19.16072
+assign: Switch_2_obj__puzzle/saisenswitch_2.png__49.39286_21.16072
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_darkcave  
+assign: RAMDA_0_0
+assign: RAMDA_0_1
+assign: MUSH_0_2
+assign: MUSH_0_3
+assign: MUSH_0_4
+EV::start - %M2EVENTCOMMAND__@mount_darkcave~Ev_darkcave_first__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_darkcave~Ev_darkcave_first__STAND
+EV::start - 200/25_darkarea line:0
+EV::end - 200/25_darkarea
+EV::start - %M2EVENTCOMMAND__@mount_darkcave~Switch_0_obj__puzzle/saisenswitch_0.png__31.39286_41.16071__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_darkcave~Switch_0_obj__puzzle/saisenswitch_0.png__31.39286_41.16071__CHECK
+EV::start - %M2EVENTCOMMAND__@mount_darkcave~Switch_3_obj__puzzle/saisenswitch_3.png__46.39286_46.16071__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_darkcave~Switch_3_obj__puzzle/saisenswitch_3.png__46.39286_46.16071__CHECK
+EV::start - %M2EVENTCOMMAND__@mount_darkcave~Switch_2_obj__puzzle/saisenswitch_2.png__49.39286_21.16072__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_darkcave~Switch_2_obj__puzzle/saisenswitch_2.png__49.39286_21.16072__CHECK
+Summoner mount_darkcave is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_DEFEAT_SUMMONER line:84
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - %M2EVENTCOMMAND__@mount_darkcave~Switch_1_obj__puzzle/saisenswitch_1.png__24.39286_19.16072__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_darkcave~Switch_1_obj__puzzle/saisenswitch_1.png__24.39286_19.16072__CHECK
+ロードポイント: Line 12
+map_close:: mount_darkcave
+map_open:: mount_bigjump
+assign: Noel
+assign: Treasure_enhancer_shield_guarantee
+assign: Breakable_mount_c2j-hit
+assign: ExitR_cannonbl
+assign: ExitL_darkout
+assign: ExitL_tsunagir
+assign: ExitL_geartop
+assign: ExitR_c2jl
+assign: Layer_b__puzzle/saisenswitch_3.png__46.60714_43.16071-mv
+assign: ___Rounin
+重複して assign しようとしています: ___Rounin
+assign: bench__Layer_2__obj/bench.png__54.58929_30.67857
+assign: Switch_3_Layer_b__puzzle/saisenswitch_3.png__46.60714_43.16071
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_bigjump  
+assign: QA200_PUPPY
+assign: QA200_EVENT_10
+EV::start - %M2EVENTCOMMAND__@mount_bigjump~Switch_3_Layer_b__puzzle/saisenswitch_3.png__46.60714_43.16071__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_bigjump~Switch_3_Layer_b__puzzle/saisenswitch_3.png__46.60714_43.16071__CHECK
+EV::start - 200/26_escape10 line:0
+EV::end - 200/26_escape10
+EV::start - %M2EVENTCOMMAND__@mount_bigjump~QA200_EVENT_10__TRIGGER_A line:2
+EV::end - %M2EVENTCOMMAND__@mount_bigjump~QA200_EVENT_10__TRIGGER_A
+>>AutoSave
+ロードポイント: Line 12
+map_close:: mount_bigjump
+map_open:: mount_cannonroad
+assign: Noel
+assign: ExitT_kado9b
+assign: ExitR_cannonrb
+assign: ExitL_hprr
+assign: Breakable_mount_cannonroad_200-hit
+assign: ExitB_cannonb
+assign: Breakable_cannonroad_pb0-hit
+assign: Breakable_cannonroad_pb1-hit
+assign: ExitL_pittr
+assign: ExitL_cannonbl
+assign: CM-cannon_Branko_cannon
+assign: Cannon_0_Mv0
+assign: wood__puzzle/saisenswitch_0.png__36.60714_31.16072-mv
+assign: alma
+assign: Switch_0_wood__puzzle/saisenswitch_0.png__36.60714_31.16072
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_cannonroad  
+assign: QA200_PUPPY
+assign: alice
+assign: QA200_EVENT_12
+EV::start - 200/30_escape12 line:0
+EV::end - 200/30_escape12
+EV::start - %M2EVENTCOMMAND__@mount_cannonroad~QA200_EVENT_12__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_cannonroad~QA200_EVENT_12__STAND
+EV::start - 200/31_escape12aft line:0
+assign: NoelCane
+ロードポイント: Line 12
+assign: alma
+assign: Switch_0_wood__puzzle/saisenswitch_0.png__36.60714_31.16072
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_cannonroad  
+EV::end - 200/31_escape12aft
+EV::start - %M2EVENTCOMMAND__@mount_cannonroad~alma__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_cannonroad~alma__TALK
+EV::start - 200/32_escape12aft_alma line:0
+EV::end - 200/32_escape12aft_alma
+ロードポイント: Line 11
+map_close:: mount_cannonroad
+map_open:: mount_kado9
+assign: Noel
+assign: ExitL_mine1r
+assign: ExitT_caravan_cliff
+assign: ExitB_kado9b
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_kado9  
+ロードポイント: Line 12
+map_close:: mount_kado9
+map_open:: mount_mine_1
+assign: Noel
+assign: ExitL_mine0rr
+assign: ExitT_mine1t
+assign: ExitR_mine1r
+assign: QA200_EVENT_14
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine_1  
+ロードポイント: Line 12
+map_close:: mount_mine_1
+map_open:: mount_mine0r
+assign: Noel
+assign: ExitR_mine0rr
+assign: ExitB_glacier_l
+assign: Breakable_mountshrine-hit
+assign: ExitL_mine0rt
+assign: tree__puzzle/saisenswitch_2.png__35.60714_16.16072-mv
+assign: Switch_2_tree__puzzle/saisenswitch_2.png__35.60714_16.16072
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine0r  
+assign: QA200_PUPPY
+ロードポイント: Line 12
+map_close:: mount_mine0r
+map_open:: mount_mine_1
+assign: Noel
+assign: ExitL_mine0rr
+assign: ExitT_mine1t
+assign: ExitR_mine1r
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine_1  
+ロードポイント: Line 11
+map_close:: mount_mine_1
+map_open:: mount_caravan_entrance_left
+assign: Noel
+assign: ExitR_caravanrr
+assign: ExitL_caravanr
+assign: ExitB_mine1t
+assign: mgm_farm_chicken_0
+assign: mgm_farm_chicken_1
+assign: mgm_farm_chicken_2
+assign: mgm_farm_chicken_3
+assign: mgm_farm_chicken_4
+assign: alma_enter
+assign: man_bst_cow_farmer_1
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_entrance_left  
+assign: Assigned_mgm_farm_chicken_0
+assign: Assigned_mgm_farm_chicken_1
+assign: Assigned_mgm_farm_chicken_2
+assign: Assigned_mgm_farm_chicken_3
+assign: Assigned_mgm_farm_chicken_4
+EV::start - %M2EVENTCOMMAND__@mount_caravan_entrance_left~alma_enter__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_entrance_left~alma_enter__STAND
+EV::start - 200/35_alma_magic line:0
+assign: alma
+assign: alma_exitting
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_entrance_left  
+ロードポイント: Line 10
+ロードポイント: Line 23
+assign: Treasure_magic_flowerycircle
+EV::end - 200/35_alma_magic
+assign: NoelCane
+LightPostProcessor.SetupRenderTargets(): create RTs. 512x256 + 356x324 levels:4
+ロードポイント: Line 14
+EV::start - 200/36_alma_magic_learned line:0
+EV::end - 200/36_alma_magic_learned
+EV::start - %M2EVENTCOMMAND__@mount_caravan_entrance_left~Treasure_magic_flowerycircle__CHECK line:40
+EV::end - %M2EVENTCOMMAND__@mount_caravan_entrance_left~Treasure_magic_flowerycircle__CHECK
+ロードポイント: Line 4
+EV::start - 200/35b_alma_magic_exitting line:0
+EV::end - 200/35b_alma_magic_exitting
+EV::start - %M2EVENTCOMMAND__@mount_caravan_entrance_left~ExitR_caravanrr__STAND line:6
+ロードポイント: Line 18
+map_close:: mount_caravan_entrance_left
+map_open:: mount_caravan_church
+assign: Noel
+assign: Treasure_caravan_bottom
+assign: ExitR_caravanrrr
+assign: ExitL_caravanrr
+assign: ExitB_caravan_cliff
+assign: ExitD_church0
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_church  
+EV::end - %M2EVENTCOMMAND__@mount_caravan_entrance_left~ExitR_caravanrr__STAND
+ロードポイント: Line 11
+map_close:: mount_caravan_church
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_caravan_in_church_front
+assign: Noel
+assign: mgm_farm_chicken_0
+assign: mgm_farm_chicken_1
+assign: mgm_farm_chicken_2
+assign: ExitD_churchr
+assign: ExitD_church0
+assign: ExitD_church_garden
+assign: staff1
+assign: staff2
+assign: ltl_elf_boy_3
+assign: ltl_elf_boy_4
+assign: ltl_elf_girl_2
+assign: ltl_elf_girl_4
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_in_church_front  
+assign: Assigned_mgm_farm_chicken_0
+assign: Assigned_mgm_farm_chicken_1
+assign: Assigned_mgm_farm_chicken_2
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_church_front~staff1__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_church_front~staff1__TALK
+EV::start - ___mountain/_caravan_church_t00 line:0
+EV::end - ___mountain/_caravan_church_t00
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_church_front~staff2__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_church_front~staff2__TALK
+EV::start - ___mountain/_caravan_church_t01 line:0
+EV::end - ___mountain/_caravan_church_t01
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_church_front~ltl_elf_girl_2__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_church_front~ltl_elf_girl_2__TALK
+EV::start - ___mountain/_caravan_church_treasure_t00 line:0
+EV::end - ___mountain/_caravan_church_treasure_t00
+EV::start - __treasurehunt/_quest_init line:0
+EV::end - __treasurehunt/_quest_init
+EV::start - ___mountain/_caravan_church_treasure_t00 line:30
+EV::end - ___mountain/_caravan_church_treasure_t00
+ロードポイント: Line 11
+map_close:: mount_caravan_in_church_front
+map_open:: mount_caravan_garden
+assign: Noel
+assign: ExitD_church_garden
+assign: woman_bst_sister_5
+assign: Ev_right_door
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_garden  
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 43
+ event: %M2EVENTCOMMAND__@mount_caravan_in_church_front~ExitD_church_garden__CHECK
+EV::start - %M2EVENTCOMMAND__@mount_caravan_garden~woman_bst_sister_5__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_garden~woman_bst_sister_5__TALK
+EV::start - ___mountain/_caravan_church_t10 line:0
+EV::end - ___mountain/_caravan_church_t10
+EV::start - %M2EVENTCOMMAND__@mount_caravan_garden~Ev_right_door__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_garden~Ev_right_door__CHECK
+EV::start - ___mountain/_caravan_church_door line:0
+EV::end - ___mountain/_caravan_church_door
+ロードポイント: Line 12
+map_close:: mount_caravan_garden
+map_open:: mount_caravan_in_church_front
+assign: Noel
+assign: mgm_farm_chicken_0
+assign: mgm_farm_chicken_1
+assign: mgm_farm_chicken_2
+assign: ExitD_churchr
+assign: ExitD_church0
+assign: ExitD_church_garden
+assign: staff1
+assign: staff2
+assign: ltl_elf_boy_3
+assign: ltl_elf_boy_4
+assign: ltl_elf_girl_2
+assign: ltl_elf_girl_4
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_in_church_front  
+assign: Assigned_mgm_farm_chicken_0
+assign: Assigned_mgm_farm_chicken_1
+assign: Assigned_mgm_farm_chicken_2
+ロードポイント: Line 12
+map_close:: mount_caravan_in_church_front
+map_open:: mount_caravan_church_r
+assign: Noel
+assign: ExitL_caravanrrr
+assign: ExitB_caravan_cliffr
+assign: ExitD_churchr
+assign: bench__Ev__obj/bench.png__33.58929_24.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_church_r  
+>>AutoSave
+ロードポイント: Line 12
+map_close:: mount_caravan_church_r
+map_open:: mount_rightfall_1
+assign: Noel
+assign: ExitB_cliffcave
+assign: ExitT_caravan_cliffr
+assign: ExitB_clifffall
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_rightfall_1  
+ロードポイント: Line 12
+map_close:: mount_rightfall_1
+map_open:: mount_cliffcave
+assign: Noel
+assign: Treasure_cliffcave_ocslot
+assign: ExitB_ttt
+assign: ExitT_cliffcave
+assign: ExitB_cliffcaveb
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_cliffcave  
+ロードポイント: Line 12
+map_close:: mount_cliffcave
+map_open:: mount_woodslash
+assign: Noel
+assign: ExitL_woodleft
+assign: Breakable_mount_spiderent_tt-hit
+assign: Breakable_mount_woodslash_rr-hit
+assign: ExitB_slashrr
+assign: ExitT_clifffall
+assign: ExitT_cliffcaveb
+assign: ExitB_fall2
+assign: PuppetNpc
+assign: bench__Summon__obj/bench.png__55.58929_18.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_woodslash  
+assign: Assigned_sub_golem_npc
+EV::start - %M2EVENTCOMMAND__@mount_woodslash~PuppetNpc__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_woodslash~PuppetNpc__TALK
+EV::start - ___PuppetNpc/_portal line:0
+&&cmd_sell
+EV::end - ___PuppetNpc/_portal
+>>AutoSave
+skill_difficulty_restrict is 2
+Opened summoner reader: mount_woodslash
+assign: LEECH_0_0
+assign: PIG_0_1
+assign: LEECH_0_2
+assign: PIG_0_3
+assign: LEECH_0_4
+assign: LEECH_0_5
+assign: LEECHWCNC_0_6
+assign: LEECHWCNC_0_7
+assign: LEECHWCNC_0_8
+assign: LEECHWCNC_0_9
+assign: LEECHWCNC_0_10
+assign: LEECHWCNC_0_11
+assign: NoelCane
+assign: LEECH_0_12
+assign: LEECH_0_13
+assign: NoelCane
+assign: LEECH_0_14
+Summoner mount_woodslash is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_DEFEAT_SUMMONER line:84
+EV::end - __M2D_DEFEAT_SUMMONER
+ロードポイント: Line 12
+map_close:: mount_woodslash
+map_open:: mount_athletic_fallcave
+assign: Noel
+assign: Breakable-hit
+assign: Breakable_2-hit
+assign: Breakable_3-hit
+assign: Breakable_4-hit
+assign: Breakable_5-hit
+assign: Treasure_fallcaveslot
+assign: ExitB_trashrrt
+assign: ExitT_slashrr
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_athletic_fallcave  
+ロードポイント: Line 11
+ロードポイント: Line 12
+map_close:: mount_athletic_fallcave
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_trash_rr
+assign: Noel
+assign: Treasure_mount_trash_rr
+assign: ExitL_trashrrrl
+assign: ExitT_trashrrt
+assign: ExitT_fall2b
+assign: bench__Ev__obj/bench.png__60.58929_20.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_trash_rr  
+>>AutoSave
+ロードポイント: Line 11
+>>AutoSave
+>>AutoSave
+EV::start - %BENCH_EVENT line:0
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FASTTRAVEL_PRE line:0
+EV::end - __M2D_FASTTRAVEL_PRE
+EV::start - %BENCH_EVENT line:4
+map_close:: mount_trash_rr
+map_open:: mount_caravan_church_r
+assign: Noel
+assign: ExitL_caravanrrr
+assign: ExitB_caravan_cliffr
+assign: ExitD_churchr
+assign: bench__Ev__obj/bench.png__33.58929_24.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_church_r  
+>>AutoSave
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FASTTRAVEL_AFTER line:0
+EV::end - __M2D_FASTTRAVEL_AFTER
+ロードポイント: Line 12
+map_close:: mount_caravan_church_r
+map_open:: mount_caravan_church
+assign: Noel
+assign: Treasure_caravan_bottom
+assign: ExitR_caravanrrr
+assign: ExitL_caravanrr
+assign: ExitB_caravan_cliff
+assign: THunt_001_00-hit
+assign: ExitD_church0
+assign: CoffeeMaker
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_church  
+EV::start - %M2EVENTCOMMAND__@mount_caravan_church~CoffeeMaker__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_church~CoffeeMaker__TALK
+EV::start - ___CoffeeMaker/_portal line:0
+EV::end - ___CoffeeMaker/_portal
+EV::start - ___CoffeeMaker/t02 line:0
+cachMaterial DEBUG:0
+ - string: DEBUG 0, line: 4
+cachMaterial DEBUG:0
+ - string: DEBUG 0, line: 4
+EV::end - ___CoffeeMaker/t02
+EV::start - ___CoffeeMaker/_dynamo line:0
+DEBUG:: 0
+ - string: DEBUG 0, line: 4
+ event: ___CoffeeMaker/_dynamo
+EV::end - ___CoffeeMaker/_dynamo
+EV::start - ___CoffeeMaker/t02 line:9
+EV::end - ___CoffeeMaker/t02
+EV::start - ___CoffeeMaker/_dynamo line:0
+DEBUG:: -1
+ - string: DEBUG -1, line: 4
+ event: ___CoffeeMaker/_dynamo
+EV::end - ___CoffeeMaker/_dynamo
+EV::start - ___CoffeeMaker/_portal line:31
+&&cmd_buy
+EV::end - ___CoffeeMaker/_portal
+ロードポイント: Line 12
+map_close:: mount_caravan_church
+map_open:: mount_caravan_entrance_left
+assign: Noel
+assign: ExitR_caravanrr
+assign: ExitL_caravanr
+assign: ExitB_mine1t
+assign: mgm_farm_chicken_0
+assign: mgm_farm_chicken_1
+assign: mgm_farm_chicken_2
+assign: mgm_farm_chicken_3
+assign: mgm_farm_chicken_4
+assign: man_bst_cow_farmer_1
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_entrance_left  
+assign: Assigned_mgm_farm_chicken_0
+assign: Assigned_mgm_farm_chicken_1
+assign: Assigned_mgm_farm_chicken_2
+assign: Assigned_mgm_farm_chicken_3
+assign: Assigned_mgm_farm_chicken_4
+EV::start - %M2EVENTCOMMAND__@mount_caravan_entrance_left~man_bst_cow_farmer_1__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_entrance_left~man_bst_cow_farmer_1__TALK
+EV::start - ___mountain/_caravan_farm_t00 line:0
+EV::end - ___mountain/_caravan_farm_t00
+ロードポイント: Line 4
+EV::start - 200/35b_alma_magic_exitting line:0
+EV::end - 200/35b_alma_magic_exitting
+EV::start - %M2EVENTCOMMAND__@mount_caravan_entrance_left~ExitL_caravanr__STAND line:6
+ロードポイント: Line 18
+map_close:: mount_caravan_entrance_left
+map_open:: mount_caravan
+assign: Noel
+assign: ExitR_caravanr
+assign: ExitL_caravanl
+assign: ExitD_bar
+assign: ExitD_labo
+assign: hotel
+assign: restroom
+assign: man_bst_young_6
+assign: man_bst_fat_6
+assign: Ev_RRR_talk
+assign: woman_bst_young_teacher_lion
+assign: man_elf_fat_1
+assign: man_bst_horse_1
+assign: man_bst_engineer_3
+assign: bench__house_base_2__obj/bench_wide.png__45.625_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan  
+EV::end - %M2EVENTCOMMAND__@mount_caravan_entrance_left~ExitL_caravanr__STAND
+EV::start - %M2EVENTCOMMAND__@mount_caravan~restroom__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan~restroom__CHECK
+EV::start - ___House/noelhouse_restroom line:0
+EV::end - ___House/noelhouse_restroom
+EV::start - ___House/_restroom_portal line:0
+ロードポイント: Line 44
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_picture_def line:0
+EV::end - ___House/_restroom_picture_def
+EV::start - ___House/_restroom_portal line:127
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:191
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:410
+EV::end - ___House/_restroom_portal
+EV::start - ___House/noelhouse_restroom line:52
+EV::end - ___House/noelhouse_restroom
+EV::start - %M2EVENTCOMMAND__@mount_caravan~Ev_RRR_talk__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan~Ev_RRR_talk__TALK
+EV::start - ___mountain/_caravan_center_t00 line:0
+EV::end - ___mountain/_caravan_center_t00
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@mount_caravan~hotel__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan~hotel__CHECK
+EV::start - ___mountain/_hotel_caravan_portal line:0
+EV::end - ___mountain/_hotel_caravan_portal
+>>AutoSave
+ロードポイント: Line 11
+map_close:: mount_caravan
+map_open:: mount_caravan_in_bar
+assign: Noel
+assign: ExitD_bar
+assign: staff1
+assign: museum_lp_focus
+assign: man_elf_bst_6
+assign: man_bst_arigator_1
+assign: man_bst_engineer_5
+assign: Ev_C_talk
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_in_bar  
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_bar~staff1__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_bar~staff1__TALK
+EV::start - ___mountain/_caravan_bar_t00 line:0
+&&cmd_sell
+&&cmd_buy
+EV::end - ___mountain/_caravan_bar_t00
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_bar~Ev_C_talk__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_bar~Ev_C_talk__TALK
+EV::start - ___mountain/_caravan_bar_t02 line:0
+EV::end - ___mountain/_caravan_bar_t02
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_bar~man_elf_bst_6__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_bar~man_elf_bst_6__TALK
+EV::start - ___mountain/_caravan_bar_t01 line:0
+ロードポイント: Line 16
+EV::end - ___mountain/_caravan_bar_t01
+ロードポイント: Line 11
+map_close:: mount_caravan_in_bar
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_caravan
+assign: Noel
+assign: ExitR_caravanr
+assign: ExitL_caravanl
+assign: ExitD_bar
+assign: ExitD_labo
+assign: hotel
+assign: restroom
+assign: man_bst_young_6
+assign: man_bst_fat_6
+assign: Ev_RRR_talk
+assign: woman_bst_young_teacher_lion
+assign: man_elf_fat_1
+assign: man_bst_horse_1
+assign: man_bst_engineer_3
+assign: bench__house_base_2__obj/bench_wide.png__45.625_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan  
+>>AutoSave
+EV::start - ___Nightingale/_wait_at_bench line:0
+EV::end - ___Nightingale/_wait_at_bench
+EV::start - ___Nightingale/_wait_at_bench line:0
+assign: Nightingale
+EV::end - ___Nightingale/_wait_at_bench
+EV::start - %M2EVENTCOMMAND__@mount_caravan~Nightingale__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan~Nightingale__TALK
+EV::start - ___Nightingale/_portal line:0
+ロードポイント: Line 14
+EV::end - ___Nightingale/_portal
+EV::start - ___Nightingale/_calc_nigscore line:0
+EV::end - ___Nightingale/_calc_nigscore
+EV::start - ___Nightingale/_portal line:50
+EV::end - ___Nightingale/_portal
+EV::start - ___Nightingale/quest00 line:0
+EV::end - ___Nightingale/quest00
+EV::start - ___Nightingale/_portal line:71
+EV::end - ___Nightingale/_portal
+EV::start - %M2EVENTCOMMAND__@mount_caravan~Nightingale__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan~Nightingale__TALK
+EV::start - ___Nightingale/_portal line:0
+ロードポイント: Line 14
+EV::end - ___Nightingale/_portal
+EV::start - ___Nightingale/_calc_nigscore line:0
+EV::end - ___Nightingale/_calc_nigscore
+EV::start - ___Nightingale/_portal line:50
+&&cmd_sell
+&&cmd_buy
+&&cmd_checkout
+EV::end - ___Nightingale/_portal
+EV::start - ___Nightingale/quest00 line:0
+EV::end - ___Nightingale/quest00
+EV::start - ___Nightingale/_portal line:227
+EV::end - ___Nightingale/_portal
+>>AutoSave
+ロードポイント: Line 12
+map_close:: mount_caravan
+map_open:: mount_caravan_left
+assign: Noel
+assign: ExitB_carablb
+assign: ExitL_cara_factory
+assign: ExitR_caravanl
+assign: woman_bst_pocha_1
+assign: man_bst_normal_3
+assign: woman_bst_racoon_2
+assign: woman_bst_rabbit_0
+assign: man_bst_fat_5
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_left  
+ロードポイント: Line 12
+map_close:: mount_caravan_left
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_carabl
+assign: Noel
+assign: ExitR_mine2l
+assign: Breakable_mount_mine0l-hit
+assign: ExitR_mine3lb
+assign: ExitL_carabl
+assign: ExitT_carablb
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_7
+assign: CM-Carrier_Carrier_8
+assign: CM-Carrier_Carrier_u1
+assign: CM-Carrier_Carrier_u1_7
+assign: CM-Carrier_Carrier_u1_8
+assign: CM-Carrier_Carrier_u1_2
+assign: CM-Carrier_Carrier_u1_3
+assign: CM-Carrier_Carrier_u1_4
+assign: CM-Carrier_Carrier_u1_5
+assign: CM-Carrier_Carrier_u1_6
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+ロードポイント: Line 11
+map_close:: mount_carabl
+map_open:: mount_caravan_left
+assign: Noel
+assign: ExitB_carablb
+assign: ExitL_cara_factory
+assign: ExitR_caravanl
+assign: woman_bst_pocha_1
+assign: man_bst_normal_3
+assign: woman_bst_racoon_2
+assign: woman_bst_rabbit_0
+assign: man_bst_fat_5
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_left  
+ロードポイント: Line 12
+map_close:: mount_caravan_left
+map_open:: mount_carabl
+assign: Noel
+assign: ExitR_mine2l
+assign: Breakable_mount_mine0l-hit
+assign: ExitR_mine3lb
+assign: ExitL_carabl
+assign: ExitT_carablb
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_7
+assign: CM-Carrier_Carrier_8
+assign: CM-Carrier_Carrier_u1
+assign: CM-Carrier_Carrier_u1_7
+assign: CM-Carrier_Carrier_u1_8
+assign: CM-Carrier_Carrier_u1_2
+assign: CM-Carrier_Carrier_u1_3
+assign: CM-Carrier_Carrier_u1_4
+assign: CM-Carrier_Carrier_u1_5
+assign: CM-Carrier_Carrier_u1_6
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+ロードポイント: Line 12
+map_close:: mount_carabl
+map_open:: mount_mine1l
+assign: Noel
+assign: ExitR_mine0lt
+assign: ExitR_mine0bl
+assign: ExitL_mine2l
+assign: alice
+assign: QA200_EVENT_16
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine1l  
+EV::start - 200/40_mine_alice line:0
+assign: Alice200
+assign: Ev_duct
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine1l  
+EV::end - 200/40_mine_alice
+EV::start - %M2EVENTCOMMAND__@mount_mine1l~QA200_EVENT_16__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_mine1l~QA200_EVENT_16__STAND
+EV::start - %M2EVENTCOMMAND__@mount_mine1l~alice__LOAD_ONCE line:0
+assign: Alice200
+EV::end - %M2EVENTCOMMAND__@mount_mine1l~alice__LOAD_ONCE
+assign: Ev_board
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine1l  
+EV::start - 200/40b_mine_thunder_hit line:0
+ロードポイント: Line 11
+assign: NoelCane
+EV::end - 200/40b_mine_thunder_hit
+ロードポイント: Line 12
+map_close:: mount_mine1l
+map_open:: mount_carabl
+assign: Noel
+assign: ExitR_mine2l
+assign: ExitR_mine3lb
+assign: ExitL_carabl
+assign: ExitT_carablb
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_7
+assign: CM-Carrier_Carrier_8
+assign: CM-Carrier_Carrier_u1
+assign: CM-Carrier_Carrier_u1_7
+assign: CM-Carrier_Carrier_u1_8
+assign: CM-Carrier_Carrier_u1_2
+assign: CM-Carrier_Carrier_u1_3
+assign: CM-Carrier_Carrier_u1_4
+assign: CM-Carrier_Carrier_u1_5
+assign: CM-Carrier_Carrier_u1_6
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+ロードポイント: Line 12
+map_close:: mount_carabl
+map_open:: mount_carahole_bl
+assign: Noel
+assign: ExitR_carabl
+assign: ExitT_wtower
+assign: ExitB_cannonrb
+assign: CM-carrier_Carrier_7
+assign: CM-carrier_Carrier_9
+assign: CM-carrier_Carrier_8
+assign: CM-carrier_Carrier_10
+assign: Breakable_carahole_bl_ostrea1-hit
+assign: Breakable_carahole_bl_ostrea2-hit
+assign: ExitL_dark
+assign: CM-gimmick_Branko_cannon
+assign: Cannon_0_Mv0
+assign: Breakable_carahole_bl_ostrea0-hit
+assign: ostrea
+assign: ostrea_cover
+assign: Ev_LT
+assign: bright
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carahole_bl  
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~ostrea_cover__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~ostrea_cover__STAND
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~ostrea__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~ostrea__TALK
+EV::start - 200/42_ostrea_cannon line:0
+EV::end - 200/42_ostrea_cannon
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A
+EV::start - 200/42_ostrea_cannon line:95
+EV::end - 200/42_ostrea_cannon
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - 200/42_ostrea_cannon line:119
+プレイヤー  >+[-40,0 :40] が見つかりません 
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 143
+ event: 200/42_ostrea_cannon
+EV::end - 200/42_ostrea_cannon
+EV::start - 200/43_ostrea_cannon_broken line:0
+ロードポイント: Line 8
+map_close:: mount_carahole_bl
+map_open:: mount_carabl
+assign: Noel
+assign: ExitR_mine2l
+assign: ExitR_mine3lb
+assign: ExitL_carabl
+assign: ExitT_carablb
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_7
+assign: CM-Carrier_Carrier_8
+assign: CM-Carrier_Carrier_u1
+assign: CM-Carrier_Carrier_u1_7
+assign: CM-Carrier_Carrier_u1_8
+assign: CM-Carrier_Carrier_u1_2
+assign: CM-Carrier_Carrier_u1_3
+assign: CM-Carrier_Carrier_u1_4
+assign: CM-Carrier_Carrier_u1_5
+assign: CM-Carrier_Carrier_u1_6
+assign: 43_ostrea_panup
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+map_close:: mount_carabl
+map_open:: mount_carahole_bl
+assign: Noel
+assign: ExitR_carabl
+assign: ExitT_wtower
+assign: ExitB_cannonrb
+assign: CM-carrier_Carrier_7
+assign: CM-carrier_Carrier_9
+assign: CM-carrier_Carrier_8
+assign: CM-carrier_Carrier_10
+assign: Breakable_carahole_bl_ostrea2-hit
+assign: ExitL_dark
+assign: CM-gimmick_Branko_cannon
+assign: Cannon_0_Mv0
+assign: ostrea
+assign: Ev_LT
+assign: bright
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carahole_bl  
+EV::end - 200/43_ostrea_cannon_broken
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A
+EV::start - 200/43_ostrea_cannon_broken line:68
+// ======================
+タグクロージャー (c0) に合致する開始タグがありません
+Error Closure: 
+// ======================
+EV::end - 200/43_ostrea_cannon_broken
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~bright__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~bright__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A
+ロードポイント: Line 12
+map_close:: mount_carahole_bl
+map_open:: mount_mine_lt
+assign: Noel
+assign: ExitL_llll
+assign: ExitT_cannonrb
+assign: CM-Carrier_Carrier_15
+assign: CM-Carrier_Carrier_17
+assign: CM-Carrier_Carrier_16
+assign: CM-Carrier_Carrier_10
+assign: CM-Carrier_Carrier_19
+assign: CM-Carrier_Carrier_11
+assign: CM-Carrier_Carrier_12
+assign: CM-Carrier_Carrier_13
+assign: CM-Carrier_Carrier_18
+assign: CM-Carrier_Carrier_14
+assign: ExitR_rrll
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine_lt  
+ロードポイント: Line 11
+map_close:: mount_mine_lt
+map_open:: mount_carahole_bl
+assign: Noel
+assign: ExitR_carabl
+assign: ExitT_wtower
+assign: ExitB_cannonrb
+assign: CM-carrier_Carrier_7
+assign: CM-carrier_Carrier_9
+assign: CM-carrier_Carrier_8
+assign: CM-carrier_Carrier_10
+assign: Breakable_carahole_bl_ostrea2-hit
+assign: ExitL_dark
+assign: CM-gimmick_Branko_cannon
+assign: Cannon_0_Mv0
+assign: ostrea
+assign: Ev_LT
+assign: bright
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carahole_bl  
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~bright__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~bright__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A
+EV::start - 200/43_ostrea_cannon_broken line:0
+EV::end - 200/43_ostrea_cannon_broken
+ロードポイント: Line 12
+map_close:: mount_carahole_bl
+map_open:: mount_athletic_darkmaze
+assign: Noel
+assign: Treasure_mount_athletic_darkmaze
+assign: ExitR_dark
+assign: ExitB_darku
+assign: magic_killer_barrier_PuzzBarrier
+assign: CM-gimmick_Branko_1
+assign: CM-gimmick_Branko_2
+assign: CM-gimmick_Branko_3
+assign: Layer__puzzle/warp_to_check.png__10.48214_12.66071
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_athletic_darkmaze  
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+ロードポイント: Line 12
+map_close:: mount_athletic_darkmaze
+map_open:: mount_carahole_bl
+assign: Noel
+assign: ExitR_carabl
+assign: ExitT_wtower
+assign: ExitB_cannonrb
+assign: CM-carrier_Carrier_7
+assign: CM-carrier_Carrier_9
+assign: CM-carrier_Carrier_8
+assign: CM-carrier_Carrier_10
+assign: ExitL_dark
+assign: CM-gimmick_Branko_cannon
+assign: Cannon_0_Mv0
+assign: ostrea
+assign: Ev_LT
+assign: bright
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carahole_bl  
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~bright__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~bright__LOAD_ONCE
+EV::start - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A line:0
+EV::end - %M2EVENTCOMMAND__@mount_carahole_bl~bright__TRIGGER_A
+ロードポイント: Line 11
+map_close:: mount_carahole_bl
+map_open:: mount_windtower
+assign: Noel
+assign: Treasure_windtowerslot
+assign: Cannon_1_Mv0
+assign: Cannon_1_Mv1
+assign: CM-diff_easy_2_Branko_0
+assign: ExitT_factb
+assign: ExitL_elecr
+assign: ExitB_wtower
+assign: CM-carrier_Carrier_u1_5
+assign: CM-carrier_Carrier_u1_6
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_windtower  
+skill_difficulty_restrict is 2
+Opened summoner reader: mount_windtower
+assign: PENTAPOD_0_0
+assign: PENTAPOD_0_1
+assign: SPONGE_0_2
+assign: SPONGE_0_3
+assign: PUPPY_0_4
+assign: MUSH_0_5
+assign: PUPPY_0_6
+assign: PENTAPOD_HEAD_0_7
+assign: PENTAPOD_HEAD_0_8
+assign: NoelCane
+assign: MUSH_0_9
+assign: PENTAPOD_0_10
+assign: PENTAPOD_HEAD_0_11
+assign: PUPPY_0_12
+assign: MUSH_0_13
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: PENTAPOD_0_14
+assign: PENTAPOD_HEAD_0_15
+assign: PENTAPOD_0_16
+assign: PENTAPOD_HEAD_0_17
+Summoner mount_windtower is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_DEFEAT_SUMMONER line:84
+EV::end - __M2D_DEFEAT_SUMMONER
+ロードポイント: Line 11
+ロードポイント: Line 12
+map_close:: mount_windtower
+map_open:: mount_in_elec_facility
+assign: Noel
+assign: ExitR_elecr
+assign: ExitL_console
+assign: lift__puzzle/saisenswitch_1.png__15.39286_19.16072-mv
+assign: facility_console
+assign: Switch_1_lift__puzzle/saisenswitch_1.png__15.39286_19.16072
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_in_elec_facility  
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility~facility_console__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility~facility_console__STAND
+EV::start - 200/44_elec_facil_enter line:0
+// ======================
+タグクロージャー (c0) に合致する開始タグがありません
+Error Closure: 
+// ======================
+EV::end - 200/44_elec_facil_enter
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility~Switch_1_lift__puzzle/saisenswitch_1.png__15.39286_19.16072__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility~Switch_1_lift__puzzle/saisenswitch_1.png__15.39286_19.16072__CHECK
+ロードポイント: Line 12
+map_close:: mount_in_elec_facility
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>2048,1024 / format:R8G8B8A8_UNorm
+map_open:: mount_in_elec_facility_console
+assign: Noel
+assign: ExitR_console
+assign: ExitB_backyard
+assign: Breakable_elecfac_backyard-hit
+assign: facility_console
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_in_elec_facility_console  
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_console~facility_console__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_console~facility_console__CHECK
+EV::start - 200/_elec_facility_console line:0
+EV::end - 200/_elec_facility_console
+EV::start - 200/45_elec_facil_recover line:0
+map_close:: mount_in_elec_facility_console
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_carabl
+assign: Noel
+assign: ExitR_mine2l
+assign: ExitR_mine3lb
+assign: ExitL_carabl
+assign: ExitT_carablb
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_7
+assign: CM-Carrier_Carrier_8
+assign: CM-Carrier_Carrier_u1
+assign: CM-Carrier_Carrier_u1_7
+assign: CM-Carrier_Carrier_u1_8
+assign: CM-Carrier_Carrier_u1_2
+assign: CM-Carrier_Carrier_u1_3
+assign: CM-Carrier_Carrier_u1_4
+assign: CM-Carrier_Carrier_u1_5
+assign: CM-Carrier_Carrier_u1_6
+assign: 43_ostrea_panup
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+map_close:: mount_carabl
+map_open:: mount_windtower
+assign: Noel
+assign: Cannon_1_Mv0
+assign: Cannon_1_Mv1
+assign: CM-diff_easy_2_Branko_0
+assign: ExitT_factb
+assign: ExitL_elecr
+assign: ExitB_wtower
+assign: CM-carrier_Carrier_u1_5
+assign: CM-carrier_Carrier_u1_6
+assign: 43_ostrea_panup
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_windtower  
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_windtower  
+map_close:: mount_windtower
+map_open:: mount_in_elec_facility_console
+assign: Noel
+assign: ExitR_console
+assign: ExitB_backyard
+assign: Breakable_elecfac_backyard-hit
+assign: facility_console
+assign: FrontR
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_in_elec_facility_console  
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_in_elec_facility_console  
+EV::end - 200/45_elec_facil_recover
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_console~FrontR__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_console~FrontR__STAND
+EV::start - 200/45b_elec_facil_alert line:0
+EV::end - 200/45b_elec_facil_alert
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_console~facility_console__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_console~facility_console__CHECK
+EV::start - 200/_elec_facility_console line:0
+EV::end - 200/_elec_facility_console
+EV::start - 200/45b_elec_facil_alert line:0
+EV::end - 200/45b_elec_facil_alert
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - 200/45b_elec_facil_alert line:58
+EV::end - 200/45b_elec_facil_alert
+assign: NoelCane
+ロードポイント: Line 12
+map_close:: mount_in_elec_facility_console
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_in_elec_facility_backyard
+assign: Noel
+assign: ExitT_backyard
+assign: facility_error_alerm
+assign: Ev_box
+assign: Ev_cam
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_in_elec_facility_backyard  
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_backyard~facility_error_alerm__PRE_LOAD line:0
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_backyard~facility_error_alerm__PRE_LOAD
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_console~ExitB_backyard__STAND line:31
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_console~ExitB_backyard__STAND
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_backyard~Ev_box__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_backyard~Ev_box__CHECK
+EV::start - 200/46a_elec_facil_search line:0
+assign: Treasure_skill_metaevade
+EV::end - 200/46a_elec_facil_search
+ロードポイント: Line 11
+EV::start - 200/46b_elec_facil_skill_after line:0
+EV::end - 200/46b_elec_facil_skill_after
+EV::start - 200/47_evadejump_tips line:0
+EV::end - 200/47_evadejump_tips
+EV::start - 200/46b_elec_facil_skill_after line:50
+EV::end - 200/46b_elec_facil_skill_after
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_backyard~Treasure_skill_metaevade__CHECK line:36
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_backyard~Treasure_skill_metaevade__CHECK
+assign: Ev_47_evadejump_tips
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_in_elec_facility_backyard  
+assign: NoelCane
+ロードポイント: Line 11
+map_close:: mount_in_elec_facility_backyard
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_in_elec_facility_console
+assign: Noel
+assign: ExitR_console
+assign: ExitB_backyard
+assign: facility_console
+assign: facility_error_alerm
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_in_elec_facility_console  
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_console~facility_error_alerm__PRE_LOAD line:0
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_console~facility_error_alerm__PRE_LOAD
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_backyard~ExitT_backyard__STAND line:31
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_backyard~ExitT_backyard__STAND
+ロードポイント: Line 12
+map_close:: mount_in_elec_facility_console
+map_open:: mount_in_elec_facility
+assign: Noel
+assign: ExitR_elecr
+assign: ExitL_console
+assign: lift__puzzle/saisenswitch_1.png__15.39286_19.16072-mv
+assign: facility_error_alerm
+assign: Switch_1_lift__puzzle/saisenswitch_1.png__15.39286_19.16072
+既にイベントSwitch_1_lift__puzzle/saisenswitch_1.png__15.39286_19.16072が存在します
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_in_elec_facility  
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility~facility_error_alerm__PRE_LOAD line:0
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility~facility_error_alerm__PRE_LOAD
+EV::start - %M2EVENTCOMMAND__@mount_in_elec_facility_console~ExitR_console__STAND line:39
+EV::end - %M2EVENTCOMMAND__@mount_in_elec_facility_console~ExitR_console__STAND
+ロードポイント: Line 12
+map_close:: mount_in_elec_facility
+map_open:: mount_windtower
+assign: Noel
+assign: Cannon_1_Mv0
+assign: Cannon_1_Mv1
+assign: CM-diff_easy_2_Branko_0
+assign: ExitT_factb
+assign: ExitL_elecr
+assign: ExitB_wtower
+assign: CM-carrier_Carrier_u1_5
+assign: CM-carrier_Carrier_u1_6
+assign: _46c_elec_facil_escaped
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_windtower  
+EV::start - %M2EVENTCOMMAND__@mount_windtower~_46c_elec_facil_escaped__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_windtower~_46c_elec_facil_escaped__STAND
+EV::start - 200/46c_elec_facil_escaped line:0
+>>AutoSave
+EV::end - 200/46c_elec_facil_escaped
+ロードポイント: Line 11
+map_close:: mount_windtower
+map_open:: mount_caravan_factory
+assign: Noel
+assign: ExitB_factb
+assign: ExitR_cara_factory
+assign: man_bst_engineer_4
+assign: man_bst_engineer_1
+assign: man_bst_engineer_2
+assign: man_bst_arigator_2
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_factory  
+ロードポイント: Line 12
+map_close:: mount_caravan_factory
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_caravan_left
+assign: Noel
+assign: ExitB_carablb
+assign: ExitL_cara_factory
+assign: ExitR_caravanl
+assign: woman_bst_pocha_1
+assign: man_bst_normal_3
+assign: woman_bst_racoon_2
+assign: woman_bst_rabbit_0
+assign: man_bst_fat_5
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_left  
+ロードポイント: Line 12
+map_close:: mount_caravan_left
+map_open:: mount_carabl
+assign: Noel
+assign: ExitR_mine2l
+assign: ExitR_mine3lb
+assign: ExitL_carabl
+assign: ExitT_carablb
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_7
+assign: CM-Carrier_Carrier_8
+assign: CM-Carrier_Carrier_u1
+assign: CM-Carrier_Carrier_u1_7
+assign: CM-Carrier_Carrier_u1_8
+assign: CM-Carrier_Carrier_u1_2
+assign: CM-Carrier_Carrier_u1_3
+assign: CM-Carrier_Carrier_u1_4
+assign: CM-Carrier_Carrier_u1_5
+assign: CM-Carrier_Carrier_u1_6
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+ロードポイント: Line 12
+map_close:: mount_carabl
+map_open:: mount_mine1l
+assign: Noel
+assign: ExitR_mine0lt
+assign: ExitR_mine0bl
+assign: ExitL_mine2l
+assign: Ev_board
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine1l  
+ロードポイント: Line 12
+map_close:: mount_mine1l
+map_open:: mount_mine0
+assign: Noel
+assign: ExitL_mine0bl
+assign: ExitL_mine0lt
+assign: ExitR_mine0rt
+assign: Breakable_mine0lb-hit
+assign: Breakable_mine0lt-hit
+assign: ExitL_presser_again
+assign: Breakable_mount_mine0_fall_3-hit
+assign: Breakable_mount_mine0_fall_4-hit
+assign: Breakable_mount_mine0_fall_5-hit
+assign: Breakable_mount_mine0_fall_6-hit
+assign: Breakable_mount_mine0_hallr-hit
+assign: Breakable_mount_mine0_fall-hit
+assign: quest16
+assign: quest2
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine0  
+EV::start - %M2EVENTCOMMAND__@mount_mine0~quest16__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@mount_mine0~quest16__LOAD_ONCE
+assign: NoelCane
+ロードポイント: Line 12
+map_close:: mount_mine0
+map_open:: mount_presser_mine
+assign: Noel
+assign: Breakable_presseragain_lt-hit
+assign: ExitL_mine3lb
+assign: CM-carrier_Carrier_0
+assign: CM-carrier_Carrier_RB
+assign: CM-carrier_Carrier_1
+assign: CM-carrier_Carrier_2
+assign: CM-carrier_Carrier_3
+assign: CM-carrier_Carrier_4
+assign: CM-carrier_Carrier_5
+assign: CM-carrier_Carrier_6
+assign: CM-carrier_Carrier_7
+assign: magic_killer_puzzle_PuzzBarrier_0
+assign: Treasure_sk_hp_20
+assign: ExitR_presser_again
+assign: carrier__puzzle/switch_once_1.png__76.57143_16.125-mv
+assign: SwitchContainer_final_0
+assign: carrier__puzzle/switch_once_0.png__17.53572_20.96428-mv
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_presser_mine  
+ループバック失敗CM-carrier_Carrier_0
+ループバック失敗CM-carrier_Carrier_1
+ループバック失敗CM-carrier_Carrier_2
+ロードポイント: Line 12
+map_close:: mount_presser_mine
+map_open:: mount_carabl
+assign: Noel
+assign: ExitR_mine2l
+assign: ExitR_mine3lb
+assign: ExitL_carabl
+assign: ExitT_carablb
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_7
+assign: CM-Carrier_Carrier_8
+assign: CM-Carrier_Carrier_u1
+assign: CM-Carrier_Carrier_u1_7
+assign: CM-Carrier_Carrier_u1_8
+assign: CM-Carrier_Carrier_u1_2
+assign: CM-Carrier_Carrier_u1_3
+assign: CM-Carrier_Carrier_u1_4
+assign: CM-Carrier_Carrier_u1_5
+assign: CM-Carrier_Carrier_u1_6
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+ロードポイント: Line 11
+map_close:: mount_carabl
+map_open:: mount_caravan_left
+assign: Noel
+assign: ExitB_carablb
+assign: ExitL_cara_factory
+assign: ExitR_caravanl
+assign: woman_bst_pocha_1
+assign: man_bst_normal_3
+assign: woman_bst_racoon_2
+assign: woman_bst_rabbit_0
+assign: man_bst_fat_5
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_left  
+ロードポイント: Line 12
+map_close:: mount_caravan_left
+map_open:: mount_caravan
+assign: Noel
+assign: ExitR_caravanr
+assign: ExitL_caravanl
+assign: ExitD_bar
+assign: ExitD_labo
+assign: hotel
+assign: restroom
+assign: man_bst_young_6
+assign: man_bst_fat_6
+assign: Ev_RRR_talk
+assign: woman_bst_young_teacher_lion
+assign: man_elf_fat_1
+assign: man_bst_horse_1
+assign: man_bst_engineer_3
+assign: bench__house_base_2__obj/bench_wide.png__45.625_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan  
+>>AutoSave
+EV::start - %M2EVENTCOMMAND__@mount_caravan~hotel__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan~hotel__CHECK
+EV::start - ___mountain/_hotel_caravan_portal line:0
+EV::end - ___mountain/_hotel_caravan_portal
+>>AutoSave
+EV::start - %BENCH_EVENT line:0
+EV::end - %BENCH_EVENT
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %BENCH_EVENT line:3
+WM __whole_city に移動します...
+map_close:: mount_caravan
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_entrance_rightcave
+assign: Noel
+assign: ExitWR_b_city2mount
+assign: ExitL_entranceLB
+assign: ExitL_caveT
+assign: restroom
+assign: stopper
+assign: stopper_t
+assign: board_event
+assign: bench__Ev__obj/bench_wide.png__43.625_34.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_rightcave  
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+EV::end - __M2D_FLUSHED_AREA
+EV::start - 107/_change_danger line:0
+EV::end - 107/_change_danger
+EV::start - __M2D_FLUSHED_AREA line:48
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %BENCH_EVENT line:31
+>>AutoSave
+EV::end - %BENCH_EVENT
+>>AutoSave
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:3
+WM __whole_mount に移動します...
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+EV::start - %M2D_HOME_SWITCH line:0
+ロードポイント: Line 14
+map_close:: city_entrance_rightcave
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>2048,1024 / format:R8G8B8A8_UNorm
+map_open:: house_road
+assign: Noel
+assign: ExitWR_forest2home
+assign: ExitL_center
+assign: _backdoor_portal
+assign: _LP_decorate_Ev_board
+assign: _LP_decorate_Ev_Reset_L2R
+assign: _LP_decorate_Ev_Reset_R2L
+M2EventContainer::reload - コマンドの再読み込みを実行:house_road  
+EV::end - %M2D_HOME_SWITCH
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %M2D_HOME_SWITCH line:51
+EV::end - %M2D_HOME_SWITCH
+EV::start - ___city_guild/__FLUSH_SAFE_AREA line:0
+EV::end - ___city_guild/__FLUSH_SAFE_AREA
+EV::start - %M2D_HOME_SWITCH line:61
+>>AutoSave
+EV::end - %M2D_HOME_SWITCH
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__STAND line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__STAND
+EV::start - m2d_house_footbell line:0
+EV::end - m2d_house_footbell
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_L2R__STAND line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_L2R__STAND
+EV::start - m2d_house_footbell line:0
+EV::end - m2d_house_footbell
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__PRE_UNLOAD line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__PRE_UNLOAD
+EV::start - _mod_bgm_start line:0
+EV::end - _mod_bgm_start
+EV::start - %M2EVENTCOMMAND__@house_road~ExitL_center__STAND line:8
+ロードポイント: Line 12
+map_close:: house_road
+Atlas Texture Created: M2ImageAtlas=>2048,2048 / format:R8G8B8A8_UNorm
+map_open:: house_center
+assign: Noel
+assign: ExitD_ateliergarden
+assign: ExitD_house
+assign: ExitL_barn
+assign: ExitR_center
+assign: backdoor_portal
+assign: _LP_EV_Ev_board
+assign: _LP_bg_door_LP_backdoor
+M2EventContainer::reload - コマンドの再読み込みを実行:house_center  
+EV::end - %M2EVENTCOMMAND__@house_road~ExitL_center__STAND
+ロードポイント: Line 11
+map_close:: house_center
+map_open:: house_shop
+assign: Noel
+assign: ExitL_hallshop
+assign: ExitD_house
+assign: ___Rounin
+重複して assign しようとしています: ___Rounin
+assign: laevi
+assign: goto_the_room
+M2EventContainer::reload - コマンドの再読み込みを実行:house_shop  
+EV::start - %M2EVENTCOMMAND__@house_shop~laevi__TALK line:0
+EV::end - %M2EVENTCOMMAND__@house_shop~laevi__TALK
+EV::start - ___Laevi/_portal line:0
+ロードポイント: Line 4
+&&cmd_buy
+&&cmd_sell
+&&cmd_checkout
+EV::end - ___Laevi/_portal
+ロードポイント: Line 12
+map_close:: house_shop
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: house_hall
+assign: Noel
+assign: ExitD_noelroom
+assign: ExitD_atelier
+assign: ExitR_hallshop
+assign: backdoor_portal
+assign: tilde
+assign: restroom
+assign: cooking_portal
+M2EventContainer::reload - コマンドの再読み込みを実行:house_hall  
+EV::start - %M2EVENTCOMMAND__@house_hall~cooking_portal__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@house_hall~cooking_portal__CHECK
+EV::start - ___House/_cooking_portal line:0
+ロードポイント: Line 15
+EV::end - ___House/_cooking_portal
+EV::start - %M2EVENTCOMMAND__@house_hall~tilde__TALK line:0
+EV::end - %M2EVENTCOMMAND__@house_hall~tilde__TALK
+EV::start - ___Tilde/_portal line:0
+ロードポイント: Line 5
+EV::end - ___Tilde/_portal
+ロードポイント: Line 12
+map_close:: house_hall
+map_open:: house_shop
+assign: Noel
+assign: ExitL_hallshop
+assign: ExitD_house
+assign: ___Rounin
+重複して assign しようとしています: ___Rounin
+assign: laevi
+assign: goto_the_room
+M2EventContainer::reload - コマンドの再読み込みを実行:house_shop  
+EV::start - %M2EVENTCOMMAND__@house_shop~laevi__TALK line:0
+EV::end - %M2EVENTCOMMAND__@house_shop~laevi__TALK
+EV::start - ___Laevi/_portal line:0
+ロードポイント: Line 4
+&&cmd_sell
+&&cmd_buy
+EV::end - ___Laevi/_portal
+ロードポイント: Line 12
+map_close:: house_shop
+map_open:: house_hall
+assign: Noel
+assign: ExitD_noelroom
+assign: ExitD_atelier
+assign: ExitR_hallshop
+assign: backdoor_portal
+assign: tilde
+assign: restroom
+assign: cooking_portal
+M2EventContainer::reload - コマンドの再読み込みを実行:house_hall  
+EV::start - %M2EVENTCOMMAND__@house_hall~restroom__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@house_hall~restroom__CHECK
+EV::start - ___House/noelhouse_restroom line:0
+EV::end - ___House/noelhouse_restroom
+EV::start - ___House/_restroom_portal line:0
+ロードポイント: Line 38
+EV::end - ___House/_restroom_portal
+EV::start - ___Other/still line:0
+EV::end - ___Other/still
+EV::start - ___House/_restroom_portal line:39
+ロードポイント: Line 44
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_picture_def line:0
+EV::end - ___House/_restroom_picture_def
+EV::start - ___House/_restroom_portal line:127
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:191
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_picture_def line:0
+EV::end - ___House/_restroom_picture_def
+EV::start - ___House/_restroom_portal line:156
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:191
+EV::end - ___House/_restroom_portal
+EV::start - ___House/_restroom_deactivate_check line:0
+EV::end - ___House/_restroom_deactivate_check
+EV::start - ___House/_restroom_portal line:410
+EV::end - ___House/_restroom_portal
+EV::start - ___House/noelhouse_restroom line:52
+EV::end - ___House/noelhouse_restroom
+ロードポイント: Line 11
+map_close:: house_hall
+map_open:: house_noelroom
+assign: Noel
+assign: ExitD_noelroom
+assign: scene_memory
+assign: ixiadoll
+assign: tigrinadoll
+assign: bench__mobir__noelroom/noelbed.png__15.67857_17.42857
+assign: _LP_exit_WalkDecline_backdoor
+assign: _LP_exit_Ev_costume
+assign: _LP_Layer_shelf
+M2EventContainer::reload - コマンドの再読み込みを実行:house_noelroom  
+EV::start - %M2EVENTCOMMAND__@house_noelroom~_LP_Layer_shelf__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@house_noelroom~_LP_Layer_shelf__CHECK
+EV::start - ___House/_portal_shelf line:0
+EV::end - ___House/_portal_shelf
+EV::start - %M2EVENTCOMMAND__@house_noelroom~_LP_Layer_shelf__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@house_noelroom~_LP_Layer_shelf__CHECK
+EV::start - ___House/_portal_shelf line:0
+EV::end - ___House/_portal_shelf
+>>AutoSave
+ロードポイント: Line 11
+map_close:: house_noelroom
+map_open:: house_hall
+assign: Noel
+assign: ExitD_noelroom
+assign: ExitD_atelier
+assign: ExitR_hallshop
+assign: backdoor_portal
+assign: tilde
+assign: restroom
+assign: cooking_portal
+M2EventContainer::reload - コマンドの再読み込みを実行:house_hall  
+ロードポイント: Line 12
+map_close:: house_hall
+map_open:: house_shop
+assign: Noel
+assign: ExitL_hallshop
+assign: ExitD_house
+assign: ___Rounin
+重複して assign しようとしています: ___Rounin
+assign: laevi
+assign: goto_the_room
+M2EventContainer::reload - コマンドの再読み込みを実行:house_shop  
+ロードポイント: Line 5
+EV::start - ___House/transfer_abort line:0
+EV::end - ___House/transfer_abort
+EV::start - %M2EVENTCOMMAND__@house_shop~ExitD_house__CHECK line:7
+ロードポイント: Line 17
+map_close:: house_shop
+map_open:: house_center
+assign: Noel
+assign: ExitD_ateliergarden
+assign: ExitD_house
+assign: ExitL_barn
+assign: ExitR_center
+assign: backdoor_portal
+assign: _LP_EV_Ev_board
+assign: _LP_bg_door_LP_backdoor
+M2EventContainer::reload - コマンドの再読み込みを実行:house_center  
+EV::end - %M2EVENTCOMMAND__@house_shop~ExitD_house__CHECK
+ロードポイント: Line 11
+map_close:: house_center
+map_open:: house_shop
+assign: Noel
+assign: ExitL_hallshop
+assign: ExitD_house
+assign: ___Rounin
+重複して assign しようとしています: ___Rounin
+assign: laevi
+assign: goto_the_room
+M2EventContainer::reload - コマンドの再読み込みを実行:house_shop  
+EV::start - %M2EVENTCOMMAND__@house_shop~___Rounin__TALK line:0
+EV::end - %M2EVENTCOMMAND__@house_shop~___Rounin__TALK
+EV::start - ___Rounin/_portal line:0
+EV::end - ___Rounin/_portal
+EV::start - ___Rounin/t_intro line:0
+EV::end - ___Rounin/t_intro
+EV::start - ___Rounin/_portal line:28
+EV::end - ___Rounin/_portal
+ロードポイント: Line 5
+EV::start - ___House/transfer_abort line:0
+EV::end - ___House/transfer_abort
+EV::start - %M2EVENTCOMMAND__@house_shop~ExitD_house__CHECK line:7
+ロードポイント: Line 17
+map_close:: house_shop
+map_open:: house_center
+assign: Noel
+assign: ExitD_ateliergarden
+assign: ExitD_house
+assign: ExitL_barn
+assign: ExitR_center
+assign: backdoor_portal
+assign: _LP_EV_Ev_board
+assign: _LP_bg_door_LP_backdoor
+M2EventContainer::reload - コマンドの再読み込みを実行:house_center  
+EV::end - %M2EVENTCOMMAND__@house_shop~ExitD_house__CHECK
+ロードポイント: Line 12
+map_close:: house_center
+map_open:: house_road
+assign: Noel
+assign: ExitWR_forest2home
+assign: ExitL_center
+assign: _backdoor_portal
+assign: _LP_decorate_Ev_board
+assign: _LP_decorate_Ev_Reset_L2R
+assign: _LP_decorate_Ev_Reset_R2L
+M2EventContainer::reload - コマンドの再読み込みを実行:house_road  
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_L2R__STAND line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_L2R__STAND
+EV::start - m2d_house_footbell line:0
+EV::end - m2d_house_footbell
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__STAND line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__STAND
+EV::start - m2d_house_footbell line:0
+EV::end - m2d_house_footbell
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK line:3
+WM __whole_forest に移動します...
+EV::end - %M2EVENTCOMMAND__@house_road~ExitWR_forest2home__CHECK
+EV::start - %M2D_HOME_SWITCH line:0
+EV::end - %M2D_HOME_SWITCH
+EV::start - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__PRE_UNLOAD line:0
+EV::end - %M2EVENTCOMMAND__@house_road~_LP_decorate_Ev_Reset_R2L__PRE_UNLOAD
+EV::start - _mod_bgm_start line:0
+EV::end - _mod_bgm_start
+EV::start - %M2D_HOME_SWITCH line:3
+ロードポイント: Line 14
+map_close:: house_road
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>2048,2048 / format:R8G8B8A8_UNorm
+map_open:: city_entrance_left
+assign: Noel
+assign: ExitWL_forest2city
+assign: ExitR_entranceL
+assign: ExitB_eL2BL
+assign: ExitR_entranceLB
+assign: restroom
+assign: stopper
+assign: army_3
+assign: bench__lift__obj/bench_wide.png__21.375_32.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_left  
+EV::end - %M2D_HOME_SWITCH
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+EV::end - __M2D_FLUSHED_AREA
+EV::start - 107/_change_danger line:0
+EV::end - 107/_change_danger
+EV::start - __M2D_FLUSHED_AREA line:48
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %M2D_HOME_SWITCH line:51
+EV::end - %M2D_HOME_SWITCH
+EV::start - ___city_guild/__FLUSH_SAFE_AREA line:0
+EV::end - ___city_guild/__FLUSH_SAFE_AREA
+EV::start - %M2D_HOME_SWITCH line:61
+>>AutoSave
+EV::end - %M2D_HOME_SWITCH
+EV::start - ___city/_warp_zx line:0
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp line:0
+EV::end - ___city/_warp
+EV::start - ___city/_warp_zx line:22
+ロードポイント: Line 162
+EV::end - ___city/_warp_zx
+EV::start - ___city/_warp_zx_execute line:0
+map_close:: city_entrance_left
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: city_entrance_rightcave
+assign: Noel
+assign: ExitWR_b_city2mount
+assign: ExitL_entranceLB
+assign: ExitL_caveT
+assign: restroom
+assign: stopper
+assign: stopper_t
+assign: board_event
+assign: bench__Ev__obj/bench_wide.png__43.625_34.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:city_entrance_rightcave  
+EV::end - ___city/_warp_zx_execute
+EV::start - ___city/_warp_zx line:166
+EV::end - ___city/_warp_zx
+EV::start - __M2D_GOOUT_OTHER_AREA line:0
+EV::end - __M2D_GOOUT_OTHER_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:3
+WM __whole_mount に移動します...
+ロードポイント: Line 29
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+EV::start - ___city_guild/__FLUSH_SAFE_AREA line:0
+EV::end - ___city_guild/__FLUSH_SAFE_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:46
+map_close:: city_entrance_rightcave
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_entrance_grazia
+assign: Noel
+assign: ExitB_bl
+assign: ExitR_er
+assign: ExitR_ent_r
+assign: ExitWL_b_city2mount
+assign: bench__obj__obj/bench.png__15.41071_46.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_entrance_grazia  
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+EV::start - __M2D_FLUSHED_AREA line:0
+EV::end - __M2D_FLUSHED_AREA
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FLUSHED_AREA line:23
+危険度を 0 に設定
+EV::end - __M2D_FLUSHED_AREA
+EV::start - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK line:76
+危険度を 9 に設定
+EV::end - %M2EVENTCOMMAND__@city_entrance_rightcave~ExitWR_b_city2mount__CHECK
+>>AutoSave
+EV::start - ___Nightingale/_wait_at_bench line:0
+EV::end - ___Nightingale/_wait_at_bench
+EV::start - ___Nightingale/_wait_at_bench line:0
+EV::end - ___Nightingale/_wait_at_bench
+EV::start - ___Nightingale/_wait_at_bench line:0
+EV::end - ___Nightingale/_wait_at_bench
+EV::start - ___Nightingale/_wait_at_bench line:0
+assign: Nightingale
+EV::end - ___Nightingale/_wait_at_bench
+EV::start - %M2EVENTCOMMAND__@mount_entrance_grazia~Nightingale__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_entrance_grazia~Nightingale__TALK
+EV::start - ___Nightingale/_portal line:0
+ロードポイント: Line 14
+EV::end - ___Nightingale/_portal
+EV::start - ___Nightingale/_calc_nigscore line:0
+EV::end - ___Nightingale/_calc_nigscore
+EV::start - ___Nightingale/_portal line:50
+&&cmd_sell
+&&cmd_buy
+&&cmd_checkout
+EV::end - ___Nightingale/_portal
+>>AutoSave
+>>AutoSave
+EV::start - %BENCH_EVENT line:0
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FASTTRAVEL_PRE line:0
+EV::end - __M2D_FASTTRAVEL_PRE
+EV::start - %BENCH_EVENT line:4
+map_close:: mount_entrance_grazia
+map_open:: mount_caravan
+assign: Noel
+assign: ExitR_caravanr
+assign: ExitL_caravanl
+assign: ExitD_bar
+assign: ExitD_labo
+assign: hotel
+assign: restroom
+assign: man_bst_young_6
+assign: man_bst_fat_6
+assign: Ev_RRR_talk
+assign: woman_bst_young_teacher_lion
+assign: man_elf_fat_1
+assign: man_bst_horse_1
+assign: man_bst_engineer_3
+assign: bench__house_base_2__obj/bench_wide.png__45.625_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan  
+>>AutoSave
+EV::end - %BENCH_EVENT
+EV::start - __M2D_FASTTRAVEL_AFTER line:0
+EV::end - __M2D_FASTTRAVEL_AFTER
+ロードポイント: Line 11
+map_close:: mount_caravan
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_caravan_in_bar
+assign: Noel
+assign: ExitD_bar
+assign: ___Rounin
+重複して assign しようとしています: ___Rounin
+assign: staff1
+assign: museum_lp_focus
+assign: man_bst_arigator_1
+assign: man_bst_engineer_5
+assign: Ev_C_talk
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_in_bar  
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_bar~___Rounin__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_bar~___Rounin__TALK
+EV::start - ___Rounin/_portal line:0
+EV::end - ___Rounin/_portal
+EV::start - ___Rounin/t_intro line:0
+EV::end - ___Rounin/t_intro
+EV::start - ___Rounin/_portal line:28
+EV::end - ___Rounin/_portal
+EV::start - ___Rounin/t_cnct_tips line:0
+EV::end - ___Rounin/t_cnct_tips
+EV::start - ___Rounin/_portal line:45
+EV::end - ___Rounin/_portal
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_bar~staff1__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_bar~staff1__TALK
+EV::start - ___mountain/_caravan_bar_t00 line:0
+&&cmd_buy
+&&cmd_buy
+&&cmd_checkout
+EV::end - ___mountain/_caravan_bar_t00
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_bar~staff1__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_bar~staff1__TALK
+EV::start - ___mountain/_caravan_bar_t00 line:0
+&&cmd_buy
+&&cmd_checkout
+EV::end - ___mountain/_caravan_bar_t00
+ロードポイント: Line 11
+map_close:: mount_caravan_in_bar
+map_open:: mount_caravan
+assign: Noel
+assign: ExitR_caravanr
+assign: ExitL_caravanl
+assign: ExitD_bar
+assign: ExitD_labo
+assign: hotel
+assign: restroom
+assign: man_bst_young_6
+assign: man_bst_fat_6
+assign: Ev_RRR_talk
+assign: woman_bst_young_teacher_lion
+assign: man_elf_fat_1
+assign: man_bst_horse_1
+assign: man_bst_engineer_3
+assign: bench__house_base_2__obj/bench_wide.png__45.625_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan  
+ロードポイント: Line 11
+map_close:: mount_caravan
+map_open:: mount_caravan_in_labo
+assign: Noel
+assign: ExitD_labo
+assign: man_elf_fat_hakui
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_in_labo  
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 43
+ event: %M2EVENTCOMMAND__@mount_caravan~ExitD_labo__CHECK
+EV::start - %M2EVENTCOMMAND__@mount_caravan_in_labo~man_elf_fat_hakui__TALK line:0
+EV::end - %M2EVENTCOMMAND__@mount_caravan_in_labo~man_elf_fat_hakui__TALK
+EV::start - ___mountain/_caravan_labo_portal line:0
+EV::end - ___mountain/_caravan_labo_portal
+EV::start - ___mountain/_caravan_labo_t00 line:0
+EV::end - ___mountain/_caravan_labo_t00
+EV::start - ___mountain/_caravan_labo_portal line:26
+EV::end - ___mountain/_caravan_labo_portal
+ロードポイント: Line 12
+map_close:: mount_caravan_in_labo
+map_open:: mount_caravan
+assign: Noel
+assign: ExitR_caravanr
+assign: ExitL_caravanl
+assign: ExitD_bar
+assign: ExitD_labo
+assign: hotel
+assign: restroom
+assign: man_bst_young_6
+assign: man_bst_fat_6
+assign: Ev_RRR_talk
+assign: woman_bst_young_teacher_lion
+assign: man_elf_fat_1
+assign: man_bst_horse_1
+assign: man_bst_engineer_3
+assign: bench__house_base_2__obj/bench_wide.png__45.625_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan  
+ロードポイント: Line 12
+map_close:: mount_caravan
+map_open:: mount_caravan_left
+assign: Noel
+assign: ExitB_carablb
+assign: ExitL_cara_factory
+assign: ExitR_caravanl
+assign: woman_bst_pocha_1
+assign: man_bst_normal_3
+assign: woman_bst_racoon_2
+assign: woman_bst_rabbit_0
+assign: man_bst_fat_5
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_left  
+ロードポイント: Line 12
+map_close:: mount_caravan_left
+map_open:: mount_carabl
+assign: Noel
+assign: ExitR_mine2l
+assign: ExitR_mine3lb
+assign: ExitL_carabl
+assign: ExitT_carablb
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_7
+assign: CM-Carrier_Carrier_8
+assign: CM-Carrier_Carrier_u1
+assign: CM-Carrier_Carrier_u1_7
+assign: CM-Carrier_Carrier_u1_8
+assign: CM-Carrier_Carrier_u1_2
+assign: CM-Carrier_Carrier_u1_3
+assign: CM-Carrier_Carrier_u1_4
+assign: CM-Carrier_Carrier_u1_5
+assign: CM-Carrier_Carrier_u1_6
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+ロードポイント: Line 12
+map_close:: mount_carabl
+map_open:: mount_mine1l
+assign: Noel
+assign: ExitR_mine0lt
+assign: ExitR_mine0bl
+assign: ExitL_mine2l
+assign: Ev_board
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine1l  
+ロードポイント: Line 12
+map_close:: mount_mine1l
+map_open:: mount_mine0
+assign: Noel
+assign: ExitL_mine0bl
+assign: ExitL_mine0lt
+assign: ExitR_mine0rt
+assign: ExitL_presser_again
+assign: Breakable_mount_mine0_fall_3-hit
+assign: Breakable_mount_mine0_fall_4-hit
+assign: Breakable_mount_mine0_fall_5-hit
+assign: Breakable_mount_mine0_fall_6-hit
+assign: Breakable_mount_mine0_hallr-hit
+assign: quest2
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine0  
+EV::start - %M2EVENTCOMMAND__@mount_mine0~quest2__LOAD_ONCE line:0
+EV::end - %M2EVENTCOMMAND__@mount_mine0~quest2__LOAD_ONCE
+skill_difficulty_restrict is 2
+Opened summoner reader: mount_mine0
+assign: GOLEM_0_NM_0
+assign: RAMDA_0_1
+assign: GOLEM_0_NM_2
+assign: ROAPER_0_3
+assign: GOLEM_0_4
+assign: ROAPER_0_5
+assign: RAMDA_0_6
+assign: GOLEMTOY_BOW_7
+assign: GOLEM_0_NM_8
+assign: RAMDA_0_9
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelHat
+assign: NoelCane
+assign: NoelCaneB
+assign: NoelHat
+EV::start - __M2D_GAMEOVER line:0
+EV::end - __M2D_GAMEOVER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_GAMEOVER line:86
+Summoner mount_mine0 is closed
+map_close:: mount_mine0
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>4096,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_caravan
+assign: Noel
+assign: ExitR_caravanr
+assign: ExitL_caravanl
+assign: ExitD_bar
+assign: ExitD_labo
+assign: NoelCane
+assign: NoelCaneB
+assign: hotel
+assign: restroom
+assign: man_bst_young_6
+assign: man_bst_fat_6
+assign: Ev_RRR_talk
+assign: woman_bst_young_teacher_lion
+assign: man_elf_fat_1
+assign: man_bst_horse_1
+assign: man_bst_engineer_3
+assign: bench__house_base_2__obj/bench_wide.png__45.625_18.82143
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+assign: NoelCane
+>>AutoSave
+ロードポイント: Line 12
+map_close:: mount_caravan
+map_open:: mount_caravan_left
+assign: Noel
+assign: ExitB_carablb
+assign: ExitL_cara_factory
+assign: ExitR_caravanl
+assign: woman_bst_pocha_1
+assign: man_bst_normal_3
+assign: woman_bst_racoon_2
+assign: woman_bst_rabbit_0
+assign: man_bst_fat_5
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_caravan_left  
+ロードポイント: Line 12
+map_close:: mount_caravan_left
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_carabl
+assign: Noel
+assign: ExitR_mine2l
+assign: ExitR_mine3lb
+assign: ExitL_carabl
+assign: ExitT_carablb
+assign: CM-Carrier_Carrier_1
+assign: CM-Carrier_Carrier_2
+assign: CM-Carrier_Carrier_3
+assign: CM-Carrier_Carrier_4
+assign: CM-Carrier_Carrier_5
+assign: CM-Carrier_Carrier_6
+assign: CM-Carrier_Carrier_7
+assign: CM-Carrier_Carrier_8
+assign: CM-Carrier_Carrier_u1
+assign: CM-Carrier_Carrier_u1_7
+assign: CM-Carrier_Carrier_u1_8
+assign: CM-Carrier_Carrier_u1_2
+assign: CM-Carrier_Carrier_u1_3
+assign: CM-Carrier_Carrier_u1_4
+assign: CM-Carrier_Carrier_u1_5
+assign: CM-Carrier_Carrier_u1_6
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_carabl  
+ロードポイント: Line 12
+map_close:: mount_carabl
+map_open:: mount_mine1l
+assign: Noel
+assign: ExitR_mine0lt
+assign: ExitR_mine0bl
+assign: ExitL_mine2l
+assign: Ev_board
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine1l  
+EV::start - 200/40b_mine_thunder_hit line:0
+EV::end - 200/40b_mine_thunder_hit
+assign: NoelCane
+EV::start - 200/40b_mine_thunder_hit line:0
+EV::end - 200/40b_mine_thunder_hit
+assign: NoelCane
+EV::start - 200/40b_mine_thunder_hit line:0
+EV::end - 200/40b_mine_thunder_hit
+assign: NoelCane
+EV::start - 200/40b_mine_thunder_hit line:0
+EV::end - 200/40b_mine_thunder_hit
+assign: NoelCane
+ロードポイント: Line 12
+map_close:: mount_mine1l
+map_open:: mount_mine0
+assign: Noel
+assign: ExitL_mine0bl
+assign: ExitL_mine0lt
+assign: ExitR_mine0rt
+assign: ExitL_presser_again
+assign: Breakable_mount_mine0_fall_3-hit
+assign: Breakable_mount_mine0_fall_4-hit
+assign: Breakable_mount_mine0_fall_5-hit
+assign: Breakable_mount_mine0_fall_6-hit
+assign: Breakable_mount_mine0_hallr-hit
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine0  
+skill_difficulty_restrict is 2
+Opened summoner reader: mount_mine0
+assign: GOLEM_0_0
+assign: GOLEM_0_NM_1
+assign: GOLEM_0_NM_2
+assign: RAMDA_0_3
+assign: ROAPER_0_4
+assign: GOLEM_0_NM_5
+assign: GOLEMTOY_MKB_6
+assign: GOLEMTOY_BOW_7
+assign: ROAPER_0_8
+assign: NoelCane
+assign: NoelCane
+assign: NoelHat
+assign: NoelCane
+assign: NoelHat
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelCane
+assign: NoelHat
+assign: NoelCane
+assign: NoelHat
+assign: NoelCane
+Summoner mount_mine0 is defeated
+EV::start - __M2D_DEFEAT_SUMMONER line:0
+EV::end - __M2D_DEFEAT_SUMMONER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_DEFEAT_SUMMONER line:84
+EV::end - __M2D_DEFEAT_SUMMONER
+ロードポイント: Line 12
+map_close:: mount_mine0
+map_open:: mount_mine0r
+assign: Noel
+assign: ExitR_mine0rr
+assign: ExitB_glacier_l
+assign: Breakable_mountshrine-hit
+assign: ExitL_mine0rt
+assign: tree__puzzle/saisenswitch_2.png__35.60714_16.16072-mv
+assign: Switch_2_tree__puzzle/saisenswitch_2.png__35.60714_16.16072
+assign: QA200_EVENT_17
+既にイベントSwitch_2_tree__puzzle/saisenswitch_2.png__35.60714_16.16072が存在します
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_mine0r  
+ロードポイント: Line 12
+map_close:: mount_mine0r
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_secret_glacier_0
+assign: Noel
+assign: Treasure_noisyskill_mount
+assign: ExitT_glacier_l
+assign: ExitR_hp
+assign: Breakable_mount_pittl-hit
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_secret_glacier_0  
+ロードポイント: Line 11
+EV::start - 200/65_skill_error line:0
+ロードポイント: Line 15
+assign: NoelCane
+EV::end - 200/65_skill_error
+EV::start - %M2EVENTCOMMAND__@mount_secret_glacier_0~Treasure_noisyskill_mount__CHECK line:36
+EV::end - %M2EVENTCOMMAND__@mount_secret_glacier_0~Treasure_noisyskill_mount__CHECK
+ロードポイント: Line 4
+EV::start - 200/m2d_out_mount_secret_glacier_0 line:0
+EV::end - 200/m2d_out_mount_secret_glacier_0
+EV::start - %M2EVENTCOMMAND__@mount_secret_glacier_0~ExitR_hp__STAND line:6
+ロードポイント: Line 18
+map_close:: mount_secret_glacier_0
+Atlas Texture Created: M2ImageAtlas=>4096,4096 / format:R8G8B8A8_UNorm
+map_open:: mount_honeypit
+assign: Noel
+assign: ExitR_pittr
+assign: ExitR_hprr
+assign: ExitL_pitbl
+skill_difficulty_restrict is 2
+assign: LEECH_0_0
+Opened summoner reader: mount_honeypit
+assign: ExitL_hp
+assign: CM-mech_and_rail_Carrier_3
+assign: CM-mech_and_rail_Carrier_2
+assign: eyescope_wood__obj/eyescope.png__14.625_20.03572
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_honeypit  
+assign: QA200_PUPPY
+assign: QA200_EVENT_20
+assign: HONEYCOMB_0_1
+assign: SLIME_0_2
+assign: LEECH_0_3
+assign: LEECH_0_4
+assign: SLIME_0_5
+EV::end - %M2EVENTCOMMAND__@mount_secret_glacier_0~ExitR_hp__STAND
+ロードポイント: Line 12
+Summoner mount_honeypit is closed
+map_close:: mount_honeypit
+map_open:: mount_cannonroad
+assign: Noel
+assign: ExitT_kado9b
+assign: ExitR_cannonrb
+assign: ExitL_hprr
+assign: ExitB_cannonb
+assign: Breakable_cannonroad_pb0-hit
+assign: Breakable_cannonroad_pb1-hit
+assign: ExitL_pittr
+assign: ExitL_cannonbl
+assign: CM-cannon_Branko_cannon
+assign: Cannon_0_Mv0
+assign: wood__puzzle/saisenswitch_0.png__36.60714_31.16072-mv
+assign: QA200_EVENT_21
+assign: Switch_0_wood__puzzle/saisenswitch_0.png__36.60714_31.16072
+既にイベントSwitch_0_wood__puzzle/saisenswitch_0.png__36.60714_31.16072が存在します
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_cannonroad  
+EV::start - 200/66_cannonroad_shoot line:0
+ロードポイント: Line 6
+EV::end - 200/66_cannonroad_shoot
+EV::start - 200/66_cannonroad_shoot line:0
+EV::end - 200/66_cannonroad_shoot
+ロードポイント: Line 12
+map_close:: mount_cannonroad
+map_open:: mount_spider_entrance
+assign: Noel
+assign: ExitT_ttt
+assign: ExitL_cannonct
+assign: ExitL_cannonrb
+assign: ExitR_woodleft
+assign: Breakable_mount_spiderent_tt-hit
+assign: ExitR_spe
+assign: Ev__puzzle/saisenswitch_0.png__19.39286_57.16071-mv
+assign: ladder__puzzle/saisenswitch_1.png__18.39286_28.16072-mv
+assign: QA200_EVENT_22
+assign: Switch_0_Ev__puzzle/saisenswitch_0.png__19.39286_57.16071
+assign: Switch_1_ladder__puzzle/saisenswitch_1.png__18.39286_28.16072
+assign: bench__lift__obj/bench.png__22.58928_40.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spider_entrance  
+assign: SGWALL_0__S13
+assign: SGWALLCNC_0__S14
+>>AutoSave
+ロードポイント: Line 4
+EV::start - 200/150_no_item line:0
+EV::end - 200/150_no_item
+EV::start - %M2EVENTCOMMAND__@mount_spider_entrance~ExitR_spe__STAND line:6
+ロードポイント: Line 18
+map_close:: mount_spider_entrance
+map_open:: mount_spiderlt
+assign: Noel
+assign: ExitL_spe
+assign: ExitR_spiderlt
+assign: ExitT_head
+assign: alice
+assign: QA200_EVENT_23
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spiderlt  
+EV::end - %M2EVENTCOMMAND__@mount_spider_entrance~ExitR_spe__STAND
+EV::start - 200/70_escape_floor line:0
+EV::end - 200/70_escape_floor
+EV::start - %M2EVENTCOMMAND__@mount_spiderlt~QA200_EVENT_23__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_spiderlt~QA200_EVENT_23__STAND
+ロードポイント: Line 4
+EV::start - 200/m2d_out_mount_spiderlt line:0
+EV::end - 200/m2d_out_mount_spiderlt
+EV::start - %M2EVENTCOMMAND__@mount_spiderlt~ExitR_spiderlt__STAND line:6
+ロードポイント: Line 18
+map_close:: mount_spiderlt
+map_open:: mount_spidert
+assign: Noel
+assign: Breakable_spidertop_event-hit
+assign: ExitL_spiderlt
+assign: ExitB_spider
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spidert  
+assign: QA200_PUPPY
+assign: alice
+assign: QA200_EVENT_24
+assign: QA200_EVENT_25
+EV::end - %M2EVENTCOMMAND__@mount_spiderlt~ExitR_spiderlt__STAND
+EV::start - 200/71_escape_floor_deadend line:0
+EV::end - 200/71_escape_floor_deadend
+EV::start - %M2EVENTCOMMAND__@mount_spidert~QA200_EVENT_24__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_spidert~QA200_EVENT_24__STAND
+EV::start - 200/72_escape_floor_deadend_absorb line:0
+assign: NoelCane
+EV::end - 200/72_escape_floor_deadend_absorb
+EV::start - 200/73_escape_floor_deadend_break line:0
+assign: spidert_200_deadend_rubecchi
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spidert  
+map_close:: mount_spidert
+map_open:: mount_spider_coroseum
+assign: Noel
+assign: ExitT_rt
+assign: ExitT_spider
+assign: Ev_L
+assign: alice
+assign: QA200_EVENT_26
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spider_coroseum  
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spider_coroseum  
+EV::end - 200/73_escape_floor_deadend_break
+EV::start - 200/80_spidercave0 line:0
+EV::end - 200/80_spidercave0
+EV::start - 200/qa23_load line:0
+SUMMONER_TYPE (act:False) タイプを MAIN => 130 に設定
+EV::end - 200/qa23_load
+EV::start - 200/80_spidercave0 line:9
+ロードポイント: Line 19
+assign: NoelCane
+EV::end - 200/80_spidercave0
+EV::start - 200/81_spidercave1 line:0
+ロードポイント: Line 41
+EV::end - 200/81_spidercave1
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - 200/81_spidercave1 line:83
+EV::end - 200/81_spidercave1
+EV::start - _PIIN line:0
+EV::end - _PIIN
+EV::start - 200/81_spidercave1 line:105
+assign: drop_magicdevice
+assign: Ev_alice_retouch
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spider_coroseum  
+EV::end - 200/81_spidercave1
+EV::start - %M2EVENTCOMMAND__@mount_spider_coroseum~QA200_EVENT_26__STAND line:2
+EV::end - %M2EVENTCOMMAND__@mount_spider_coroseum~QA200_EVENT_26__STAND
+EV::start - %M2EVENTCOMMAND__@mount_spider_coroseum~Ev_alice_retouch__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_spider_coroseum~Ev_alice_retouch__STAND
+EV::start - %M2EVENTCOMMAND__@mount_spider_coroseum~drop_magicdevice__CHECK line:0
+EV::end - %M2EVENTCOMMAND__@mount_spider_coroseum~drop_magicdevice__CHECK
+EV::start - 200/79_pickup_magicdevice line:0
+EV::end - 200/79_pickup_magicdevice
+EV::start - %M2EVENTCOMMAND__@mount_spider_coroseum~Ev_alice_retouch__STAND line:0
+EV::end - %M2EVENTCOMMAND__@mount_spider_coroseum~Ev_alice_retouch__STAND
+EV::start - 200/81_spidercave1 line:0
+EV::end - 200/81_spidercave1
+EV::start - 200/82_spidercave2 line:0
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 56
+ event: 200/82_spidercave2
+M2MoveScriptItem <TYPE.MOVE> :: 移動先が通行できないため、移動を確定しません。
+EV::end - 200/82_spidercave2
+EV::start - _TSUKKOMI line:0
+EV::end - _TSUKKOMI
+EV::start - 200/82_spidercave2 line:72
+アクティブな動作物がありません: WAIT_MOVE
+ - string: WAIT_MOVE, line: 99
+ event: 200/82_spidercave2
+EV::end - 200/82_spidercave2
+EV::start - 200/83_spidercave_flashback line:0
+ロードポイント: Line 13
+EV::end - 200/83_spidercave_flashback
+EV::start - 200/84_spider_comes line:0
+assign: Alice200
+assign: Treasure_mg_blackhole
+EV::end - 200/84_spider_comes
+assign: NoelCane
+ロードポイント: Line 14
+EV::start - 200/85_spider_activate line:0
+SUMMONER_TYPE (act:False) タイプを 130 => 18 に設定
+OPEN SUMMONER FROM EVENT!
+skill_difficulty_restrict is 2
+フェイタルキー spider
+Opened summoner reader: mount_spider_coroseum
+EV::end - 200/85_spider_activate
+EV::start - %M2EVENTCOMMAND__@mount_spider_coroseum~Treasure_mg_blackhole__CHECK line:40
+EV::end - %M2EVENTCOMMAND__@mount_spider_coroseum~Treasure_mg_blackhole__CHECK
+assign: HONEYCOMB_0_0
+assign: SYABON_0_1
+assign: SYABON_0_2
+assign: BOSS_SPIDER_0_3
+EV::start - 200/86_first_spider_event line:0
+EV::end - 200/86_first_spider_event
+assign: NoelCane
+EV::start - __M2D_GAMEOVER line:0
+EV::end - __M2D_GAMEOVER
+EV::start - __M2D_FINISH_SUMMONER line:0
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_FLUSHED_PUPPETNPC line:0
+EV::end - __M2D_FLUSHED_PUPPETNPC
+EV::start - __M2D_FINISH_SUMMONER line:14
+EV::end - __M2D_FINISH_SUMMONER
+EV::start - __M2D_GAMEOVER line:86
+Summoner mount_spider_coroseum is closed
+map_close:: mount_spider_coroseum
+全てのマップを再構築
+Atlas Texture Created: M2ImageAtlas=>2048,2048 / format:R8G8B8A8_UNorm
+map_open:: mount_spider_entrance
+assign: Noel
+assign: ExitT_ttt
+assign: ExitL_cannonct
+assign: ExitL_cannonrb
+assign: ExitR_woodleft
+assign: Breakable_mount_spiderent_tt-hit
+assign: ExitR_spe
+assign: Ev__puzzle/saisenswitch_0.png__19.39286_57.16071-mv
+assign: ladder__puzzle/saisenswitch_1.png__18.39286_28.16072-mv
+assign: Nightingale
+assign: NoelCane
+assign: Switch_0_Ev__puzzle/saisenswitch_0.png__19.39286_57.16071
+assign: Switch_1_ladder__puzzle/saisenswitch_1.png__18.39286_28.16072
+既にイベントSwitch_0_Ev__puzzle/saisenswitch_0.png__19.39286_57.16071が存在します
+既にイベントSwitch_1_ladder__puzzle/saisenswitch_1.png__18.39286_28.16072が存在します
+assign: bench__lift__obj/bench.png__22.58928_40.67857
+M2EventContainer::reload - コマンドの再読み込みを実行:mount_spider_entrance  
+危険度を 0 に設定
+EV::end - __M2D_GAMEOVER
+EV::start - ___Other/fatal line:0
+fatal scene spider start.

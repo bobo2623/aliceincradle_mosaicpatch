@@ -1,0 +1,11 @@
+error detected: 000000 
+Version: 0.29j @Win
+Microsoft Windows NT 10.0.19043.0
+// ======================
+SND activated:: Spatial sound Enabled
+SCENE TITLE AWAKEN 
+CRIWARE error: W2022102720:Failed to register AudioSessionContorl. (HRESULT = 0x80004001).
+Load Event Lang: zh-cn
+オプションの読み込みを開始
+オプションの読み込みを開始
+V-Sync enabled
